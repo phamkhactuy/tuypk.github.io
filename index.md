@@ -1,5 +1,7 @@
-## Welcome to GitHub Pages
-[Xin chào](https://phamkhactuy.github.io/tuypk.github.io/hello.html)
+## Note file
+[Quay lại trang chủ](https://phamkhactuy.github.io/tuypk.github.io/index.html)
+
+[Hello](https://phamkhactuy.github.io/tuypk.github.io/hello.html)
 
 You can use the [editor on GitHub](https://github.com/phamkhactuy/tuypk.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
