@@ -40,6 +40,13 @@ OK, quay lại việc chính, do hôm trước vận lộn mình đã cài đặ
 - Làm tools để thao tác các công việc phát sinh update trực tiếp vào DB mà thường xuyên phải làm
 - Sử dụng pentaho quản lý các công việc như trích xuất data
 
+
+
+
+### Link hay cần lưu
+1. [Hãy sống như là ngày bạn sống cuối cùng](http://goldennguyen.com/dmenh/)
+
+
 You can use the [editor on GitHub](https://github.com/phamkhactuy/tuypk.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
