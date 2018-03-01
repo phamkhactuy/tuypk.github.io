@@ -34,6 +34,10 @@ OK, quay lại việc chính, do hôm trước vận lộn mình đã cài đặ
 
 => Bài học: Ban đầu suy nghĩ hay là do DB nhưng không phải, ta cần cẩn thận khi tiến hành cài đặt hay sửa đổi các biến môi trường, thư mục... vì có thể ảnh hưởng tới các phần mềm khác, luôn trong trạng thái lỗi là do mình do client chứ k phải lỗi từ Server.
 
+### Cải tiến công việc
+
+- Làm tools để thao tác các công việc phát sinh update trực tiếp vào DB mà thường xuyên phải làm
+- Sử dụng pentaho quản lý các công việc như trích xuất data
 
 You can use the [editor on GitHub](https://github.com/phamkhactuy/tuypk.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
