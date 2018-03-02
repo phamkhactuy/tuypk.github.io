@@ -5,6 +5,9 @@
 
 [Temp](https://phamkhactuy.github.io/tuypk.github.io/temp.html)
 
+[Link hay](https://phamkhactuy.github.io/tuypk.github.io/linkhay.html)
+
+[Note](https://phamkhactuy.github.io/tuypk.github.io/note.html)
 
 
 ### Tải các chương trình cài đặt không được
@@ -41,10 +44,6 @@ OK, quay lại việc chính, do hôm trước vận lộn mình đã cài đặ
 - Sử dụng pentaho quản lý các công việc như trích xuất data
 
 
-
-
-### Link hay cần lưu
-1. [Hãy sống như là ngày bạn sống cuối cùng](http://goldennguyen.com/dmenh/)
 
 
 You can use the [editor on GitHub](https://github.com/phamkhactuy/tuypk.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
