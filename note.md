@@ -27,6 +27,7 @@ Tran Thi Khanh Van (Ms.) Assistant to General Director  0988787188
 
 - Địa phận Hưng Yên chăn nuôi và đa phần bây giờ đất để trồng cây không trồng lúa nữa gây ra ô nhiễm nhiều, các mương đen ngòm, mùi hôi thối cũng nhiều và nồng nặc. Tới địa phận Hải Dương thì đỡ hơn rất nhiều.
 
+- Tuy đẹp trai
 
 - 
 “Ngẫm hay muôn sự tại Trời.
