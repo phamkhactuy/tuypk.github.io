@@ -9,4 +9,3 @@ set BRANCH = "origin"
 %GIT_PATH% commit -am "Auto-committed on %date%"
 %GIT_PATH% pull %BRANCH%
 %GIT_PATH% push %BRANCH%
-pause
