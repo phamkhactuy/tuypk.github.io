@@ -21,7 +21,7 @@ Tran Thi Khanh Van (Ms.) Assistant to General Director  0988787188
 
 
 ### 02/03/2018
-- Nay cảm thấy chán chán thế nào ý
+- Nay dfdfdfdfdfcảm thấy chán chán thế nào ý
 
 - Đi về quê ăn Tết bằng xe máy đi qua đường gom là một trải nghiệm tuyệt vời
 
