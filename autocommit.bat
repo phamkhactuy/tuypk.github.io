@@ -1,5 +1,3 @@
-@echo off
-echo type "commit" or "update"
 cd "C:\Users\pktuy\Downloads\PKTUY\B\tuypk.github.io"
 
 set GIT_PATH="C:\Program Files\Git\bin\git.exe"
