@@ -1,5 +1,5 @@
 @echo off 
-cd "C:\Users\pktuy\Downloads\PKTUY\B\tuypk.github.io"
+cd "C:\Users\pktuy\Downloads\PKTUY\GITHUB\tuypk.github.io"
 
 set GIT_PATH="C:\Program Files\Git\bin\git.exe"
 set BRANCH = "origin"
