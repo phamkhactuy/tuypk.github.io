@@ -12,8 +12,9 @@
 + 
 - Dịch bài từ tiếng anh sang tiếng việt
 
-
- 
+https://www.facebook.com/mshoatoeic/?hc_ref=ARQbpdF1ZTEvq02omqJKb3lquNGt2PfyM1Faalr4jaK6145-9rHsn_FLgGn2bjeAcpI
+https://www.facebook.com/mshoatoeic/posts/1735982609795933?hc_location=ufi
+ https://www.facebook.com/tienganhgiaotiep.dinhcao/
 
 ### 08/03/2018
 
