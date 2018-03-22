@@ -59,7 +59,6 @@ Nguyen Mai Thanh +(84) (0) 983 24 14 76
 - Địa phận Hưng Yên chăn nuôi và đa phần bây giờ đất để trồng cây không trồng lúa nữa gây ra ô nhiễm nhiều, các mương đen ngòm, mùi hôi thối cũng nhiều và nồng nặc. Tới địa phận Hải Dương thì đỡ hơn rất nhiều.
 
 
-
 - 
 “Ngẫm hay muôn sự tại Trời.
 
