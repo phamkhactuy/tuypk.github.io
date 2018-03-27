@@ -85,6 +85,11 @@ An toàn khi có điều gì đó xảy ra với code của ta như lỡ tay xó
 
 Bài này được dẫn trực tiếp từ blog của tôi: [Link](http://tukyonline.com/posts/2018/03/15/tu-dong-hoa-viec-commit-va-push-code-len-server/)
 
+
+
+Dịch: https://recast.ai/blog/infographics-the-chatbot-ecosystem-in-2018-from-builders-to-analytics/
+https://towardsdatascience.com/the-top-5-best-chatbot-and-natural-language-processing-to-build-ai-for-your-business-3efea313d8db
+
 [Quay lại trang chủ](https://phamkhactuy.github.io/tuypk.github.io/index.html)
 
 
