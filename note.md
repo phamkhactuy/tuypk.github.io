@@ -77,5 +77,8 @@ Cho thanh cao, mới được phần thanh cao”
 - Không biết mình lựa chọn công ty mới này có đúng không? Đúng là việc viết query này của mình khá là gà. :(
 
 
+### Viết ra ký ức
+#28.03.2018
+Nhìn ảnh của bạn Phượng (bạn cùng phòng với Loan) mà lại
 
 [Quay lại trang chủ](https://phamkhactuy.github.io/tuypk.github.io/index.html)
