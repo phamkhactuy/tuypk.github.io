@@ -76,9 +76,14 @@ Cho thanh cao, mới được phần thanh cao”
 
 - Không biết mình lựa chọn công ty mới này có đúng không? Đúng là việc viết query này của mình khá là gà. :(
 
+### 29/03/2018
+- Cảm giác mệt mỏi khó chịu trong người, không biết có phải do thời tiết thay đổi hay do cuối tuần trước uống rượu không nữa
+
 
 ### Viết ra ký ức
 #28.03.2018
-Nhìn ảnh của bạn Phượng (bạn cùng phòng với Loan) mà lại
+Nhìn ảnh của bạn Phượng (bạn cùng phòng với Loan) mà lại nhớ thời sinh viên vô tư quá
+#29/03/2018
+
 
 [Quay lại trang chủ](https://phamkhactuy.github.io/tuypk.github.io/index.html)
