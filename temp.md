@@ -89,6 +89,33 @@ Bài này được dẫn trực tiếp từ blog của tôi: [Link](http://tukyo
 and  TO_CHAR(laa.datcre, 'YYYYMMDD HH24:MI:SS') >= '20180406 19:00:00' 
 and  TO_CHAR(laa.datcre, 'YYYYMMDD HH24:MI:SS') < '20180407 00:00:01' 
 
+Oracle so sánh thời gian ngày tháng - Oracle compare date time
+Trong quá trình sử dụng Oracle PL/SQL ta có cần so sánh cột thời gian theo một khung thời gian:
+- So sánh ngày:
+Ta tiến hành convert dữ liệu dạng ngày sang kiểu string và tiến hành so sánh:
+ví dụ:
+Cần lấy ngày tạo lớn hơn hoặc bằng ngày 06/04/2018
+AND TO_CHAR(datecreate, 'YYYYMMDD') >= '20180406'
+Hoặc trong một khoảng ngày:
+Cách 1: 
+AND TO_CHAR(datecreate, 'YYYYMMDD') >= '20180406'
+AND TO_CHAR(datecreate, 'YYYYMMDD') < '20180411'
+Cách 2:
+AND TO_CHAR(datecreate, 'YYYYMMDD') between '20180406' and '20180410'
+
+- So sánh ngày chi tiết tới thời gian:
+Ta tiến hành convert dữ liệu dạng ngày sang kiểu string và tiến hành so sánh:
+ví dụ:
+Cần lấy ngày tạo lớn hơn hoặc bằng 7h tối ngày 06/04/2018
+AND  TO_CHAR(laa.datcre, 'YYYYMMDD HH24:MI:SS') >= '20180406 19:00:00' 
+Hoặc trong một khoảng thời gian:
+Cách 1:
+and  TO_CHAR(laa.datcre, 'YYYYMMDD HH24:MI:SS') >= '20180406 19:00:00' 
+and  TO_CHAR(laa.datcre, 'YYYYMMDD HH24:MI:SS') < '20180407 00:00:01' 
+Cách 2:
+and  TO_CHAR(laa.datcre, 'YYYYMMDD HH24:MI:SS') between '20180406 19:00:00' and '20180407 00:00:00' 
+
+
 
 
 Dịch: https://recast.ai/blog/infographics-the-chatbot-ecosystem-in-2018-from-builders-to-analytics/
