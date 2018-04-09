@@ -85,6 +85,10 @@ An toàn khi có điều gì đó xảy ra với code của ta như lỡ tay xó
 
 Bài này được dẫn trực tiếp từ blog của tôi: [Link](http://tukyonline.com/posts/2018/03/15/tu-dong-hoa-viec-commit-va-push-code-len-server/)
 
+# So sánh giờ phút giây trên Oracle
+and  TO_CHAR(laa.datcre, 'YYYYMMDD HH24:MI:SS') >= '20180406 19:00:00' 
+and  TO_CHAR(laa.datcre, 'YYYYMMDD HH24:MI:SS') < '20180407 00:00:01' 
+
 
 
 Dịch: https://recast.ai/blog/infographics-the-chatbot-ecosystem-in-2018-from-builders-to-analytics/
