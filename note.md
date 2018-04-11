@@ -80,6 +80,11 @@ Cho thanh cao, mới được phần thanh cao”
 - Cảm giác mệt mỏi khó chịu trong người, không biết có phải do thời tiết thay đổi hay do cuối tuần trước uống rượu không nữa
 ### 06/04/2018
 - Đêm hôm qua thế nào mà tự dưng mê ngủ với bạn Hoa học cấp 3, Hpa BJ cho mình chứ @@
+### 11/04/2018
+- Nay tự nhiên người cảm thấy oải oải, có thể do lâu lắm nay mình không có vận động gì cả. :(
+- Tối nay về thử xem xét đi bộ dạo xem ntn
+
+
 
 ### Viết ra ký ức
 #28.03.2018
