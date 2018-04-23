@@ -83,7 +83,9 @@ Cho thanh cao, mới được phần thanh cao”
 ### 11/04/2018
 - Nay tự nhiên người cảm thấy oải oải, có thể do lâu lắm nay mình không có vận động gì cả. :(
 - Tối nay về thử xem xét đi bộ dạo xem ntn
-
+### 23/04/2018
+- Sáng nay tỉnh dậy sao trong người cảm thấy mệt mỏi nhỉ? Không biết có phải do thầy Hùng nói chuyện hôm trước rằng tưởng mình phải lương cao, mình cứ trầm trầm bình bình vậy thông à. Không như bạn Hưởng đi đây đi đó lương cao.
+- Mục đích sống của mình là gì nhỉ, công việc...
 
 
 ### Viết ra ký ức
