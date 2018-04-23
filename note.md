@@ -86,7 +86,7 @@ Cho thanh cao, mới được phần thanh cao”
 ### 23/04/2018
 - Sáng nay tỉnh dậy sao trong người cảm thấy mệt mỏi nhỉ? Không biết có phải do thầy Hùng nói chuyện hôm trước rằng tưởng mình phải lương cao, mình cứ trầm trầm bình bình vậy thông à. Không như bạn Hưởng đi đây đi đó lương cao.
 - Mục đích sống của mình là gì nhỉ, công việc...
-
+- Lùm xùm vụ cho pin vào cafe: Có thể do đối thủ các hãng cafe nước ngoài hạ cafe việt nam, đám lều báo lại tưởng hay lao vào xâu xé
 
 ### Viết ra ký ức
 #28.03.2018
