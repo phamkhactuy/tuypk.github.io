@@ -89,6 +89,19 @@ Cho thanh cao, mới được phần thanh cao”
 - Lùm xùm vụ cho pin vào cafe: Có thể do đối thủ các hãng cafe nước ngoài hạ cafe việt nam, đám lều báo lại tưởng hay lao vào xâu xé
 ### 02/05/2018
 - Tiền tiền tiền, mệt thật đấy nhỉ.
+- Trống rỗng, buồn ngủ, chả thấy thiết làm gì cả. :(
+- Please speak English with me
+- OK, My plesure
+- It's not difficult to speak English.
+- You're right. It's pretty eazy if you practice enapver.
+- Everything is ready.
+- Great! Thanks for all your help.
+- Practice makes perfect
+- I totally agree. I just need to find more time to practice
+- My mother is a wonderfull teacher
+- That's tryfic. What does your father do?
+
+
 
 ### Viết ra ký ức
 #28.03.2018
