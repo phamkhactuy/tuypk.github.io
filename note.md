@@ -90,7 +90,7 @@ Cho thanh cao, mới được phần thanh cao”
 ### 02/05/2018
 - Tiền tiền tiền, mệt thật đấy nhỉ.
 - Trống rỗng, buồn ngủ, chả thấy thiết làm gì cả. :(
-- Giang Linh sinh em bé, check xem ntn, liệu có chửa trước không.
+- Giang Linh sinh em bé, check xem ntn, liệu có chửa trước không: Cưới 22/10/2017, đẻ 30/04/2018 -> Chửa trước.
 - Viết cho một ngày trống rỗng
 - Please speak English with me
 - OK, My plesure
