@@ -92,22 +92,25 @@ Cho thanh cao, mới được phần thanh cao”
 - Trống rỗng, buồn ngủ, chả thấy thiết làm gì cả. :(
 - Giang Linh sinh em bé, check xem ntn, liệu có chửa trước không: Cưới 22/10/2017, đẻ 30/04/2018 -> Chửa trước.
 - Viết cho một ngày trống rỗng
+
 - Please speak English with me
-- OK, My plesure
+- OK, My pleasure
 - It's not difficult to speak English.
-- You're right. It's pretty eazy if you practice enapver.
+- You're right. It's pretty easy if you practice enough.
 - Everything is ready.
 - Great! Thanks for all your help.
 - Practice makes perfect
 - I totally agree. I just need to find more time to practice
-- My mother is a wonderfull teacher
-- That's tryfic. What does your father do?
+- My mother is a wonderful teacher
+- That's terrific. What does your father do?
 
 
 
 ### Viết ra ký ức
 #28.03.2018
 Nhìn ảnh của bạn Phượng (bạn cùng phòng với Loan) mà lại nhớ thời sinh viên vô tư quá
+#03/05/2018
+
 #29/03/2018
 https://docs.google.com/spreadsheets/d/1j8hfKt6DrJ4zNXCMc4XPUvonyoCAViBQF_lgAcTl8Yo/edit#gid=1591099190
 
