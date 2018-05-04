@@ -104,9 +104,10 @@ Cho thanh cao, mới được phần thanh cao”
 - My mother is a wonderful teacher
 - That's terrific. What does your father do?
 
+### 04/05/2018
 Loay hoay với một chữ tình,
-
 Ngoài ba mươi vẫn thấy mình ngẩn ngơ.
+- Áp lực kinh tế, muốn xây nhà và có ô tô để đi về quê cho sướng mà vẫn cứ lười, không có hướng gì làm cho ngon nghẻ cả. :(
 
 ### Viết ra ký ức
 #28.03.2018
