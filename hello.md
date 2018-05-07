@@ -46,4 +46,22 @@ Thanks for reminding me. I almost forgot.
 + America and Vietnam should always work together
 You're absolutely right.
 
+#
+- Please speak English with me
+OK, MY pleasure
+- It's not difficult to speak English
+You're right. It's pretty easy if you practice enough
+- Everything is ready
+Great! Thanks for all your help
+- Practice makes perfect
+I totally agree. I juts need to find more time to practice
+- My mother is a wonderful teacher
+That's terrific. What does your father do?
+- He speaks perfect English
+I know. I really envy him.
+- Remember to call your mother
+Thanks for reminding me. I almost forgot.
+- America and Vietnam should always work together
+You're absolutely right.
+
 [Quay lại trang chủ](https://phamkhactuy.github.io/tuypk.github.io/index.html)
