@@ -109,6 +109,10 @@ Loay hoay với một chữ tình,
 Ngoài ba mươi vẫn thấy mình ngẩn ngơ.
 - Áp lực kinh tế, muốn xây nhà và có ô tô để đi về quê cho sướng mà vẫn cứ lười, không có hướng gì làm cho ngon nghẻ cả. :(
 
+### 08/05/2018
+Chán đời quá nhỉ, muốn chết đi quá. Mệt mỏi cuộc đời.
+
+
 ### Viết ra ký ức
 #28.03.2018
 Nhìn ảnh của bạn Phượng (bạn cùng phòng với Loan) mà lại nhớ thời sinh viên vô tư quá
