@@ -111,6 +111,10 @@ Ngoài ba mươi vẫn thấy mình ngẩn ngơ.
 
 ### 08/05/2018
 Chán đời quá nhỉ, muốn chết đi quá. Mệt mỏi cuộc đời.
+Thở dài
+Trầm cảm
+Không chia sẻ được với ai
+Người lớn cô đơn
 
 
 ### Viết ra ký ức
