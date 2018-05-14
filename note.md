@@ -121,6 +121,8 @@ Buồn ngủ vãi cả đái
 Chán cuộc sống gia đình, mệt mỏi, mệt người với con vợ
 Lập trình bụp bụp, chán vãi cả đái
 Điên mất
+Thực chất mình mới là kẻ cô đơn nhất
+
 
 ### Viết ra ký ức
 #28.03.2018
