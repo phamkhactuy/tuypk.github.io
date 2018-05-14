@@ -122,6 +122,13 @@ Chán cuộc sống gia đình, mệt mỏi, mệt người với con vợ
 Lập trình bụp bụp, chán vãi cả đái
 Điên mất
 Thực chất mình mới là kẻ cô đơn nhất
+Sáng không chịu ăn gì, đói. Mà có ăn cũng đéo nuốt nổi. Cuộc đời là bể khổ, là địa ngục.
+Phác thảo về cái chết của chính mình.
+Buồn ngủ sắp sập tới nơi rồi.
+Muốn làm mà cũng chả muốn làm. Chết đếb nơi rồi
+
+
+
 
 
 ### Viết ra ký ức
