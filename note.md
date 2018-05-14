@@ -119,6 +119,8 @@ Buồn ngủ vãi cả đái
 
 ### 14/05/2018
 Chán cuộc sống gia đình, mệt mỏi, mệt người với con vợ
+Lập trình bụp bụp, chán vãi cả đái
+Điên mất
 
 ### Viết ra ký ức
 #28.03.2018
