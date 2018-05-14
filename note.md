@@ -117,6 +117,9 @@ Không chia sẻ được với ai
 Người lớn cô đơn
 Buồn ngủ vãi cả đái
 
+### 14/05/2018
+Chán cuộc sống gia đình, mệt mỏi, mệt người với con vợ
+
 ### Viết ra ký ức
 #28.03.2018
 Nhìn ảnh của bạn Phượng (bạn cùng phòng với Loan) mà lại nhớ thời sinh viên vô tư quá
