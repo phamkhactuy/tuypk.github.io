@@ -126,6 +126,7 @@ Sáng không chịu ăn gì, đói. Mà có ăn cũng đéo nuốt nổi. Cuộc
 Phác thảo về cái chết của chính mình.
 Buồn ngủ sắp sập tới nơi rồi.
 Muốn làm mà cũng chả muốn làm. Chết đếb nơi rồi
+Chờ mãi mới được có nửa tiếng, tôi đi chết đây.
 
 
 
