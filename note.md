@@ -128,8 +128,8 @@ Buồn ngủ sắp sập tới nơi rồi.
 Muốn làm mà cũng chả muốn làm. Chết đếb nơi rồi
 Chờ mãi mới được có nửa tiếng, tôi đi chết đây.
 Không phải do tối hôm trước đi uống bia về rồi lại tắm đâu, do tâm lý chán chường thôi. Tối qua cứ cho là 1h mới ngủ đi, thì nay cũng ngủ dc 6,5 tiếng rồi.
-
-
+Thèm xoạc cơ, chán đời vcl
+Còn chả muốn về nhà nữa, mệt mỏi
 
 
 
