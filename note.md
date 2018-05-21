@@ -134,6 +134,8 @@ Còn chả muốn về nhà nữa, mệt mỏi
 ### 21/05/2018
 Dự kiến từ hôm qua rồi. Cảm thấy mệt mỏi quá. Hôm qua quay tay ngủ muộn  tầm 1h đêm mới ngủ. Thế là mất ngủ k ngủ được, sáng thì phải dậy sớm. Mới sáng thì ra đã bực mình.
 Vợ có thể có thai. :( hay :) đây?
+Thấy chán không có hứng thú làm việc gì cả.
+Buồn đái mà cũng chả muốn đi đái.
 
 ### Viết ra ký ức
 #28.03.2018
