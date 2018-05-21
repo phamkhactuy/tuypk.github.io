@@ -136,6 +136,9 @@ Dự kiến từ hôm qua rồi. Cảm thấy mệt mỏi quá. Hôm qua quay ta
 Vợ có thể có thai. :( hay :) đây?
 Thấy chán không có hứng thú làm việc gì cả.
 Buồn đái mà cũng chả muốn đi đái.
+Hôm nay là một ngày không thành công.
+
+### 22/05/2018
 
 ### Viết ra ký ức
 #28.03.2018
