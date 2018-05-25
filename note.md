@@ -93,17 +93,6 @@ Cho thanh cao, mới được phần thanh cao”
 - Giang Linh sinh em bé, check xem ntn, liệu có chửa trước không: Cưới 22/10/2017, đẻ 30/04/2018 -> Chửa trước.
 - Viết cho một ngày trống rỗng
 
-- Please speak English with me
-- OK, My pleasure
-- It's not difficult to speak English.
-- You're right. It's pretty easy if you practice enough.
-- Everything is ready.
-- Great! Thanks for all your help.
-- Practice makes perfect
-- I totally agree. I just need to find more time to practice
-- My mother is a wonderful teacher
-- That's terrific. What does your father do?
-
 ### 04/05/2018
 Loay hoay với một chữ tình,
 Ngoài ba mươi vẫn thấy mình ngẩn ngơ.
