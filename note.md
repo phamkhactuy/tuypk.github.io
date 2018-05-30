@@ -128,6 +128,17 @@ Buồn đái mà cũng chả muốn đi đái.
 Hôm nay là một ngày không thành công.
 
 ### 22/05/2018
+- Trồng lan
++ Thỉnh thoảng tưới nước vo gạo
++ Lấy bã cafe cho vào giấy dai đắp vào gốc lan.
+
+
+### 30/05/2018
+
+create directory EXTRACT_2018 AS '/u02/oracle/utl/extract/201806';
+
+Select Directory_Name,Directory_Path From Dba_Directories;
+
 
 ### Viết ra ký ức
 #28.03.2018
