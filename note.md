@@ -134,10 +134,27 @@ Hôm nay là một ngày không thành công.
 
 
 ### 30/05/2018
+Định nghĩa DBA Directory để có thể extract dữ liệu ra thư mục bằng SQL
+
+Oracle không cho phép câu lệnh SQL thao tác trực tiếp xuống thư mục của hệ điều hành. Nhưng Oracle lại cho phép ta thao tác với thư mục thông qua biến môi trường.
+- Xem danh sách các Directory đã được tạo:
+Select Directory_Name,Directory_Path From Dba_Directories;
+
+- Tạo mới một Directory có tên là "EXTRACT_2018" được "map" với thư mục vật lý trên ổ cứng là "/u02/oracle/utl/extract/201806":
 
 create directory EXTRACT_2018 AS '/u02/oracle/utl/extract/201806';
 
-Select Directory_Name,Directory_Path From Dba_Directories;
+Từ đây ta có thể sử dụng DBA Directory này để tiến hành trích xuất dữ liệu với câu lệnh: wquery ra file csv:
+
+open rc for  wquery;
+	wfileh:=utl_file.fopen_nchar ('EXTRACT_2018','File_extracted'.csv', 'W');
+  loop
+	fetch rc into wline;
+	exit when rc%notfound;
+	utl_file.put_line_nchar(wfileh,wline);
+  end loop;
+close rc;
+   utl_file.fclose( wfileh );
 
 
 ### Viết ra ký ức
