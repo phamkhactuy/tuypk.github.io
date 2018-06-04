@@ -162,6 +162,10 @@ close rc;
 Nhìn ảnh của bạn Phượng (bạn cùng phòng với Loan) mà lại nhớ thời sinh viên vô tư quá
 #03/05/2018
 
+#Những điều cần ghi sau vụ đi du lịch
++ 
+
+
 #29/03/2018
 https://docs.google.com/spreadsheets/d/1j8hfKt6DrJ4zNXCMc4XPUvonyoCAViBQF_lgAcTl8Yo/edit#gid=1591099190
 
