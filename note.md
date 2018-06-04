@@ -163,7 +163,10 @@ Nhìn ảnh của bạn Phượng (bạn cùng phòng với Loan) mà lại nh�
 #03/05/2018
 
 #Những điều cần ghi sau vụ đi du lịch
-+ 
++ Sau 5 năm đi tàu hỏa có 1 số nhận định lại: vệ sinh trên tàu được sạch sẽ hơn. Nâng cấp việc sử dụng vé bằng việc có chữ mã Barcode
++ Ở đâu thì đàn ông cũng lôi bài ra đánh khi đi tàu hoặc những buổi tối ở khách sạn
++ Ở đâu thì đàn ông 
+
 
 
 #29/03/2018
