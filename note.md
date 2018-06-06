@@ -167,9 +167,14 @@ Nhìn ảnh của bạn Phượng (bạn cùng phòng với Loan) mà lại nh�
 + Ở đâu thì đàn ông cũng lôi bài ra đánh khi đi tàu hoặc những buổi tối ở khách sạn
 + Ở đâu thì đàn ông 
 
-
+#06/
 
 #29/03/2018
 https://docs.google.com/spreadsheets/d/1j8hfKt6DrJ4zNXCMc4XPUvonyoCAViBQF_lgAcTl8Yo/edit#gid=1591099190
+
+
+
+
+#Những Câu Nói Ngôn Tình
 
 [Quay lại trang chủ](https://phamkhactuy.github.io/tuypk.github.io/index.html)
