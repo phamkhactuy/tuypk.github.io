@@ -133,7 +133,8 @@ Hôm nay là một ngày không thành công.
 + Lấy bã cafe cho vào giấy dai đắp vào gốc lan.
 
 ### 18/06/2018
-ĐM cuộc sống gia đình, muốn sống 1 mình
+ĐM cuộc sống gia đình, muốn sống 1 mình.
+Lỡ mai tôi chết
 
 ### 30/05/2018
 Định nghĩa DBA Directory để có thể extract dữ liệu ra thư mục bằng SQL
