@@ -137,6 +137,15 @@ Hôm nay là một ngày không thành công.
 Lỡ mai tôi chết
 ### 19/06/2018
 Không thể chết, muốn chết cũng chả được, có con rồi mà, còn bố mẹ nữa
+### 20/06/2018
+### 21/06/2018
+Có phải 1 lựa chọn sai lầm cho cuộc đời này.
+Cô đơn
+Cô độc
+
+
+
+
 
 ### 30/05/2018
 Định nghĩa DBA Directory để có thể extract dữ liệu ra thư mục bằng SQL
