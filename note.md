@@ -144,7 +144,7 @@ Cô đơn
 Cô độc
 
 ### 02/07/2018
-Đêm qua lại mơ thấy em Quỳnh, mình cũng rõ ràng là mình đã có vợ con, nhưng đúng là anh em thôi, không có 1 chút linh tinh gì cả.
+Đêm qua lại mơ thấy em Quỳnh Tươi, mình cũng rõ ràng là mình đã có vợ con, nhưng đúng là anh em thôi, không có 1 chút linh tinh gì cả.
 
 
 
