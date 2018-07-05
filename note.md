@@ -145,32 +145,9 @@ Cô độc
 
 ### 02/07/2018
 Đêm qua lại mơ thấy em Quỳnh Tươi, mình cũng rõ ràng là mình đã có vợ con, nhưng đúng là anh em thôi, không có 1 chút linh tinh gì cả.
+### 05/07/2018
+Mấy hôm ốm + mệt vì gan hay mơ linh tinh thật ý. Buổi sáng nào cũng cảm thấy mệt mỏi.
 
-
-
-
-### 30/05/2018
-Định nghĩa DBA Directory để có thể extract dữ liệu ra thư mục bằng SQL
-
-Oracle không cho phép câu lệnh SQL thao tác trực tiếp xuống thư mục của hệ điều hành. Nhưng Oracle lại cho phép ta thao tác với thư mục thông qua biến môi trường.
-- Xem danh sách các Directory đã được tạo:
-Select Directory_Name,Directory_Path From Dba_Directories;
-
-- Tạo mới một Directory có tên là "EXTRACT_2018" được "map" với thư mục vật lý trên ổ cứng là "/u02/oracle/utl/extract/201806":
-
-create directory EXTRACT_2018 AS '/u02/oracle/utl/extract/201806';
-
-Từ đây ta có thể sử dụng DBA Directory này để tiến hành trích xuất dữ liệu với câu lệnh: wquery ra file csv:
-
-open rc for  wquery;
-	wfileh:=utl_file.fopen_nchar ('EXTRACT_2018','File_extracted'.csv', 'W');
-  loop
-	fetch rc into wline;
-	exit when rc%notfound;
-	utl_file.put_line_nchar(wfileh,wline);
-  end loop;
-close rc;
-   utl_file.fclose( wfileh );
 
 
 ### Viết ra ký ức
@@ -180,10 +157,10 @@ Nhìn ảnh của bạn Phượng (bạn cùng phòng với Loan) mà lại nh�
 
 #Những điều cần ghi sau vụ đi du lịch
 + Sau 5 năm đi tàu hỏa có 1 số nhận định lại: vệ sinh trên tàu được sạch sẽ hơn. Nâng cấp việc sử dụng vé bằng việc có chữ mã Barcode
-+ Ở đâu thì đàn ông cũng lôi bài ra đánh khi đi tàu hoặc những buổi tối ở khách sạn
-+ Ở đâu thì đàn ông 
++ Ở đâu thì đàn ông cũng lôi bài ra đánh khi đi tàu hoặc những buổi tối ở khách sạn.
++ Ở đâu thì đàn ông cũng bàn và đi gái mà thôi.
 
-#06/
+
 
 #29/03/2018
 https://docs.google.com/spreadsheets/d/1j8hfKt6DrJ4zNXCMc4XPUvonyoCAViBQF_lgAcTl8Yo/edit#gid=1591099190
