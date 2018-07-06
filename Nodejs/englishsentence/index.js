@@ -55,7 +55,7 @@ var arr3 = [
 'That\'s a wonderful attitude',
 'Believe in yourself',
 'I try but sometimes it is difficult. I lose confidence in myself to easily',
-'Dont\'n waste time',
+'Don\'t waste time',
 'I\'m working as fast as I can. Please be patient',
 'Let me know what you decide',
 'OK. I will give you a call when I make up my mind',
@@ -98,11 +98,20 @@ function getRandomInt(max) {
 var x=0;
 io.on('connection', function(socket){
     socket.on('chat message', function(msg){
-        io.emit('chat message', 'Hello, nhập 1 để bắt đầu.');
+        //io.emit('chat message', 'Hello, nhập 1 để bắt đầu.');
         if(msg=='1')
         {
             x=getRandomInt(82);
             io.emit('chat message', 'Nhập câu tương ứng: '+arr3[x]);
+        }
+        else if(msg=='2')
+        {
+            var y=0;
+            if(x%2 == 0)
+                y=x+1;
+            else
+                y=x-1;
+            io.emit('chat message','Đáp án: '+arr3[y]);
         }
         else
             {
@@ -111,26 +120,25 @@ io.on('connection', function(socket){
                     y=x+1;
                 else
                     y=x-1;
-                //console.log(msg);                  
-                //console.log(arr3[y]);    
                 if(msg.toLowerCase()==arr3[y].toLowerCase())
                 {
                     io.emit('chat message', 'Chính xác:');
                     if(x%2 == 0)
                     {
-                        io.emit('chat message', msg);
+                        io.emit('chat message', arr3[x]);
                         io.emit('chat message', arr3[y]);
                     }
                     else
                     {
                         io.emit('chat message', arr3[y]);
-                        io.emit('chat message', msg);
+                        io.emit('chat message', arr3[x]);
                     }
                     io.emit('chat message', 'Gõ 1 để tiếp tục:')
                 }
                 else
                 {
                     io.emit('chat message', 'Sai rồi, xin mời nhập lại.----->'+ msg);
+                    io.emit('chat message', 'Hoặc chịu nhục thì nhấn 2 để xem đáp án.');
                 }
             }
     });
