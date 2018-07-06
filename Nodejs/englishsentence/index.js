@@ -74,6 +74,7 @@ var arr3 = [
 'Do you do a lot of business in Vietnam?',
 'Yes. Our company is expanding all over VietNam',
 'This is a special local dish',
+'11111111111',
 'It\'s a pleasure to be here today',
 'We are honored to have you with us',
 'I need to use the bathroom',
