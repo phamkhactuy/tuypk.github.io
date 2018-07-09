@@ -101,3 +101,5 @@ The latest version is as attached. Thank you for your kind attention!
 Dear Nicolas,
 It’s OK for package P_aboapp, p_promo.
 Other packages must modify as our current version.
+Could you remind me the list of package we have to modify manually ?
+
