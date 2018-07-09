@@ -147,7 +147,9 @@ Cô độc
 Đêm qua lại mơ thấy em Quỳnh Tươi, mình cũng rõ ràng là mình đã có vợ con, nhưng đúng là anh em thôi, không có 1 chút linh tinh gì cả.
 ### 05/07/2018
 Mấy hôm ốm + mệt vì gan hay mơ linh tinh thật ý. Buổi sáng nào cũng cảm thấy mệt mỏi.
-
+### 09/07/2018
+Cuối tuần con ốm 2 hôm mà ở nhà mệt thật
+Con vợ mình cứ mỗi lần em trai về hoặc cháu ra chơi là y như rằng sinh sự, đúng là đàn bà rách việc thật ý
 
 
 ### Viết ra ký ức
