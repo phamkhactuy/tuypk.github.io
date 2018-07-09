@@ -152,6 +152,7 @@ Cuối tuần con ốm 2 hôm mà ở nhà mệt thật
 Con vợ mình cứ mỗi lần em trai về hoặc cháu ra chơi là y như rằng sinh sự, đúng là đàn bà rách việc thật ý
 Càng ngày càng cảm thấy cô đơn, có những người có thể tâm sự được thì sẽ nhẹ lòng, nhưng với mình thì từ bé chả nói được với ai. Tìm được một số người có thể trải lòng thì lại không được, không hiểu mình.
 => Em như con thuyền bé chưa gặp sóng đã chìm.
+http://chimviet.free.fr/tienchie/0054khaihung/khaihn01.htm
 
 
 ### Viết ra ký ức
