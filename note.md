@@ -150,6 +150,8 @@ Mấy hôm ốm + mệt vì gan hay mơ linh tinh thật ý. Buổi sáng nào c
 ### 09/07/2018
 Cuối tuần con ốm 2 hôm mà ở nhà mệt thật
 Con vợ mình cứ mỗi lần em trai về hoặc cháu ra chơi là y như rằng sinh sự, đúng là đàn bà rách việc thật ý
+Càng ngày càng cảm thấy cô đơn, có những người có thể tâm sự được thì sẽ nhẹ lòng, nhưng với mình thì từ bé chả nói được với ai. Tìm được một số người có thể trải lòng thì lại không được, không hiểu mình.
+=> Em như con thuyền bé chưa gặp sóng đã chìm.
 
 
 ### Viết ra ký ức
