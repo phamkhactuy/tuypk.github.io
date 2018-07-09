@@ -1,0 +1,103 @@
+VIETNAM SATELLITE DIGITAL TELEVISION COMPANY LTD.
+Address: 15th floor, Tower A, Handi RESCO Tower, 521 Kim Ma St., Ba Dinh Dist., Hanoi
+TEL: (84-4) 62726600 
+Mobile: (+84) 1649651481
+Email : pktuy@vstv.vn Website : www.kplus.vn
+New files updated in Jira.
+I have to submit the request with new files.
+Thank you so much for your help.
+Please use catalog files that I send you today.
+Request for upload just created: CPLUSAF-648.
+Please support to upload new catalog to pre-prod environment
+Thanks for your support.
+We are preparing for new offer.
+We will need your help to upload new catalog in next coming days.
+Please be noticed in advance.
+ 
+Please find attached the real time portfolio of the day by regions and platforms.
+
+Best regards,
+Please find attached K+ schedules of week 28/2018 (from July 07, 2018 to July 13, 2018) with highlight programs as below:
+Xin gửi mọi người lịch phát sóng các kênh K+ tuần 28, 2018 (từ ngày 07/07/2018 – 13/07/2018), với nhiều nội dung đặc sắc:
+
+1.	Sport/Thể thao
+Golf:
+PGA Tour 2018 A Military Tribute at The Greenbrier: July 06 – July 09, 2018 on K+PC
+
+2.   Movies/Phim truyện:
+•	Saturday, 20:00 on K+1: THE VILLAINESS/20h00 Thứ Bảy trên K+1: Ác nữ báo thù
+•	Sunday, 20:10 on K+1: ONCE UPON A TIME/20h10 Chủ nhật trên K+1: Tam sinh tam thế thập lý đào hoa
+•	Monday, 20:00 on K+1: The Taking of Tiger Mountain/20h00 Thứ Hai trên K+1: Trí thủ uy hổ sơn
+•	Tuesday, 20:00 on K+1: PAIN/20h00 Thứ Ba trên K+1: Nỗi đau
+•	Wednesday, 20:00 on K+1: STEEL COLD WINTER/20h00 Thứ Tư trên K+1: Tình yêu: Máu và tuyết
+•	Thursday, 20:00 on K+1: RISE OF THE LEGEND/20h00 Thứ Năm trên K+1: Hoàng Phi Hồng: Bí ẩn một huyền thoại
+•	Friday, 20:00 on K+1: NEW WORLD/20h00 Thứ Sáu trên K+1: Tân thế giới
+Cinema World, 22:45 Mon-Fri on K+1/Tối phim Nghệ thuật, 22h45 T2-T6 trên K+1
+•	Monday: Body Fat Index Of Love /Thứ 2: Chỉ số sức nặng của tình yêu
+•	Tuesday: Helen Dorn: Under Control/Thứ 3: Helen Dorn: Trong tầm kiểm soát
+•	Wednesday: One Of Us /Thứ 4: Một người trong chúng ta
+•	Thursday: Helen Dorn: The Untruthful Witness/Thứ 5: Helen Dorn
+•	Friday: Murder In Batz/Thứ 6: Vụ án mạng ở Batz
+3. Series/Phim bộ     
+ 
+K+1:
+•	Monday – Friday, 17:00:  Hawaii Five O S5/17h00 thứ Hai – thứ Sáu hàng tuần: CẢNH SÁT HAWAII (Phần 5)
+•	Monday – Friday, 22:00: Bull S2 /22h00 Tối thứ Hai – thứ Sáu hàng tuần: Tiến sĩ Bull P2
+ 
+K+NS:
+•	Monday- Friday, 20:00: Fox’s summer/20h00 Tối thứ Hai -Sáu: Mùa hè của hồ ly
+•	Monday - Friday, 21:00: The advisors alliance/21h00 Tối thứ Hai -Sáu: Liên minh quân sư
+•	Monday - Friday, 22:00: My secret romance/22h00 Tối thứ Hai -Sáu: Tình yêu diệu kỳ
+ 
+4. Other shows/Các chương trình giải trí
+•	Weekly Films and Stars_547: 11:30 Monday on K+1/Phim điện ảnh và những ngôi sao _547: 11h30 thứ Hai trên K+1
+•	Celebrity Scoop Ep.270: 11:30 Tuesday on K+1/Các cặp đôi Holywood Ep.270: 11h30 thứ Ba trên K+1
+•	Shows for Kids: 18:00, Monday – Friday on K+NS/Chương trình thiếu nhi: 18h00, thứ Hai – thứ Sáu trên K+NS
+
+Please do not hesitate to contact our Program if you have any questions
+Do we open window for myK+ and myK+NOW as well?
+Regarding to ICC Cup in July, we will have exclusive right on K+ channel from 21/7-11/8/2018 and BOD decided to offer open window for 2 days in order to increase the viewership then motivate customer to subscribe, so I would like to summarize as below for our kick-off of preparation.
+
+-	ICC Cup: from 21/7-11/8/2018
+-	Open window for 2 days of 21 and 22/7
++ Open free for all inactive DTH subs
++ Open free for all Co-dis/WS sub: Final partners who participate will be finalized next week 
+-	Communication for open window.
++ Mass communication: Timeline and budget will be proposed
++ Direct communication: Timeline and budget will be proposed
++ Communication with Co-dis/WS partner: Timeline and budget will be proposed
+-	Promotion after open window:
++ DTH: TBC
++ Co-dis/WS: TBC Tentative 100K/m until end of August
+-	ICC Teasing.
++ On K+ channels: Start from 5/7 as confirmed from Content Team. 
++ Other mass communication for teasing: Timeline and budget will be proposed. 
+
+Please give your comment and thank you for your preparation. 
+
+And can you send us the content of the table COD_CONFGRPTYPDE for the configuration PTVBOX?
+
+
+could you check and try if not ?
+It is difficult to extract the statement from the source code because it is generated dynamically.
+Anyway, we take into account the configurations defined in COD_GRPCONF and the configurations defined at the level of products.
+Can you check if you have something in the column COD_ARTICLE.CCONFIG?
+ 
+
+We would need your support for configuration of new OTT Box package on our webdist.
+Only the serialId of the STB is requested on that product (and the INDGMTA of that Box is set to 1), and today we have following display : 
+As you can see, for this offre and offreart, the requested equipment is at least 1 STB and 1 Smartcard.
+ 
+
+Thank you for your notice, I will re-arrange the time and content for better time slots
+
+MOMA is booked full message from 05/07/2018 to 10/07/2018 for MOMA High Light JULY 2018 by c. Châm CCD. Please adjust date sent MOMA or check with c. Châm CCD.
+Please support me on setting up the MOMA messages for the promotion with MoMo on 06th – 07th July 2018. Kindly look for detailed targets and message on the attached form and let me know if there are anything unclear. Thank you so much for your support!
+
+Below and attached are signature banners of content highlight in July 2018. Please update your signature by copying banners below and paste into the signature editor following this path in your mail box: New Email/Message/Signature.
+Kindly note that K+1 schedule has just been adjusted for week 28-2018. Accordingly, a series of special Vietnamese movies are broadcast at 18:00 and rerun at 9:30 on the following day from 9 to 13/7. 
+The latest version is as attached. Thank you for your kind attention!
+
+Dear Nicolas,
+It’s OK for package P_aboapp, p_promo.
+Other packages must modify as our current version.
