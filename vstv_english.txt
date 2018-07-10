@@ -103,3 +103,5 @@ It’s OK for package P_aboapp, p_promo.
 Other packages must modify as our current version.
 Could you remind me the list of package we have to modify manually ?
 
+Yesterday, I have been edit report subs_endding _1stinmonth and compile error miss some report.
+It has been re-ran successfully.
