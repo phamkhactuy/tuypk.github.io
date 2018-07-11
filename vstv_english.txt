@@ -105,3 +105,15 @@ Could you remind me the list of package we have to modify manually ?
 
 Yesterday, I have been edit report subs_endding _1stinmonth and compile error miss some report.
 It has been re-ran successfully.
+The first run of New WC2018 script look good
+Sounds goods. Need to check btw the data themselves because it’s only 1 minute and 32 seconds to insert coupon, moma and send file. I know the volume is not that high.
+Because lots of promotion where open since 1 month, I would like to make sure on a daily basis (except week-End), that the statement below returns only valid promotions : 
+Could you please followup and check strange cases if any ?
+I will put the SQL in our daily checking scripts.
+Could you support put this statement in daily report. I will follow.
+
+Done. 
+I put it at the "Promotion information " session.
+Yes. We need to check on the detail data also.
+
+
