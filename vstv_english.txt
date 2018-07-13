@@ -134,3 +134,5 @@ Please support to combine our production catalog as attach file with your produc
 And send us whole file soon.
  
 Thanks for your support.
+Please find attached merged files for production.
+I let you manage Jira ticket for production.
