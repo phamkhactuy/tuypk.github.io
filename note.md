@@ -153,7 +153,9 @@ Con vợ mình cứ mỗi lần em trai về hoặc cháu ra chơi là y như r�
 Càng ngày càng cảm thấy cô đơn, có những người có thể tâm sự được thì sẽ nhẹ lòng, nhưng với mình thì từ bé chả nói được với ai. Tìm được một số người có thể trải lòng thì lại không được, không hiểu mình.
 => Em như con thuyền bé chưa gặp sóng đã chìm.
 http://chimviet.free.fr/tienchie/0054khaihung/khaihn01.htm
-
+### 13/07/2018
+Thế nào đêm qua lại mơ đang quay về thời kỳ học cấp 2, cấp 3. Bàn thiếu, thường ngồi 4 mà mình đến sau mọi người ngồi hết rồi, phải ngồi thêm vào 1 bàn nào đó. Có bàn ngồi 5 đội Kỳ Sơn, bảo 4 con lợn, không phải lợn là Ly. Ly tự nhiên lúc đó trông ngực to nhưng vẫn thánh thiện như ngày nào.
+Nhưng lúc đó lại lướt qua hình ảnh con Ngân Nguyệt học cùng cấp 2 cũng ở trong lớp đó.
 
 ### Viết ra ký ức
 #28.03.2018
