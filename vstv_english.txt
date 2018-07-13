@@ -125,3 +125,12 @@ I added some accounting reports for Accounting team correct data as below:
 	Reports already got confirmation from Accounting team before apply to PROD.
 Modify crontab:
 -	I added job VN_EXTRACT_ENCCA that send to Accounting team every Monday:  40 08 * * Mon /u02/batch/VN_EXTRACT_LIST_ENCCA.sh
+Dear Josian and Zakaria,
+
+We are about to launch new offer named TVBOX on production in early morning  18/Jul/2018.
+The test is fine on pre-prod.
+
+Please support to combine our production catalog as attach file with your production catalog.
+And send us whole file soon.
+ 
+Thanks for your support.
