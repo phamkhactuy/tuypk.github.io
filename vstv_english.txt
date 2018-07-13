@@ -117,3 +117,11 @@ I put it at the "Promotion information " session.
 Yes. We need to check on the detail data also.
 
 maintenance in process, please retry try again later, sorry :(
+Dear all,
+I added some accounting reports for Accounting team correct data as below:
+-	List of ANOM with CAR report (p_vn_accounting.vn_send_listofcar): This report can be extracted by Accounting team. 
+-	List of ENCCA (p_vn_accounting_report.vn_extract_encca): this report automatically send to Accounting team every Monday.
+-	Procedure vn_OD_Amounts: support accounting team to correct data with same accounts adjustment but different amounts 
+	Reports already got confirmation from Accounting team before apply to PROD.
+Modify crontab:
+-	I added job VN_EXTRACT_ENCCA that send to Accounting team every Monday:  40 08 * * Mon /u02/batch/VN_EXTRACT_LIST_ENCCA.sh
