@@ -149,3 +149,6 @@ This view calculate the duration of each step of BIOS .
 We need this view to collect your statistics and monitoring the global duration.
  
 It’s not an urgent request.
+
+Since it is a technical confirmation and in fact, it is under Nicolas and his team’s management, could you please name Nicolas in your email rather than me next times ?
+
