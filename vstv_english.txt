@@ -139,3 +139,13 @@ I let you manage Jira ticket for production.
 
 Thanks Josian so much for your help.
 I will manage ticket in Jira
+
+If you want to check backup full on this server, a reason making server hang, let me know.
+
+
+Can you run joined request on BIOS ?
+ 
+This view calculate the duration of each step of BIOS .
+We need this view to collect your statistics and monitoring the global duration.
+ 
+It’s not an urgent request.
