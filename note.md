@@ -156,7 +156,8 @@ http://chimviet.free.fr/tienchie/0054khaihung/khaihn01.htm
 ### 13/07/2018
 Thế nào đêm qua lại mơ đang quay về thời kỳ học cấp 2, cấp 3. Bàn thiếu, thường ngồi 4 mà mình đến sau mọi người ngồi hết rồi, phải ngồi thêm vào 1 bàn nào đó. Có bàn ngồi 5 đội Kỳ Sơn, bảo 4 con lợn, không phải lợn là Ly. Ly tự nhiên lúc đó trông ngực to nhưng vẫn thánh thiện như ngày nào.
 Nhưng lúc đó lại lướt qua hình ảnh con Ngân Nguyệt học cùng cấp 2 cũng ở trong lớp đó.
-
+### 16/07/2018
+Thế nào lại mơ về Thảo thơm, đang học ĐH Công nghiệp thì chuyển về ĐH thương mại cùng lớp với Thảo. Chắc máu chịch quá. Lẫn lộn với cả cao học...
 ### Viết ra ký ức
 #28.03.2018
 Nhìn ảnh của bạn Phượng (bạn cùng phòng với Loan) mà lại nhớ thời sinh viên vô tư quá
