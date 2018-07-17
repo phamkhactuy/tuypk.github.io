@@ -152,3 +152,7 @@ It’s not an urgent request.
 
 Since it is a technical confirmation and in fact, it is under Nicolas and his team’s management, could you please name Nicolas in your email rather than me next times ?
 
+Yes. Please test to make sure the causing of disconnection not from Fullbackup.
+
+What I need to check is why the server have disconnection on two weekends in a row.
+
