@@ -156,3 +156,29 @@ Yes. Please test to make sure the causing of disconnection not from Fullbackup.
 
 What I need to check is why the server have disconnection on two weekends in a row.
 
+Dear Oracle Customer,
+
+The Critical Patch Update for July 2018 was released on July 17th, 2018.
+Oracle strongly recommends applying the patches as soon as possible.
+
+If you are new to this process, please review Oracle's Security Fixing Policies and the Critical Patch Update Advisory. After reviewing these resources, if you are unable to determine if you require a software update, or how to apply it, please contact Oracle Support. 
+
+The Critical Patch Update Advisory is the starting point for relevant information. 
+It includes the list of products affected, pointers to obtain the patches, a summary of the security vulnerabilities for each product suite, and links to other important documents. Supported products that are not listed in the "Affected Products and Components" section of the advisory do not require new patches to be applied.
+
+Also, it is essential to review the Critical Patch Update supporting documentation referenced in the Advisory before applying patches, as this is where you can find important pertinent information.
+Critical Patch Update Advisories are available at the following location:
+
+Oracle Technology Network: http://www.oracle.com/SecurityAlerts
+
+The Critical Patch Update Advisory for July 2018 is available at the following location:
+
+Oracle Technology Network: http://www.oracle.com/technetwork/security-advisory/cpujul2018-4258247.html
+
+Important information can also be found at: https://blogs.oracle.com/security/
+
+Oracle's Security Fixing Policies are available at the following location:
+
+http://www.oracle.com/support/assurance/vulnerability-remediation/security-fixing.html
+
+The next four dates for Critical Patch Updates are: 
