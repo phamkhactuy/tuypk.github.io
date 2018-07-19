@@ -182,3 +182,5 @@ Oracle's Security Fixing Policies are available at the following location:
 http://www.oracle.com/support/assurance/vulnerability-remediation/security-fixing.html
 
 The next four dates for Critical Patch Updates are: 
+
+Your requests are done.
