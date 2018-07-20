@@ -184,3 +184,22 @@ http://www.oracle.com/support/assurance/vulnerability-remediation/security-fixin
 The next four dates for Critical Patch Updates are: 
 
 Your requests are done.
+Dear Nicolas and Hương,
+
+Regarding to renewal methods I would like to update the plan as below:
+
+1.	Viettel renewal via USSD *995#: 
+Today subs have two options: 1) Use Telco Core balance and 2) use Telco Ipay balance for K+ renewal. And we have to turn off the option 2 from 1/8/2018 due to the new rule from MIC regarding to Telco card. 
+There will be no change for the method UI and IT system, Viettel just deactivate the option 2 when customer go to step “Confirm the payment option”
+
+2.	Viettel Pay e-wallet:
+We will launch Viettel Pay e-wallet from 25/7 tentatively. This is a e-wallet developed by Viettel, this method is exactly same as current Bankplus e-wallet (also developed by Viettel) that already on air for our subs for long time.
+For system preparation: No request from our side, Viettel will do adaptation basing on current Bankplus one and put on air.
+
+So kindly take  this note and we will request for support if any.
+
+Hi Dung,
+
+Thanks for the update. We understand that on IT side there will be no modification. Please confirm that in terms of analytics, we keep the same as current one : 
+                - Renew Viettel 
+                - Renew Bankplus.
