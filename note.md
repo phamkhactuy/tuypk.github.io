@@ -158,6 +158,9 @@ Thế nào đêm qua lại mơ đang quay về thời kỳ học cấp 2, cấp 
 Nhưng lúc đó lại lướt qua hình ảnh con Ngân Nguyệt học cùng cấp 2 cũng ở trong lớp đó.
 ### 16/07/2018
 Thế nào lại mơ về Thảo thơm, đang học ĐH Công nghiệp thì chuyển về ĐH thương mại cùng lớp với Thảo. Chắc máu chịch quá. Lẫn lộn với cả cao học...
+### 23/07/2018
+- Hôm thứ 6 mê vợ ngoại tình, thấy buồn. Gia đình cãi nhau
+- Chủ nhật, gia đình lục đục, cảm thấy chán nản, không còn muốn ở nhà nữa. Tối đau đầu quá, suốt ngày stress, cuối tuần được ngày nghỉ mà đau đầu như vậy.
 ### Viết ra ký ức
 #28.03.2018
 Nhìn ảnh của bạn Phượng (bạn cùng phòng với Loan) mà lại nhớ thời sinh viên vô tư quá
