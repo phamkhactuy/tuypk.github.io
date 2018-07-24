@@ -162,7 +162,24 @@ Thế nào lại mơ về Thảo thơm, đang học ĐH Công nghiệp thì chuy
 - Hôm thứ 6 mê vợ ngoại tình, thấy buồn. Gia đình cãi nhau
 - Chủ nhật, gia đình lục đục, cảm thấy chán nản, không còn muốn ở nhà nữa. Tối đau đầu quá, suốt ngày stress, cuối tuần được ngày nghỉ mà đau đầu như vậy.
 
+### Lỗi PL/SQL Developer không load được danh sách Database trong tnsnames.ora
 
+Để sử dụng được PL/SQL Developer trên window ta cần:
+- Server chứa Oracle để ta kết nối tới
+- Máy tính cần cài Oracle Client để kết nối
+- Phần mềm PL/SQL Developer để lập trình (Oracle Dev)
+- Chỉnh sửa file tnsnames.ora (D:\app\oracle\product\11.2.0\dbhome_1\NETWORK\ADMIN) để thiết lập Oracle Client đến Oracle Client
+
+Trong một số trường hợp sau khi có đủ các thứ trên nhưng khi bật PL/SQL Developer lên thì trong mục Database không thấy có danh sách các Oracle Server mà đã config trong file tnsnames.ora.
+
+Nguyên nhân xảy ra là do vì một lý do gì đó mà phần mềm PL/SQL Developer không tìm thấy file cấu hình tnsnames.ora để load. Để kiểm tra xem PL/SQL Developer có load đúng file tnsnames.ora không ta kiểm tra ở tab: Help->Support Info... -> TNS Names.
+
+Để giải quyết vấn đề này:
+Ta cmd vào thư mục được cài đặt phần mềm PL/SQL Developer: C:\Program Files (x86)\PLSQL Developer
+Chạy câu lệnh: plsqldev.exe TNS_ADMIN=D:\app\oracle\product\11.2.0\dbhome_1\NETWORK\ADMIN
+Với TNS_ADMIN=D:\app\oracle\product\11.2.0\dbhome_1\NETWORK\ADMIN là nơi chứa file tnsnames.ora mà ta cần.
+
+Khởi động lại PL/SQL Developer là OK.
 
 
 
