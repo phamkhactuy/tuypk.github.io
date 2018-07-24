@@ -203,3 +203,5 @@ Hi Dung,
 Thanks for the update. We understand that on IT side there will be no modification. Please confirm that in terms of analytics, we keep the same as current one : 
                 - Renew Viettel 
                 - Renew Bankplus.
+This will be strange . Till now we don't know the root cause of the BIOS Informatical Application Server hang.
+I will capture more information on the server if it hang again on this weekend.
