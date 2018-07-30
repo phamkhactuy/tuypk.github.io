@@ -166,6 +166,7 @@ Thế nào lại mơ về Thảo thơm, đang học ĐH Công nghiệp thì chuy
 - Thế nào lại mơ về bạn Thảo thơm. Mơ gì đó liên quan đến chụp ảnh tốt nghiệp hoặc kỷ niệm gì đó. Gặp Thảo và (chị em sinh đôi) gì đó, nói chuyện qua loa. Xinh
 - Có 2 em ít tuổi chắc 98, 99 có giúp đỡ gì đó. Mình nói có gia đình rồi, tất nhiên vẫn có chút ý đồ chén được thì chén. Haizz
 - Hôm qua ngủ sớm mà nay vẫn buồn ngủ, không phải mà là chả biết làm gì. Khả năng tự học, tự triển khai, tự làm quá kém. :( Thấy buồn ghê.
+- Ném vào biển rộng nỗi buồn.
 
 
 ### Lỗi PL/SQL Developer không load được danh sách Database trong tnsnames.ora
