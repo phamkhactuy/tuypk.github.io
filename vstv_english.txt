@@ -205,3 +205,19 @@ Thanks for the update. We understand that on IT side there will be no modificati
                 - Renew Bankplus.
 This will be strange . Till now we don't know the root cause of the BIOS Informatical Application Server hang.
 I will capture more information on the server if it hang again on this weekend.
+
+Thanks a lot for your help.
+Please help to fix it on tomorrow your time. The BIOS is critical to us on the ending and starting period of month.
+
+
+BIOS failed.
+
+It’s too late to fixe the problem.
+And it’s too difficult to explain how you can relaunched the process
+
+So I prefer to finish the process tomorrow morning
+
+I believe we know this bug so tomorrow, I will try to fixe it.
+
+Sorry for this problem
+

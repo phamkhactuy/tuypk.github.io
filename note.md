@@ -162,6 +162,12 @@ Thế nào lại mơ về Thảo thơm, đang học ĐH Công nghiệp thì chuy
 - Hôm thứ 6 mê vợ ngoại tình, thấy buồn. Gia đình cãi nhau
 - Chủ nhật, gia đình lục đục, cảm thấy chán nản, không còn muốn ở nhà nữa. Tối đau đầu quá, suốt ngày stress, cuối tuần được ngày nghỉ mà đau đầu như vậy.
 
+### 30/07/2018
+Thế nào lại mơ về bạn Thảo thơm. Mơ gì đó liên quan đến chụp ảnh tốt nghiệp hoặc kỷ niệm gì đó. Gặp Thảo và (chị em sinh đôi) gì đó, nói chuyện qua loa. Xinh
+Có 2 em ít tuổi chắc 98, 99 có giúp đỡ gì đó. Mình nói có gia đình rồi, tất nhiên vẫn có chút ý đồ chén được thì chén. Haizz
+
+
+
 ### Lỗi PL/SQL Developer không load được danh sách Database trong tnsnames.ora
 
 Để sử dụng được PL/SQL Developer trên window ta cần:
