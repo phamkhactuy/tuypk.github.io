@@ -207,6 +207,32 @@ Nhìn ảnh của bạn Phượng (bạn cùng phòng với Loan) mà lại nh�
 https://docs.google.com/spreadsheets/d/1j8hfKt6DrJ4zNXCMc4XPUvonyoCAViBQF_lgAcTl8Yo/edit#gid=1591099190
 
 
+1. Từ điển online phổ biến nhất thế giới
+http://www.thefreedictionary.com/
+2. Kho ebook miễn phí
+https://www.gutenberg.org/ 
+3. Web cực hữu ích cho học sinh sinh viên
+http://volunteerinternational.org/ 
+4. Luyện nghe tiếng Anh
+http://www.esl-lab.com/ 
+5. Kiến thức quản trị
+https://managementhelp.org/ 
+6. Thích nghi với cuộc sống hiện đại ngày nay
+http://www.lifehacker.co.uk/ 
+7. Các video chủ đề khoa học thú vị
+http://unplugthetv.com/ 
+8. Các bài diễn thuyết tạo động lực
+https://www.ted.com/ 
+9. Tạo trích dẫn và nguồn tham khảo
+http://www.bibme.org/ 
+10. Kiểm tra ngữ pháp
+https://app.grammarly.com/ 
+11. Học miễn phí rất nhiều lĩnh vực khác nhau
+https://www.khanacademy.org/ 
+12. Quản lý chi tiêu
+https://www.mint.com/
+13. Hơn 160 triệu tài liệu học tập 
+https://scholar.google.com.vn/
 
 
 #Những Câu Nói Ngôn Tình
