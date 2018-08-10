@@ -174,6 +174,7 @@ Thế nào lại mơ về Thảo thơm, đang học ĐH Công nghiệp thì chuy
 ### 10/08/2018
 - Đọc lại mấy đoạn chat của mình ngày trước với mọi người, mình thật bết bát quá.
 - Vợ thì suốt ngày muốn quản lý tiền, quản lý thì quản lý đi suốt ngày hỏi, mệt người.
+- Chán nhỉ?
 
 ### Lỗi PL/SQL Developer không load được danh sách Database trong tnsnames.ora
 
