@@ -171,6 +171,9 @@ Thế nào lại mơ về Thảo thơm, đang học ĐH Công nghiệp thì chuy
 ### 02/08/2018
 - Chết ở tuổi 27. :( trí và lực tiêu tan. Cơm áo gạo tiền. Haizz mệt mỏi quá.
 - Nay còn chả muốn về nhà: đường đời không lối về.
+### 10/08/2018
+- Đọc lại mấy đoạn chat của mình ngày trước với mọi người, mình thật bết bát quá.
+- Vợ thì suốt ngày muốn quản lý tiền, quản lý thì quản lý đi suốt ngày hỏi, mệt người.
 
 ### Lỗi PL/SQL Developer không load được danh sách Database trong tnsnames.ora
 
