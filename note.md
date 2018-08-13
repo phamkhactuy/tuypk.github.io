@@ -178,7 +178,7 @@ Thế nào lại mơ về Thảo thơm, đang học ĐH Công nghiệp thì chuy
 
 ### 13/08/2018
 - Trưa chắc tự đi cafe 1 mình quá @@
-
+- Trống rỗng quá :(
 
 ### Lỗi PL/SQL Developer không load được danh sách Database trong tnsnames.ora
 
