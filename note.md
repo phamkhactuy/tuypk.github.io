@@ -176,6 +176,10 @@ Thế nào lại mơ về Thảo thơm, đang học ĐH Công nghiệp thì chuy
 - Vợ thì suốt ngày muốn quản lý tiền, quản lý thì quản lý đi suốt ngày hỏi, mệt người.
 - Chán nhỉ?
 
+### 13/08/2018
+- Trưa chắc tự đi cafe 1 mình quá @@
+
+
 ### Lỗi PL/SQL Developer không load được danh sách Database trong tnsnames.ora
 
 Để sử dụng được PL/SQL Developer trên window ta cần:
