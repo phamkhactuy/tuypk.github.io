@@ -180,6 +180,9 @@ Thế nào lại mơ về Thảo thơm, đang học ĐH Công nghiệp thì chuy
 - Trưa chắc tự đi cafe 1 mình quá @@
 - Trống rỗng quá :(
 
+### 17/08/2018
+- Đang ngủ mà không dậy bế con => Vô trách nhiệm, vợ coi thường, mẹ mắng mỏ => Người đàn ông chẳng ra gì.
+- Mình không có tiền thôi, làm ra tiền thì auto đúng, mọi việc chả có gì khác.
 
 
 
