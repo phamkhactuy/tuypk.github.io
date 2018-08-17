@@ -183,7 +183,7 @@ Thế nào lại mơ về Thảo thơm, đang học ĐH Công nghiệp thì chuy
 ### 17/08/2018
 - Đang ngủ mà không dậy bế con => Vô trách nhiệm, vợ coi thường, mẹ mắng mỏ => Người đàn ông chẳng ra gì.
 - Mình không có tiền thôi, làm ra tiền thì auto đúng, mọi việc chả có gì khác.
-
+- Mệt thế nhỉ: công việc
 
 
 ### Viết ra ký ức
@@ -195,6 +195,7 @@ Nhìn ảnh của bạn Phượng (bạn cùng phòng với Loan) mà lại nh�
 + Sau 5 năm đi tàu hỏa có 1 số nhận định lại: vệ sinh trên tàu được sạch sẽ hơn. Nâng cấp việc sử dụng vé bằng việc có chữ mã Barcode
 + Ở đâu thì đàn ông cũng lôi bài ra đánh khi đi tàu hoặc những buổi tối ở khách sạn.
 + Ở đâu thì đàn ông cũng bàn và đi gái mà thôi.
+
 
 
 
