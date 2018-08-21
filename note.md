@@ -187,6 +187,9 @@ Thế nào lại mơ về Thảo thơm, đang học ĐH Công nghiệp thì chuy
 
 ### 21/08/2018
 - Cuộc sống thật mệt mỏi, có thể giải thoát cho cuộc sống này không?
+- Hôm qua chả làm gì, ngủ sớm mà vẫn buồn ngủ nhỉ, thấy mệt mỏi, nhức đầu thì đúng hơn. Hôm qua trong người cảm thấy thật khó chịu, nóng nực, bứt rứt.
+- Không biết có phải do 2 hôm uống rượu không mà nay thấy người ê ẩm và mỏi quá
+- Cô đơn giữa cuộc sống này thế nhỉ?
 
 ### Viết ra ký ức
 #28.03.2018
