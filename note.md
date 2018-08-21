@@ -185,6 +185,8 @@ Thế nào lại mơ về Thảo thơm, đang học ĐH Công nghiệp thì chuy
 - Mình không có tiền thôi, làm ra tiền thì auto đúng, mọi việc chả có gì khác.
 - Mệt thế nhỉ: công việc
 
+### 21/08/2018
+- Cuộc sống thật mệt mỏi, có thể giải thoát cho cuộc sống này không?
 
 ### Viết ra ký ức
 #28.03.2018
