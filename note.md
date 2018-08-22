@@ -191,6 +191,10 @@ Thế nào lại mơ về Thảo thơm, đang học ĐH Công nghiệp thì chuy
 - Không biết có phải do 2 hôm uống rượu không mà nay thấy người ê ẩm và mỏi quá
 - Cô đơn giữa cuộc sống này thế nhỉ?
 
+### 22/08/2018
+- Nay là 1 ngày sóng gió đây. :(
+
+
 ### Viết ra ký ức
 #28.03.2018
 Nhìn ảnh của bạn Phượng (bạn cùng phòng với Loan) mà lại nhớ thời sinh viên vô tư quá
