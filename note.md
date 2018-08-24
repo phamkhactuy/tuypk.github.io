@@ -1,6 +1,8 @@
 [Quay lại trang chủ](https://phamkhactuy.github.io/tuypk.github.io/index.html)
 
+# Nước sông Tô Lịch quá ô nhiễm, giải pháp nào cho vấn đề này nhỉ?
 
-#Những Câu Nói Ngôn Tình
+# Đi tàu hỏa lại tháng 5/2018: vệ sinh được cải thiện, còn tàu thì vẫn cũ như vậy.
+
 
 [Quay lại trang chủ](https://phamkhactuy.github.io/tuypk.github.io/index.html)
