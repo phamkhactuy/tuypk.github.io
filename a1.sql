@@ -1,8 +1,8 @@
 
-  procedure Vn_extract_inactive_subs(p_datdeb   varchar2,
+procedure Vn_extract_inactive_subs(p_datdeb   varchar2,
                                    p_datfin   varchar2,
                                    p_duration varchar2,
-                                   p_cardsdsdstype varchar2,
+                                   p_cardtype varchar2,
                                    p_cstat    varchar2,
                                    p_email    varchar2,
                                    P_numproc  usr_procedure.numproc%type) is
