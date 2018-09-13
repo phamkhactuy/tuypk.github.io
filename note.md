@@ -9,6 +9,7 @@
 ### 13/09/2018
 - Dù thế nào thì cũng bị tổn thương chứ :(
 - Chán nản cuộc đời.
+- Nứng cặc mà chán quá.
 
 
 [Quay lại trang chủ](https://phamkhactuy.github.io/tuypk.github.io/index.html)
