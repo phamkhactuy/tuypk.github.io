@@ -1,0 +1,4163 @@
+/* 1 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b3932"),
+    "url" : "http://www.oravn.com/index.php"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b3933"),
+    "url" : "http://www.oravn.com/oracle-database-administrator-f30/"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b3936"),
+    "url" : "http://www.oravn.com/#"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b3937"),
+    "url" : "http://www.oravn.com/memberlist.php?mode=email&t=35070"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b3938"),
+    "url" : "http://www.oravn.com/viewtopic.php?f=8&t=35070&start=0&&view=print"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b3939"),
+    "url" : "http://www.oravn.com/ucp.php"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b393a"),
+    "url" : "http://www.oravn.com/ucp.php?i=pm&folder=inbox"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b393c"),
+    "url" : "http://www.oravn.com/newposts.html"
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b393b"),
+    "url" : "http://www.oravn.com/member/pkt_zz/topics/"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b393e"),
+    "url" : "http://www.oravn.com/downloads.php"
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b393d"),
+    "url" : "http://www.oravn.com/faq.php"
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b3940"),
+    "url" : "http://www.oravn.com/ucp.php?mode=logout&sid=0570c8081cee7adb80ac643201141eaf"
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b3942"),
+    "url" : "http://www.oravn.com/t-i-u-hoa-f8/real-time-sql-monitoring-t35070.html"
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b3943"),
+    "url" : "http://www.oravn.com/posting.php?mode=reply&f=8&t=35070"
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b3941"),
+    "url" : "javascript:void(0)"
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b3944"),
+    "url" : "http://www.oravn.com/post77037.html#p77037"
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b3945"),
+    "url" : "http://www.oravn.com/member/lamgak/"
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b3947"),
+    "url" : "http://www.oravn.com/t-i-u-hoa-f8/real-time-sql-monitoring-t35070.html#p77037"
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b3949"),
+    "url" : "http://www.oravn.com/#"
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b394a"),
+    "url" : "http://download.oracle.com/technology/products/manageability/database/active-reports/faq_ctas.html"
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b393f"),
+    "url" : "http://www.oravn.com/memberlist.php"
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b3946"),
+    "url" : "http://www.oravn.com/ucp.php?i=pm&mode=compose&action=quotepost&p=77037"
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b3935"),
+    "url" : "http://www.oravn.com/"
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b3934"),
+    "url" : "http://www.oravn.com/t-i-u-hoa-f8/"
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("5b5ae2c8c1b69fbcbc4b3948"),
+    "url" : "http://www.oracle.com/technetwork/database/manageability/owp-sql-monitoring-128746.pdf"
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("5b5ae2c9c1b69fbcbc4b394b"),
+    "url" : "http://docs.oracle.com/cd/E11882_01/server.112/e41573/instance_tune.htm#PFGRF94543"
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("5b5ae2c9c1b69fbcbc4b394c"),
+    "url" : "http://www.oracle.com/technetwork/database/manageability/owp-sql-monitoring-128746.pdf"
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("5b5ae2c9c1b69fbcbc4b394d"),
+    "url" : "http://docs.oracle.com/cd/E11882_01/server.112/e16638/instance_tune.htm#PFGRF94543"
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("5b5ae2c9c1b69fbcbc4b394e"),
+    "url" : "http://www.oracle-base.com/articles/11g/real-time-sql-monitoring-11gr1.php"
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("5b5ae2c9c1b69fbcbc4b394f"),
+    "url" : "http://www.oravn.com/topic41274.html"
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("5b5ae2c9c1b69fbcbc4b3950"),
+    "url" : "http://www.oravn.com/member/tomtit/"
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("5b5ae2c9c1b69fbcbc4b3951"),
+    "url" : "http://www.oravn.com/topic38110.html"
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("5b5ae2c9c1b69fbcbc4b3952"),
+    "url" : "http://www.oravn.com/member/hongtham123/"
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("5b5ae2c9c1b69fbcbc4b3953"),
+    "url" : "http://www.oravn.com/topic34380.html"
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("5b5ae2cbc1b69fbcbc4b3954"),
+    "url" : "http://www.oravn.com/member/daitd/"
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("5b5ae2cbc1b69fbcbc4b3956"),
+    "url" : "http://www.oravn.com/member/likeoracle/"
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("5b5ae2cbc1b69fbcbc4b3955"),
+    "url" : "http://www.oravn.com/topic35525.html"
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("5b5ae2cbc1b69fbcbc4b3957"),
+    "url" : "http://www.oravn.com/topic35094.html"
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("5b5ae2cbc1b69fbcbc4b3958"),
+    "url" : "http://www.oravn.com/member/likeoracle/"
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("5b5ae2cbc1b69fbcbc4b3959"),
+    "url" : "http://www.oravn.com/report.php?f=8&p=77037"
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("5b5ae2cbc1b69fbcbc4b395a"),
+    "url" : "http://www.oravn.com/posting.php?mode=quote&f=8&p=77037"
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("5b5ae2cbc1b69fbcbc4b395b"),
+    "url" : "http://www.oravn.com/t-i-u-hoa-f8/real-time-sql-monitoring-t35070.html#wrap"
+}
+
+/* 43 */
+{
+    "_id" : ObjectId("5b5ae2cbc1b69fbcbc4b395c"),
+    "url" : "http://www.oravn.com/posting.php?mode=reply&f=8&t=35070"
+}
+
+/* 44 */
+{
+    "_id" : ObjectId("5b5ae2cbc1b69fbcbc4b395d"),
+    "url" : "http://www.oravn.com/t-i-u-hoa-f8/"
+}
+
+/* 45 */
+{
+    "_id" : ObjectId("5b5ae2cbc1b69fbcbc4b395e"),
+    "url" : "http://www.oravn.com/viewonline.php"
+}
+
+/* 46 */
+{
+    "_id" : ObjectId("5b5ae2cbc1b69fbcbc4b395f"),
+    "url" : "http://www.oravn.com/member/pkt_zz/"
+}
+
+/* 47 */
+{
+    "_id" : ObjectId("5b5ae2cbc1b69fbcbc4b3960"),
+    "url" : "http://www.oravn.com/"
+}
+
+/* 48 */
+{
+    "_id" : ObjectId("5b5ae2cbc1b69fbcbc4b3961"),
+    "url" : "http://www.oravn.com/viewtopic.php?uid=23816&f=8&t=35070&watch=topic&start=0&hash=eb4b3ba1"
+}
+
+/* 49 */
+{
+    "_id" : ObjectId("5b5ae2cbc1b69fbcbc4b3962"),
+    "url" : "http://www.oravn.com/viewtopic.php?f=8&t=35070&bookmark=1&hash=eb4b3ba1"
+}
+
+/* 50 */
+{
+    "_id" : ObjectId("5b5ae2cbc1b69fbcbc4b3963"),
+    "url" : "http://www.oravn.com/the-team.html"
+}
+
+/* 51 */
+{
+    "_id" : ObjectId("5b5ae2cbc1b69fbcbc4b3964"),
+    "url" : "http://www.oravn.com/ucp.php?mode=delete_cookies"
+}
+
+/* 52 */
+{
+    "_id" : ObjectId("5b5ae2cbc1b69fbcbc4b3965"),
+    "url" : "http://www.oravn.com/maps/"
+}
+
+/* 53 */
+{
+    "_id" : ObjectId("5b5ae2cbc1b69fbcbc4b3966"),
+    "url" : "http://www.oravn.com/sitemapindex.xml"
+}
+
+/* 54 */
+{
+    "_id" : ObjectId("5b5ae2cbc1b69fbcbc4b3967"),
+    "url" : "http://www.oravn.com/rss/news/rss.xml"
+}
+
+/* 55 */
+{
+    "_id" : ObjectId("5b5ae2cbc1b69fbcbc4b3968"),
+    "url" : "http://www.oravn.com/rss/news/"
+}
+
+/* 56 */
+{
+    "_id" : ObjectId("5b5ae2cbc1b69fbcbc4b3969"),
+    "url" : "http://www.phpbb.com/"
+}
+
+/* 57 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b396b"),
+    "url" : "https://www.w3schools.com/"
+}
+
+/* 58 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b396c"),
+    "url" : "javascript:void(0);"
+}
+
+/* 59 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b396d"),
+    "url" : "https://www.w3schools.com/default.asp"
+}
+
+/* 60 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b396e"),
+    "url" : "https://www.w3schools.com/html/default.asp"
+}
+
+/* 61 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b396f"),
+    "url" : "https://www.w3schools.com/css/default.asp"
+}
+
+/* 62 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3970"),
+    "url" : "https://www.w3schools.com/js/default.asp"
+}
+
+/* 63 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3971"),
+    "url" : "https://www.w3schools.com/sql/default.asp"
+}
+
+/* 64 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3972"),
+    "url" : "https://www.w3schools.com/php/default.asp"
+}
+
+/* 65 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3973"),
+    "url" : "https://www.w3schools.com/bootstrap/default.asp"
+}
+
+/* 66 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3974"),
+    "url" : "https://www.w3schools.com/howto/default.asp"
+}
+
+/* 67 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3975"),
+    "url" : "https://www.w3schools.com/jquery/default.asp"
+}
+
+/* 68 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3976"),
+    "url" : "https://www.w3schools.com/w3css/default.asp"
+}
+
+/* 69 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3977"),
+    "url" : "https://www.w3schools.com/angular/default.asp"
+}
+
+/* 70 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3978"),
+    "url" : "https://www.w3schools.com/xml/default.asp"
+}
+
+/* 71 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3979"),
+    "url" : "javascript:void(0);"
+}
+
+/* 72 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b397a"),
+    "url" : "javascript:void(0);"
+}
+
+/* 73 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b397b"),
+    "url" : "https://www.w3schools.com/forum/default.asp"
+}
+
+/* 74 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b397c"),
+    "url" : "javascript:void(0);"
+}
+
+/* 75 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b397d"),
+    "url" : "javascript:void(0);"
+}
+
+/* 76 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b397e"),
+    "url" : "javascript:void(0);"
+}
+
+/* 77 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b397f"),
+    "url" : "https://www.w3schools.com/html/default.asp"
+}
+
+/* 78 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3980"),
+    "url" : "https://www.w3schools.com/css/default.asp"
+}
+
+/* 79 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3981"),
+    "url" : "https://www.w3schools.com/w3css/default.asp"
+}
+
+/* 80 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3982"),
+    "url" : "https://www.w3schools.com/colors/default.asp"
+}
+
+/* 81 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3983"),
+    "url" : "https://www.w3schools.com/bootstrap/default.asp"
+}
+
+/* 82 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3984"),
+    "url" : "https://www.w3schools.com/bootstrap4/default.asp"
+}
+
+/* 83 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3985"),
+    "url" : "https://www.w3schools.com/graphics/default.asp"
+}
+
+/* 84 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3986"),
+    "url" : "https://www.w3schools.com/howto/default.asp"
+}
+
+/* 85 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3987"),
+    "url" : "https://www.w3schools.com/icons/default.asp"
+}
+
+/* 86 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3988"),
+    "url" : "https://www.w3schools.com/js/default.asp"
+}
+
+/* 87 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3989"),
+    "url" : "https://www.w3schools.com/jquery/default.asp"
+}
+
+/* 88 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3994"),
+    "url" : "https://www.w3schools.com/w3css/w3css_templates.asp"
+}
+
+/* 89 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3995"),
+    "url" : "https://www.w3schools.com/browsers/default.asp"
+}
+
+/* 90 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3993"),
+    "url" : "https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp"
+}
+
+/* 91 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3992"),
+    "url" : "https://www.w3schools.com/nodejs/default.asp"
+}
+
+/* 92 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3991"),
+    "url" : "https://www.w3schools.com/asp/default.asp"
+}
+
+/* 93 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b3990"),
+    "url" : "https://www.w3schools.com/php/default.asp"
+}
+
+/* 94 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b398f"),
+    "url" : "https://www.w3schools.com/python/default.asp"
+}
+
+/* 95 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b398e"),
+    "url" : "https://www.w3schools.com/sql/default.asp"
+}
+
+/* 96 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b398d"),
+    "url" : "https://www.w3schools.com/w3js/default.asp"
+}
+
+/* 97 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b398c"),
+    "url" : "https://www.w3schools.com/js/js_ajax_intro.asp"
+}
+
+/* 98 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b398b"),
+    "url" : "https://www.w3schools.com/js/js_json_intro.asp"
+}
+
+/* 99 */
+{
+    "_id" : ObjectId("5b5ae437c1b69fbcbc4b398a"),
+    "url" : "https://www.w3schools.com/angular/default.asp"
+}
+
+/* 100 */
+{
+    "_id" : ObjectId("5b5ae438c1b69fbcbc4b3996"),
+    "url" : "https://www.w3schools.com/cert/default.asp"
+}
+
+/* 101 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b3997"),
+    "url" : "https://www.w3schools.com/tryit/default.asp"
+}
+
+/* 102 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b3998"),
+    "url" : "https://www.w3schools.com/xml/default.asp"
+}
+
+/* 103 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b3999"),
+    "url" : "https://www.w3schools.com/xml/ajax_intro.asp"
+}
+
+/* 104 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b399a"),
+    "url" : "https://www.w3schools.com/xml/dom_intro.asp"
+}
+
+/* 105 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b399b"),
+    "url" : "https://www.w3schools.com/xml/xml_dtd_intro.asp"
+}
+
+/* 106 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b399c"),
+    "url" : "https://www.w3schools.com/xml/schema_intro.asp"
+}
+
+/* 107 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b399d"),
+    "url" : "https://www.w3schools.com/xml/xsl_intro.asp"
+}
+
+/* 108 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b399e"),
+    "url" : "https://www.w3schools.com/xml/xpath_intro.asp"
+}
+
+/* 109 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b399f"),
+    "url" : "https://www.w3schools.com/xml/xquery_intro.asp"
+}
+
+/* 110 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39a0"),
+    "url" : "https://www.w3schools.com/tags/default.asp"
+}
+
+/* 111 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39a1"),
+    "url" : "https://www.w3schools.com/tags/ref_eventattributes.asp"
+}
+
+/* 112 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39a2"),
+    "url" : "https://www.w3schools.com/colors/default.asp"
+}
+
+/* 113 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39a3"),
+    "url" : "https://www.w3schools.com/tags/ref_canvas.asp"
+}
+
+/* 114 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39a4"),
+    "url" : "https://www.w3schools.com/tags/ref_attributes.asp"
+}
+
+/* 115 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39a5"),
+    "url" : "https://www.w3schools.com/graphics/svg_reference.asp"
+}
+
+/* 116 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39a6"),
+    "url" : "https://www.w3schools.com/graphics/google_maps_reference.asp"
+}
+
+/* 117 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39a7"),
+    "url" : "https://www.w3schools.com/charsets/default.asp"
+}
+
+/* 118 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39a8"),
+    "url" : "https://www.w3schools.com/charsets/ref_html_ascii.asp"
+}
+
+/* 119 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39a9"),
+    "url" : "https://www.w3schools.com/charsets/ref_html_ansi.asp"
+}
+
+/* 120 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39aa"),
+    "url" : "https://www.w3schools.com/charsets/ref_html_ansi.asp"
+}
+
+/* 121 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39ab"),
+    "url" : "https://www.w3schools.com/charsets/ref_html_8859.asp"
+}
+
+/* 122 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39ac"),
+    "url" : "https://www.w3schools.com/charsets/ref_html_symbols.asp"
+}
+
+/* 123 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39ad"),
+    "url" : "https://www.w3schools.com/charsets/ref_html_utf8.asp"
+}
+
+/* 124 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39b0"),
+    "url" : "https://www.w3schools.com/cssref/css_selectors.asp"
+}
+
+/* 125 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39b9"),
+    "url" : "https://www.w3schools.com/jsref/default.asp"
+}
+
+/* 126 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39ba"),
+    "url" : "https://www.w3schools.com/jquery/jquery_ref_overview.asp"
+}
+
+/* 127 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39bb"),
+    "url" : "https://www.w3schools.com/angular/angular_ref_directives.asp"
+}
+
+/* 128 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39b8"),
+    "url" : "https://www.w3schools.com/jsref/default.asp"
+}
+
+/* 129 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39b7"),
+    "url" : "https://www.w3schools.com/xml/schema_elements_ref.asp"
+}
+
+/* 130 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39b6"),
+    "url" : "https://www.w3schools.com/xml/xsl_elementref.asp"
+}
+
+/* 131 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39b5"),
+    "url" : "https://www.w3schools.com/xml/dom_http.asp"
+}
+
+/* 132 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39b4"),
+    "url" : "https://www.w3schools.com/xml/dom_nodetype.asp"
+}
+
+/* 133 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39b3"),
+    "url" : "https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp"
+}
+
+/* 134 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39b2"),
+    "url" : "https://www.w3schools.com/icons/icons_reference.asp"
+}
+
+/* 135 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39b1"),
+    "url" : "https://www.w3schools.com/w3css/w3css_references.asp"
+}
+
+/* 136 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39af"),
+    "url" : "https://www.w3schools.com/cssref/css3_browsersupport.asp"
+}
+
+/* 137 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39ae"),
+    "url" : "https://www.w3schools.com/cssref/default.asp"
+}
+
+/* 138 */
+{
+    "_id" : ObjectId("5b5ae439c1b69fbcbc4b39bc"),
+    "url" : "https://www.w3schools.com/w3js/w3js_references.asp"
+}
+
+/* 139 */
+{
+    "_id" : ObjectId("5b5ae43ac1b69fbcbc4b39bd"),
+    "url" : "https://www.w3schools.com/php/php_ref_overview.asp"
+}
+
+/* 140 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39be"),
+    "url" : "https://www.w3schools.com/sql/sql_quickref.asp"
+}
+
+/* 141 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39bf"),
+    "url" : "https://www.w3schools.com/python/python_ref_functions.asp"
+}
+
+/* 142 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39c0"),
+    "url" : "https://www.w3schools.com/asp/asp_ref_response.asp"
+}
+
+/* 143 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39c1"),
+    "url" : "https://www.w3schools.com/html/html_examples.asp"
+}
+
+/* 144 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39c2"),
+    "url" : "https://www.w3schools.com/css/css_examples.asp"
+}
+
+/* 145 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39c3"),
+    "url" : "https://www.w3schools.com/w3css/w3css_examples.asp"
+}
+
+/* 146 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39c4"),
+    "url" : "https://www.w3schools.com/w3css/w3css_templates.asp"
+}
+
+/* 147 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39c5"),
+    "url" : "https://www.w3schools.com/bootstrap/bootstrap_examples.asp"
+}
+
+/* 148 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39c6"),
+    "url" : "https://www.w3schools.com/howto/default.asp"
+}
+
+/* 149 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39c7"),
+    "url" : "https://www.w3schools.com/js/js_examples.asp"
+}
+
+/* 150 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39c8"),
+    "url" : "https://www.w3schools.com/graphics/svg_examples.asp"
+}
+
+/* 151 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39c9"),
+    "url" : "https://www.w3schools.com/js/js_dom_examples.asp"
+}
+
+/* 152 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39ca"),
+    "url" : "https://www.w3schools.com/jquery/jquery_examples.asp"
+}
+
+/* 153 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39cb"),
+    "url" : "https://www.w3schools.com/angular/angular_examples.asp"
+}
+
+/* 154 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39cc"),
+    "url" : "https://www.w3schools.com/js/js_ajax_examples.asp"
+}
+
+/* 155 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39cd"),
+    "url" : "https://www.w3schools.com/w3js/w3js_examples.asp"
+}
+
+/* 156 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39ce"),
+    "url" : "https://www.w3schools.com/php/php_examples.asp"
+}
+
+/* 157 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39cf"),
+    "url" : "https://www.w3schools.com/asp/asp_examples.asp"
+}
+
+/* 158 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39d0"),
+    "url" : "https://www.w3schools.com/xml/xml_examples.asp"
+}
+
+/* 159 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39d1"),
+    "url" : "https://www.w3schools.com/xml/xsl_examples.asp"
+}
+
+/* 160 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39d2"),
+    "url" : "https://www.w3schools.com/xml/xpath_examples.asp"
+}
+
+/* 161 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39d3"),
+    "url" : "https://www.w3schools.com/xml/schema_example.asp"
+}
+
+/* 162 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39d4"),
+    "url" : "https://www.w3schools.com/graphics/svg_examples.asp"
+}
+
+/* 163 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39d5"),
+    "url" : "https://www.w3schools.com/quiztest/quiztest.asp?Qtest=HTML"
+}
+
+/* 164 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39d6"),
+    "url" : "https://www.w3schools.com/quiztest/quiztest.asp?Qtest=CSS"
+}
+
+/* 165 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39d7"),
+    "url" : "https://www.w3schools.com/quiztest/quiztest.asp?Qtest=JavaScript"
+}
+
+/* 166 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39d8"),
+    "url" : "https://www.w3schools.com/quiztest/quiztest.asp?Qtest=Bootstrap"
+}
+
+/* 167 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39d9"),
+    "url" : "https://www.w3schools.com/quiztest/quiztest.asp?Qtest=jQuery"
+}
+
+/* 168 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39da"),
+    "url" : "https://www.w3schools.com/quiztest/quiztest.asp?Qtest=PHP"
+}
+
+/* 169 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39db"),
+    "url" : "https://www.w3schools.com/quiztest/quiztest.asp?Qtest=SQL"
+}
+
+/* 170 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39dc"),
+    "url" : "https://www.w3schools.com/quiztest/quiztest.asp?Qtest=XML"
+}
+
+/* 171 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39dd"),
+    "url" : "javascript:void(0)"
+}
+
+/* 172 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39de"),
+    "url" : "https://www.w3schools.com/js/default.asp"
+}
+
+/* 173 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39df"),
+    "url" : "https://www.w3schools.com/js/js_intro.asp"
+}
+
+/* 174 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39e0"),
+    "url" : "https://www.w3schools.com/js/js_whereto.asp"
+}
+
+/* 175 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39e1"),
+    "url" : "https://www.w3schools.com/js/js_output.asp"
+}
+
+/* 176 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39e2"),
+    "url" : "https://www.w3schools.com/js/js_statements.asp"
+}
+
+/* 177 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39e3"),
+    "url" : "https://www.w3schools.com/js/js_syntax.asp"
+}
+
+/* 178 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39e4"),
+    "url" : "https://www.w3schools.com/js/js_comments.asp"
+}
+
+/* 179 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39e5"),
+    "url" : "https://www.w3schools.com/js/js_variables.asp"
+}
+
+/* 180 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39e6"),
+    "url" : "https://www.w3schools.com/js/js_operators.asp"
+}
+
+/* 181 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39e7"),
+    "url" : "https://www.w3schools.com/js/js_arithmetic.asp"
+}
+
+/* 182 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39e8"),
+    "url" : "https://www.w3schools.com/js/js_assignment.asp"
+}
+
+/* 183 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39e9"),
+    "url" : "https://www.w3schools.com/js/js_datatypes.asp"
+}
+
+/* 184 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39ea"),
+    "url" : "https://www.w3schools.com/js/js_functions.asp"
+}
+
+/* 185 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39eb"),
+    "url" : "https://www.w3schools.com/js/js_objects.asp"
+}
+
+/* 186 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39ec"),
+    "url" : "https://www.w3schools.com/js/js_events.asp"
+}
+
+/* 187 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39ed"),
+    "url" : "https://www.w3schools.com/js/js_strings.asp"
+}
+
+/* 188 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39ee"),
+    "url" : "https://www.w3schools.com/js/js_string_methods.asp"
+}
+
+/* 189 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39ef"),
+    "url" : "https://www.w3schools.com/js/js_numbers.asp"
+}
+
+/* 190 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39f0"),
+    "url" : "https://www.w3schools.com/js/js_number_methods.asp"
+}
+
+/* 191 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39f1"),
+    "url" : "https://www.w3schools.com/js/js_arrays.asp"
+}
+
+/* 192 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39f2"),
+    "url" : "https://www.w3schools.com/js/js_array_methods.asp"
+}
+
+/* 193 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39f3"),
+    "url" : "https://www.w3schools.com/js/js_array_sort.asp"
+}
+
+/* 194 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39f4"),
+    "url" : "https://www.w3schools.com/js/js_array_iteration.asp"
+}
+
+/* 195 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39f5"),
+    "url" : "https://www.w3schools.com/js/js_dates.asp"
+}
+
+/* 196 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39f6"),
+    "url" : "https://www.w3schools.com/js/js_date_formats.asp"
+}
+
+/* 197 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39f7"),
+    "url" : "https://www.w3schools.com/js/js_date_methods.asp"
+}
+
+/* 198 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39f8"),
+    "url" : "https://www.w3schools.com/js/js_date_methods_set.asp"
+}
+
+/* 199 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39f9"),
+    "url" : "https://www.w3schools.com/js/js_math.asp"
+}
+
+/* 200 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39fa"),
+    "url" : "https://www.w3schools.com/js/js_random.asp"
+}
+
+/* 201 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39fb"),
+    "url" : "https://www.w3schools.com/js/js_booleans.asp"
+}
+
+/* 202 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39fc"),
+    "url" : "https://www.w3schools.com/js/js_comparisons.asp"
+}
+
+/* 203 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39fd"),
+    "url" : "https://www.w3schools.com/js/js_if_else.asp"
+}
+
+/* 204 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39fe"),
+    "url" : "https://www.w3schools.com/js/js_switch.asp"
+}
+
+/* 205 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b39ff"),
+    "url" : "https://www.w3schools.com/js/js_loop_for.asp"
+}
+
+/* 206 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a00"),
+    "url" : "https://www.w3schools.com/js/js_loop_while.asp"
+}
+
+/* 207 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a01"),
+    "url" : "https://www.w3schools.com/js/js_break.asp"
+}
+
+/* 208 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a02"),
+    "url" : "https://www.w3schools.com/js/js_type_conversion.asp"
+}
+
+/* 209 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a03"),
+    "url" : "https://www.w3schools.com/js/js_bitwise.asp"
+}
+
+/* 210 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a04"),
+    "url" : "https://www.w3schools.com/js/js_regexp.asp"
+}
+
+/* 211 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a05"),
+    "url" : "https://www.w3schools.com/js/js_errors.asp"
+}
+
+/* 212 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a06"),
+    "url" : "https://www.w3schools.com/js/js_scope.asp"
+}
+
+/* 213 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a07"),
+    "url" : "https://www.w3schools.com/js/js_hoisting.asp"
+}
+
+/* 214 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a08"),
+    "url" : "https://www.w3schools.com/js/js_strict.asp"
+}
+
+/* 215 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a09"),
+    "url" : "https://www.w3schools.com/js/js_this.asp"
+}
+
+/* 216 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a0a"),
+    "url" : "https://www.w3schools.com/js/js_let.asp"
+}
+
+/* 217 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a0b"),
+    "url" : "https://www.w3schools.com/js/js_const.asp"
+}
+
+/* 218 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a0c"),
+    "url" : "https://www.w3schools.com/js/js_debugging.asp"
+}
+
+/* 219 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a0d"),
+    "url" : "https://www.w3schools.com/js/js_conventions.asp"
+}
+
+/* 220 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a0e"),
+    "url" : "https://www.w3schools.com/js/js_best_practices.asp"
+}
+
+/* 221 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a0f"),
+    "url" : "https://www.w3schools.com/js/js_mistakes.asp"
+}
+
+/* 222 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a10"),
+    "url" : "https://www.w3schools.com/js/js_performance.asp"
+}
+
+/* 223 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a11"),
+    "url" : "https://www.w3schools.com/js/js_reserved.asp"
+}
+
+/* 224 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a12"),
+    "url" : "https://www.w3schools.com/js/js_versions.asp"
+}
+
+/* 225 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a13"),
+    "url" : "https://www.w3schools.com/js/js_es5.asp"
+}
+
+/* 226 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a14"),
+    "url" : "https://www.w3schools.com/js/js_es6.asp"
+}
+
+/* 227 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a15"),
+    "url" : "https://www.w3schools.com/js/js_json.asp"
+}
+
+/* 228 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a16"),
+    "url" : "https://www.w3schools.com/js/js_validation.asp"
+}
+
+/* 229 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a17"),
+    "url" : "https://www.w3schools.com/js/js_validation_api.asp"
+}
+
+/* 230 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a18"),
+    "url" : "https://www.w3schools.com/js/js_object_definition.asp"
+}
+
+/* 231 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a19"),
+    "url" : "https://www.w3schools.com/js/js_object_properties.asp"
+}
+
+/* 232 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a1a"),
+    "url" : "https://www.w3schools.com/js/js_object_methods.asp"
+}
+
+/* 233 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a1b"),
+    "url" : "https://www.w3schools.com/js/js_object_constructors.asp"
+}
+
+/* 234 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a1c"),
+    "url" : "https://www.w3schools.com/js/js_object_prototypes.asp"
+}
+
+/* 235 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a1d"),
+    "url" : "https://www.w3schools.com/js/js_function_definition.asp"
+}
+
+/* 236 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a1e"),
+    "url" : "https://www.w3schools.com/js/js_function_parameters.asp"
+}
+
+/* 237 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a1f"),
+    "url" : "https://www.w3schools.com/js/js_function_invocation.asp"
+}
+
+/* 238 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a20"),
+    "url" : "https://www.w3schools.com/js/js_function_call.asp"
+}
+
+/* 239 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a21"),
+    "url" : "https://www.w3schools.com/js/js_function_apply.asp"
+}
+
+/* 240 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a22"),
+    "url" : "https://www.w3schools.com/js/js_function_closures.asp"
+}
+
+/* 241 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a23"),
+    "url" : "https://www.w3schools.com/js/js_htmldom.asp"
+}
+
+/* 242 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a24"),
+    "url" : "https://www.w3schools.com/js/js_htmldom_methods.asp"
+}
+
+/* 243 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a25"),
+    "url" : "https://www.w3schools.com/js/js_htmldom_document.asp"
+}
+
+/* 244 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a26"),
+    "url" : "https://www.w3schools.com/js/js_htmldom_elements.asp"
+}
+
+/* 245 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a27"),
+    "url" : "https://www.w3schools.com/js/js_htmldom_html.asp"
+}
+
+/* 246 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a28"),
+    "url" : "https://www.w3schools.com/js/js_htmldom_css.asp"
+}
+
+/* 247 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a29"),
+    "url" : "https://www.w3schools.com/js/js_htmldom_animate.asp"
+}
+
+/* 248 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a2a"),
+    "url" : "https://www.w3schools.com/js/js_htmldom_events.asp"
+}
+
+/* 249 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a2b"),
+    "url" : "https://www.w3schools.com/js/js_htmldom_navigation.asp"
+}
+
+/* 250 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a2c"),
+    "url" : "https://www.w3schools.com/js/js_htmldom_eventlistener.asp"
+}
+
+/* 251 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a2d"),
+    "url" : "https://www.w3schools.com/js/js_htmldom_nodes.asp"
+}
+
+/* 252 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a2e"),
+    "url" : "https://www.w3schools.com/js/js_htmldom_collections.asp"
+}
+
+/* 253 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a2f"),
+    "url" : "https://www.w3schools.com/js/js_htmldom_nodelist.asp"
+}
+
+/* 254 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a30"),
+    "url" : "https://www.w3schools.com/js/js_window.asp"
+}
+
+/* 255 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a31"),
+    "url" : "https://www.w3schools.com/js/js_window_screen.asp"
+}
+
+/* 256 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a32"),
+    "url" : "https://www.w3schools.com/js/js_window_location.asp"
+}
+
+/* 257 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a33"),
+    "url" : "https://www.w3schools.com/js/js_window_history.asp"
+}
+
+/* 258 */
+{
+    "_id" : ObjectId("5b5ae43bc1b69fbcbc4b3a34"),
+    "url" : "https://www.w3schools.com/js/js_window_navigator.asp"
+}
+
+/* 259 */
+{
+    "_id" : ObjectId("5b5ae535c1b69fbcbc4b3a35"),
+    "url" : "https://www.w3schools.com/js/js_ajax_http_send.asp"
+}
+
+/* 260 */
+{
+    "_id" : ObjectId("5b5ae535c1b69fbcbc4b3a36"),
+    "url" : "https://www.w3schools.com/js/js_ajax_http_response.asp"
+}
+
+/* 261 */
+{
+    "_id" : ObjectId("5b5ae535c1b69fbcbc4b3a37"),
+    "url" : "https://www.w3schools.com/js/js_ajax_applications.asp"
+}
+
+/* 262 */
+{
+    "_id" : ObjectId("5b5ae535c1b69fbcbc4b3a38"),
+    "url" : "https://www.w3schools.com/js/js_json_datatypes.asp"
+}
+
+/* 263 */
+{
+    "_id" : ObjectId("5b5ae535c1b69fbcbc4b3a39"),
+    "url" : "https://www.w3schools.com/js/js_json_arrays.asp"
+}
+
+/* 264 */
+{
+    "_id" : ObjectId("5b5ae535c1b69fbcbc4b3a3a"),
+    "url" : "https://www.w3schools.com/js/js_dom_examples.asp"
+}
+
+/* 265 */
+{
+    "_id" : ObjectId("5b5ae535c1b69fbcbc4b3a3b"),
+    "url" : "https://www.w3schools.com/js/js_events_examples.asp"
+}
+
+/* 266 */
+{
+    "_id" : ObjectId("5b5ae535c1b69fbcbc4b3a3c"),
+    "url" : "https://www.w3schools.com/js/js_exam.asp"
+}
+
+/* 267 */
+{
+    "_id" : ObjectId("5b5ae535c1b69fbcbc4b3a3d"),
+    "url" : "https://www.w3schools.com/js/tryit.asp?filename=tryjs_loc_host"
+}
+
+/* 268 */
+{
+    "_id" : ObjectId("5b5ae535c1b69fbcbc4b3a3e"),
+    "url" : "https://www.w3schools.com/js/tryit.asp?filename=tryjs_loc_pathname"
+}
+
+/* 269 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928c98"),
+    "url" : "https://quantrimang.com/"
+}
+
+/* 270 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928c99"),
+    "url" : "https://quantrimang.com/"
+}
+
+/* 271 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928c9a"),
+    "url" : "https://quantrimang.com/lang-cong-nghe"
+}
+
+/* 272 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928c9b"),
+    "url" : "https://quantrimang.com/cong-nghe"
+}
+
+/* 273 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928c9c"),
+    "url" : "https://quantrimang.com/khoa-hoc"
+}
+
+/* 274 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928c9d"),
+    "url" : "https://quantrimang.com/cuoc-song"
+}
+
+/* 275 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928c9e"),
+    "url" : "https://quantrimang.com/video"
+}
+
+/* 276 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928c9f"),
+    "url" : "https://quantrimang.com/ung-dung"
+}
+
+/* 277 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928ca0"),
+    "url" : "https://quantrimang.com/ios"
+}
+
+/* 278 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928ca1"),
+    "url" : "https://quantrimang.com/android"
+}
+
+/* 279 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928ca2"),
+    "url" : "https://quantrimang.com/lap-trinh"
+}
+
+/* 280 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928ca3"),
+    "url" : "https://quantrimang.com/windows-10-os"
+}
+
+/* 281 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928ca4"),
+    "url" : "https://quantrimang.com/"
+}
+
+/* 282 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928ca5"),
+    "url" : "https://quantrimang.com/cong-nghe"
+}
+
+/* 283 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928ca6"),
+    "url" : "https://quantrimang.com/kien-thuc-co-ban"
+}
+
+/* 284 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928ca7"),
+    "url" : "https://quantrimang.com/dinh-dang-imax-la-gi-151190"
+}
+
+/* 285 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928ca8"),
+    "url" : "https://quantrimang.com/chu-q-trong-qled-cua-tv-samsung-co-y-nghia-gi-148366"
+}
+
+/* 286 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928ca9"),
+    "url" : "https://quantrimang.com/tim-hieu-do-phan-giai-pho-bien-hien-nay-tren-tivi-121209"
+}
+
+/* 287 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928caa"),
+    "url" : "https://quantrimang.com/mang-5g-la-gi-130446"
+}
+
+/* 288 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cab"),
+    "url" : "https://quantrimang.com/youtube-mua-cong-ty-truyen-hinh-internet-cua-my-76316"
+}
+
+/* 289 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cac"),
+    "url" : "https://quantrimang.com/cac-cong-nghe-man-hinh-di-dong-75280"
+}
+
+/* 290 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cad"),
+    "url" : "https://quantrimang.com/nhung-do-cong-nghe-cao-loi-hen-nguoi-dung-64556"
+}
+
+/* 291 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cae"),
+    "url" : "https://quantrimang.com/iptv-truyen-hinh-cua-tuong-lai-40397"
+}
+
+/* 292 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928caf"),
+    "url" : "https://quantrimang.com/iptv-canh-tranh-voi-truyen-hinh-truyen-thong-22975"
+}
+
+/* 293 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cb0"),
+    "url" : "https://quantrimang.com/cach-choi-game-android-tren-may-tinh-bang-amiduos-155912"
+}
+
+/* 294 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cb1"),
+    "url" : "https://quantrimang.com/generic-trong-c-155962"
+}
+
+/* 295 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cb2"),
+    "url" : "https://quantrimang.com/huong-dan-nap-tien-vao-grabpay-155960"
+}
+
+/* 296 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cb3"),
+    "url" : "https://quantrimang.com/cach-bat-material-design-cua-chrome-tren-ios-155959"
+}
+
+/* 297 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cb4"),
+    "url" : "https://quantrimang.com/collection-trong-c-155956"
+}
+
+/* 298 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cb5"),
+    "url" : "https://quantrimang.com/samsung-lai-quang-cao-ve-pin-moi-2-nam-sau-tham-hoa-note-7-155957"
+}
+
+/* 299 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cb6"),
+    "url" : "https://quantrimang.com/nhung-ung-dung-hoan-toan-mien-phi-cua-windows-co-the-ban-chua-biet-79970"
+}
+
+/* 300 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cb7"),
+    "url" : "https://quantrimang.com/ve-tinh-vsat-ip-the-manh-o-bup-song-nho-17649"
+}
+
+/* 301 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cb8"),
+    "url" : "https://quantrimang.com/nganh-cong-nghiep-o-cung-dung-giua-hai-dong-nuoc-31546"
+}
+
+/* 302 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cb9"),
+    "url" : "https://quantrimang.com/8-loi-khuyen-khi-ban-muon-tu-lap-rap-may-tinh-65015"
+}
+
+/* 303 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cba"),
+    "url" : "https://quantrimang.com/14-meo-nho-huu-ich-danh-cho-may-tinh-118421"
+}
+
+/* 304 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cbb"),
+    "url" : "https://quantrimang.com/nhung-tu-khoa-tim-kiem-nguy-hiem-nhat-tren-internet-21401"
+}
+
+/* 305 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cbc"),
+    "url" : "https://quantrimang.com/kien-thuc-co-ban"
+}
+
+/* 306 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cbd"),
+    "url" : "https://quantrimang.com/11-thu-thuat-giup-ban-khac-phuc-loi-full-disk-100-tren-windows-8-1-112336"
+}
+
+/* 307 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cbe"),
+    "url" : "https://quantrimang.com/lam-the-nao-de-mo-file-word-excel-powerpoint-116981"
+}
+
+/* 308 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cbf"),
+    "url" : "https://quantrimang.com/huong-dan-tao-group-email-trong-gmail-84112"
+}
+
+/* 309 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cc0"),
+    "url" : "https://quantrimang.com/da-co-cach-tai-file-iso-cua-windows-10-tu-microsoft-116913"
+}
+
+/* 310 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cc1"),
+    "url" : "https://quantrimang.com/huong-dan-cach-tao-usb-cai-dat-windows-10-116910"
+}
+
+/* 311 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cc2"),
+    "url" : "https://quantrimang.com/bang-ma-vung-dien-thoai-quoc-te-148434"
+}
+
+/* 312 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cc3"),
+    "url" : "https://quantrimang.com/cach-kiem-tra-goi-cuoc-internet-mang-fpt-vnpt-viettel-dang-dung-147741"
+}
+
+/* 313 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cc4"),
+    "url" : "https://quantrimang.com/10-cach-su-dung-tinh-nang-paste-trong-excel-84371"
+}
+
+/* 314 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cc5"),
+    "url" : "https://quantrimang.com/10-viec-khong-nen-lam-khi-su-dung-may-tinh-97090"
+}
+
+/* 315 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cc6"),
+    "url" : "https://quantrimang.com/khac-biet-giua-windows-32bit-va-64bit-67517"
+}
+
+/* 316 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cc7"),
+    "url" : "https://www.facebook.com/quantrimang.com.vn"
+}
+
+/* 317 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cc8"),
+    "url" : "https://quantrimang.com/cong-nghe"
+}
+
+/* 318 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cc9"),
+    "url" : "https://quantrimang.com/ung-dung"
+}
+
+/* 319 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cca"),
+    "url" : "https://quantrimang.com/chat-nhan-tin-goi-dien"
+}
+
+/* 320 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928ccb"),
+    "url" : "https://quantrimang.com/mang-xa-hoi"
+}
+
+/* 321 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928ccc"),
+    "url" : "https://quantrimang.com/phan-mem-nhac"
+}
+
+/* 322 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928ccd"),
+    "url" : "https://quantrimang.com/tin-hoc-van-phong"
+}
+
+/* 323 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cce"),
+    "url" : "https://quantrimang.com/trinh-doc-email"
+}
+
+/* 324 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928ccf"),
+    "url" : "https://quantrimang.com/email"
+}
+
+/* 325 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cd0"),
+    "url" : "https://quantrimang.com/luu-tru-chia-se"
+}
+
+/* 326 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cd1"),
+    "url" : "https://quantrimang.com/trinh-duyet"
+}
+
+/* 327 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cd2"),
+    "url" : "https://quantrimang.com/chinh-sua-anh"
+}
+
+/* 328 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cd3"),
+    "url" : "https://quantrimang.com/thiet-ke-do-hoa"
+}
+
+/* 329 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cd4"),
+    "url" : "https://quantrimang.com/nen-va-giai-nen"
+}
+
+/* 330 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cd5"),
+    "url" : "https://quantrimang.com/phan-mem-chuyen-doi"
+}
+
+/* 331 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cd6"),
+    "url" : "https://quantrimang.com/ho-tro-download-upload"
+}
+
+/* 332 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cd7"),
+    "url" : "https://quantrimang.com/website-blog"
+}
+
+/* 333 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cd8"),
+    "url" : "https://quantrimang.com/phan-mem-gia-lap"
+}
+
+/* 334 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cd9"),
+    "url" : "https://quantrimang.com/ban-do-dinh-vi"
+}
+
+/* 335 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cda"),
+    "url" : "https://quantrimang.com/chinh-sua-video"
+}
+
+/* 336 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cdb"),
+    "url" : "https://quantrimang.com/thanh-toan-online"
+}
+
+/* 337 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cdc"),
+    "url" : "https://quantrimang.com/cai-dat-go-bo"
+}
+
+/* 338 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cdd"),
+    "url" : "https://quantrimang.com/free-license"
+}
+
+/* 339 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cde"),
+    "url" : "https://quantrimang.com/he-thong"
+}
+
+/* 340 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928cdf"),
+    "url" : "https://quantrimang.com/windows-10-os"
+}
+
+/* 341 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928ce0"),
+    "url" : "https://quantrimang.com/windows-8-os"
+}
+
+/* 342 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928ce1"),
+    "url" : "https://quantrimang.com/windows-7-os"
+}
+
+/* 343 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928ce2"),
+    "url" : "https://quantrimang.com/windows-xp"
+}
+
+/* 344 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928ce3"),
+    "url" : "https://quantrimang.com/ghost-cai-dat-windows"
+}
+
+/* 345 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928ce4"),
+    "url" : "https://quantrimang.com/sua-loi-may-tinh"
+}
+
+/* 346 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928ce5"),
+    "url" : "https://quantrimang.com/giaiphapbaomat"
+}
+
+/* 347 */
+{
+    "_id" : ObjectId("5b5ae54846fc21bae4928ce6"),
+    "url" : "https://quantrimang.com/diet-virus-spyware"
+}
+
+/* 348 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928ce7"),
+    "url" : "https://quantrimang.com/bao-mat-may-tinh"
+}
+
+/* 349 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928ce8"),
+    "url" : "https://quantrimang.com/lan-wan"
+}
+
+/* 350 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928ce9"),
+    "url" : "https://quantrimang.com/cau-hinh-router-switch"
+}
+
+/* 351 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928cea"),
+    "url" : "https://quantrimang.com/may-chu"
+}
+
+/* 352 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928ceb"),
+    "url" : "https://quantrimang.com/mail-server"
+}
+
+/* 353 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928cec"),
+    "url" : "https://quantrimang.com/thu-thuat-wifi"
+}
+
+/* 354 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928ced"),
+    "url" : "https://quantrimang.com/tang-toc-may-tinh"
+}
+
+/* 355 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928cee"),
+    "url" : "https://quantrimang.com/windows-server2012"
+}
+
+/* 356 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928cef"),
+    "url" : "https://quantrimang.com/hinh-nen-may-tinh"
+}
+
+/* 357 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928cf0"),
+    "url" : "https://quantrimang.com/game-tro-choi"
+}
+
+/* 358 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928cf1"),
+    "url" : "https://quantrimang.com/pokemon-go"
+}
+
+/* 359 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928cf2"),
+    "url" : "https://quantrimang.com/game-pc"
+}
+
+/* 360 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928cf3"),
+    "url" : "https://quantrimang.com/game-mobile"
+}
+
+/* 361 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928cf4"),
+    "url" : "https://quantrimang.com/choi-game-online"
+}
+
+/* 362 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928cf5"),
+    "url" : "https://quantrimang.com/ios"
+}
+
+/* 363 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928cf6"),
+    "url" : "https://quantrimang.com/thiet-lap-co-ban-ios"
+}
+
+/* 364 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928cf7"),
+    "url" : "https://quantrimang.com/du-lieu-ios"
+}
+
+/* 365 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928cf8"),
+    "url" : "https://quantrimang.com/thu-thuat-ung-dung-ios"
+}
+
+/* 366 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928cf9"),
+    "url" : "https://quantrimang.com/chat-goi-dien-nhan-tin-ios"
+}
+
+/* 367 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928cfa"),
+    "url" : "https://quantrimang.com/mang-xa-hoi-ios"
+}
+
+/* 368 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928cfb"),
+    "url" : "https://quantrimang.com/chup-va-xu-ly-anh-ios"
+}
+
+/* 369 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928cfc"),
+    "url" : "https://quantrimang.com/quan-ly-chinh-sua-video-ios"
+}
+
+/* 370 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928cfd"),
+    "url" : "https://quantrimang.com/trinh-duyet-add-on-ios"
+}
+
+/* 371 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928cfe"),
+    "url" : "https://quantrimang.com/bao-mat-diet-virus-ios"
+}
+
+/* 372 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928cff"),
+    "url" : "https://quantrimang.com/ca-nhan-hoa-ios"
+}
+
+/* 373 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928d00"),
+    "url" : "https://quantrimang.com/luu-tru-dong-bo-ios"
+}
+
+/* 374 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928d01"),
+    "url" : "https://quantrimang.com/hinh-nen-nhac-chuong-ios"
+}
+
+/* 375 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928d02"),
+    "url" : "https://quantrimang.com/ban-do-dinh-vi-ios"
+}
+
+/* 376 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928d03"),
+    "url" : "https://quantrimang.com/android"
+}
+
+/* 377 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928d04"),
+    "url" : "https://quantrimang.com/thiet-lap-co-ban"
+}
+
+/* 378 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928d05"),
+    "url" : "https://quantrimang.com/du-lieu"
+}
+
+/* 379 */
+{
+    "_id" : ObjectId("5b5ae54b46fc21bae4928d06"),
+    "url" : "https://quantrimang.com/thu-thuat-ung-dung"
+}
+
+/* 380 */
+{
+    "_id" : ObjectId("5b5ae54c46fc21bae4928d07"),
+    "url" : "https://quantrimang.com/chat-goi-dien-nhan-tin-android"
+}
+
+/* 381 */
+{
+    "_id" : ObjectId("5b5ae54c46fc21bae4928d08"),
+    "url" : "https://quantrimang.com/mang-xa-hoi-android"
+}
+
+/* 382 */
+{
+    "_id" : ObjectId("5b5ae54d46fc21bae4928d09"),
+    "url" : "https://quantrimang.com/chup-va-xu-ly-anh-android"
+}
+
+/* 383 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d0a"),
+    "url" : "https://quantrimang.com/bo-go-tieng-viet"
+}
+
+/* 384 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d0b"),
+    "url" : "https://quantrimang.com/quan-ly-chinh-sua-video-android"
+}
+
+/* 385 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d0c"),
+    "url" : "https://quantrimang.com/trinh-duyet-add-on-android"
+}
+
+/* 386 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d0d"),
+    "url" : "https://quantrimang.com/bao-mat-diet-virus-android"
+}
+
+/* 387 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d0e"),
+    "url" : "https://quantrimang.com/luu-tru-dong-bo-android"
+}
+
+/* 388 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d0f"),
+    "url" : "https://quantrimang.com/ca-nhan-hoa-android"
+}
+
+/* 389 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d10"),
+    "url" : "https://quantrimang.com/hinh-nen-nhac-chuong-android"
+}
+
+/* 390 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d11"),
+    "url" : "https://quantrimang.com/ban-do-dinh-vi-android"
+}
+
+/* 391 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d12"),
+    "url" : "https://quantrimang.com/windows-phone"
+}
+
+/* 392 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d13"),
+    "url" : "https://quantrimang.com/thiet-lap-co-ban-wp"
+}
+
+/* 393 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d14"),
+    "url" : "https://quantrimang.com/may-anh-may-quay"
+}
+
+/* 394 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d15"),
+    "url" : "https://quantrimang.com/mac-os-x"
+}
+
+/* 395 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d16"),
+    "url" : "https://quantrimang.com/bao-mat-mac"
+}
+
+/* 396 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d17"),
+    "url" : "https://quantrimang.com/ung-dung-van-phong-mac"
+}
+
+/* 397 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d18"),
+    "url" : "https://quantrimang.com/quan-ly-email-mac"
+}
+
+/* 398 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d19"),
+    "url" : "https://quantrimang.com/phan-mem-he-thong-mac"
+}
+
+/* 399 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d1a"),
+    "url" : "https://quantrimang.com/du-lieu-file-mac"
+}
+
+/* 400 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d1b"),
+    "url" : "https://quantrimang.com/phan-cung-mac"
+}
+
+/* 401 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d1c"),
+    "url" : "https://quantrimang.com/phan-cung"
+}
+
+/* 402 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d1d"),
+    "url" : "https://quantrimang.com/tu-van-mua-may"
+}
+
+/* 403 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d1e"),
+    "url" : "https://quantrimang.com/may-pc"
+}
+
+/* 404 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d1f"),
+    "url" : "https://quantrimang.com/laptop"
+}
+
+/* 405 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d20"),
+    "url" : "https://quantrimang.com/thiet-bi-mang"
+}
+
+/* 406 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d21"),
+    "url" : "https://quantrimang.com/may-in"
+}
+
+/* 407 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d22"),
+    "url" : "https://quantrimang.com/usb-o-flash"
+}
+
+/* 408 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d23"),
+    "url" : "https://quantrimang.com/thu-thuat-seo"
+}
+
+/* 409 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d24"),
+    "url" : "https://quantrimang.com/kien-thuc-co-ban"
+}
+
+/* 410 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d25"),
+    "url" : "https://quantrimang.com/linux-os"
+}
+
+/* 411 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d26"),
+    "url" : "https://quantrimang.com/dich-vu-ngan-hang"
+}
+
+/* 412 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d27"),
+    "url" : "https://quantrimang.com/lap-trinh"
+}
+
+/* 413 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d28"),
+    "url" : "https://quantrimang.com/sql"
+}
+
+/* 414 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d29"),
+    "url" : "https://quantrimang.com/python"
+}
+
+/* 415 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d2a"),
+    "url" : "https://quantrimang.com/php"
+}
+
+/* 416 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d2b"),
+    "url" : "https://quantrimang.com/html"
+}
+
+/* 417 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d2c"),
+    "url" : "https://quantrimang.com/co-so-du-lieu"
+}
+
+/* 418 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d2d"),
+    "url" : "https://quantrimang.com/sql-server"
+}
+
+/* 419 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d2e"),
+    "url" : "https://quantrimang.com/hoc-css"
+}
+
+/* 420 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d2f"),
+    "url" : "https://quantrimang.com/csharp"
+}
+
+/* 421 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d30"),
+    "url" : "https://quantrimang.com/jquery"
+}
+
+/* 422 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d31"),
+    "url" : "https://quantrimang.com/lang-cong-nghe"
+}
+
+/* 423 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d32"),
+    "url" : "https://quantrimang.com/tan-cong-mang"
+}
+
+/* 424 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d33"),
+    "url" : "https://quantrimang.com/chuyen-cong-nghe"
+}
+
+/* 425 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d34"),
+    "url" : "https://quantrimang.com/cong-nghe-moi"
+}
+
+/* 426 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d35"),
+    "url" : "https://quantrimang.com/ai"
+}
+
+/* 427 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d36"),
+    "url" : "https://quantrimang.com/anh-tai-cong-nghe"
+}
+
+/* 428 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d37"),
+    "url" : "https://quantrimang.com/jack-ma"
+}
+
+/* 429 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d38"),
+    "url" : "https://quantrimang.com/steve-jobs"
+}
+
+/* 430 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d39"),
+    "url" : "https://quantrimang.com/bill-gates"
+}
+
+/* 431 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d3a"),
+    "url" : "https://quantrimang.com/mark-zuckerberg"
+}
+
+/* 432 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d3b"),
+    "url" : "https://quantrimang.com/hacker"
+}
+
+/* 433 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d3c"),
+    "url" : "https://quantrimang.com/binh-luan-cong-nghe"
+}
+
+/* 434 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d3d"),
+    "url" : "https://quantrimang.com/trac-nghiem-cong-nghe-thong-tin"
+}
+
+/* 435 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d3e"),
+    "url" : "https://quantrimang.com/thi-nghiem-khoa-hoc"
+}
+
+/* 436 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d3f"),
+    "url" : "https://quantrimang.com/khoa-hoc"
+}
+
+/* 437 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d40"),
+    "url" : "https://quantrimang.com/kham-pha-khoa-hoc"
+}
+
+/* 438 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d41"),
+    "url" : "https://quantrimang.com/bi-an-chuyen-la"
+}
+
+/* 439 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d42"),
+    "url" : "https://quantrimang.com/suc-khoe"
+}
+
+/* 440 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d43"),
+    "url" : "https://quantrimang.com/suc-khoe-gia-dinh"
+}
+
+/* 441 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d44"),
+    "url" : "https://quantrimang.com/bi-quyet-song-vui"
+}
+
+/* 442 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d45"),
+    "url" : "https://quantrimang.com/khoa-hoc-vu-tru"
+}
+
+/* 443 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d46"),
+    "url" : "https://quantrimang.com/kham-pha-thien-nhien"
+}
+
+/* 444 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d47"),
+    "url" : "https://quantrimang.com/the-gioi-dong-vat"
+}
+
+/* 445 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d48"),
+    "url" : "https://quantrimang.com/dai-duong-hoc"
+}
+
+/* 446 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d49"),
+    "url" : "https://quantrimang.com/the-gioi-thuc-vat"
+}
+
+/* 447 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d4a"),
+    "url" : "https://quantrimang.com/khi-hau-thoi-tiet"
+}
+
+/* 448 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d4b"),
+    "url" : "https://quantrimang.com/bao-ve-thien-nhien"
+}
+
+/* 449 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d4c"),
+    "url" : "https://quantrimang.com/moi-truong"
+}
+
+/* 450 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d4d"),
+    "url" : "https://quantrimang.com/y-hoc"
+}
+
+/* 451 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d4e"),
+    "url" : "https://quantrimang.com/benh-cum"
+}
+
+/* 452 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d4f"),
+    "url" : "https://quantrimang.com/benh-ung-thu"
+}
+
+/* 453 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d50"),
+    "url" : "https://quantrimang.com/khao-co-hoc"
+}
+
+/* 454 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d51"),
+    "url" : "https://quantrimang.com/phat-minh-khoa-hoc"
+}
+
+/* 455 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d52"),
+    "url" : "https://quantrimang.com/phat-minh-the-gioi"
+}
+
+/* 456 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d53"),
+    "url" : "https://quantrimang.com/cau-chuyen-khoa-hoc"
+}
+
+/* 457 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d54"),
+    "url" : "https://quantrimang.com/khoa-hoc-cong-nghe"
+}
+
+/* 458 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d55"),
+    "url" : "https://quantrimang.com/anh-dep-khoa-hoc"
+}
+
+/* 459 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d56"),
+    "url" : "https://quantrimang.com/dien-may"
+}
+
+/* 460 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d57"),
+    "url" : "https://quantrimang.com/tivi"
+}
+
+/* 461 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d58"),
+    "url" : "https://quantrimang.com/smart-tivi"
+}
+
+/* 462 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d59"),
+    "url" : "https://quantrimang.com/tu-lanh"
+}
+
+/* 463 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d5a"),
+    "url" : "https://quantrimang.com/dieu-hoa"
+}
+
+/* 464 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d5b"),
+    "url" : "https://quantrimang.com/may-giat"
+}
+
+/* 465 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d5c"),
+    "url" : "https://quantrimang.com/quat-cac-loai"
+}
+
+/* 466 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d5d"),
+    "url" : "https://quantrimang.com/cuoc-song"
+}
+
+/* 467 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d5e"),
+    "url" : "https://quantrimang.com/ky-nang"
+}
+
+/* 468 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d5f"),
+    "url" : "https://quantrimang.com/ky-nang-song"
+}
+
+/* 469 */
+{
+    "_id" : ObjectId("5b5ae55046fc21bae4928d60"),
+    "url" : "https://quantrimang.com/ky-nang-cong-viec"
+}
+
+/* 470 */
+{
+    "_id" : ObjectId("5b5ae55446fc21bae4928d61"),
+    "url" : "https://quantrimang.com/an-uong-dinh-duong"
+}
+
+/* 471 */
+{
+    "_id" : ObjectId("5b5ae55446fc21bae4928d62"),
+    "url" : "https://quantrimang.com/nuoi-day-con"
+}
+
+/* 472 */
+{
+    "_id" : ObjectId("5b5ae55446fc21bae4928d63"),
+    "url" : "https://quantrimang.com/meo-vat"
+}
+
+/* 473 */
+{
+    "_id" : ObjectId("5b5ae55446fc21bae4928d64"),
+    "url" : "https://quantrimang.com/valentine"
+}
+
+/* 474 */
+{
+    "_id" : ObjectId("5b5ae55446fc21bae4928d65"),
+    "url" : "https://quantrimang.com/may-cong-cu"
+}
+
+/* 475 */
+{
+    "_id" : ObjectId("5b5ae55446fc21bae4928d66"),
+    "url" : "https://quantrimang.com/tong-hop"
+}
+
+/* 476 */
+{
+    "_id" : ObjectId("5b5ae55446fc21bae4928d67"),
+    "url" : "https://quantrimang.com/support/about"
+}
+
+/* 477 */
+{
+    "_id" : ObjectId("5b5ae55446fc21bae4928d68"),
+    "url" : "https://quantrimang.com/support/contact"
+}
+
+/* 478 */
+{
+    "_id" : ObjectId("5b5ae55446fc21bae4928d69"),
+    "url" : "tel:+842422426188"
+}
+
+/* 479 */
+{
+    "_id" : ObjectId("5b5ae55446fc21bae4928d6b"),
+    "url" : "https://quantrimang.com/lam-dep"
+}
+
+/* 480 */
+{
+    "_id" : ObjectId("5b5ae55446fc21bae4928d6c"),
+    "url" : "https://quantrimang.com/nha-cua"
+}
+
+/* 481 */
+{
+    "_id" : ObjectId("5b5ae55446fc21bae4928d6d"),
+    "url" : "https://quantrimang.com/halloween"
+}
+
+/* 482 */
+{
+    "_id" : ObjectId("5b5ae55446fc21bae4928d6e"),
+    "url" : "https://quantrimang.com/chon-qua-tang"
+}
+
+/* 483 */
+{
+    "_id" : ObjectId("5b5ae55446fc21bae4928d6f"),
+    "url" : "https://quantrimang.com/giai-tri"
+}
+
+/* 484 */
+{
+    "_id" : ObjectId("5b5ae55446fc21bae4928d70"),
+    "url" : "https://quantrimang.com/video-khoa-hoc"
+}
+
+/* 485 */
+{
+    "_id" : ObjectId("5b5ae55446fc21bae4928d71"),
+    "url" : "https://quantrimang.com/support/terms"
+}
+
+/* 486 */
+{
+    "_id" : ObjectId("5b5ae55446fc21bae4928d72"),
+    "url" : "https://quantrimang.com/support/apps/"
+}
+
+/* 487 */
+{
+    "_id" : ObjectId("5b5ae55446fc21bae4928d73"),
+    "url" : "https://www.dmca.com/Protection/Status.aspx?ID=9d523b74-7299-4834-8990-8c157b6e8fc7&refurl=https://quantrimang.com/iptv-la-gi-cong-nghe-truyen-hinh-vi-nguoi-xem-57151"
+}
+
+/* 488 */
+{
+    "_id" : ObjectId("5b5ae55646fc21bae4928d74"),
+    "url" : "https://quantrimang.com/am-thuc"
+}
+
+/* 489 */
+{
+    "_id" : ObjectId("5b5ae55646fc21bae4928d75"),
+    "url" : "https://quantrimang.com/diy-handmade"
+}
+
+/* 490 */
+{
+    "_id" : ObjectId("5b5ae55646fc21bae4928d76"),
+    "url" : "https://quantrimang.com/tet-trung-thu"
+}
+
+/* 491 */
+{
+    "_id" : ObjectId("5b5ae55646fc21bae4928d77"),
+    "url" : "https://quantrimang.com/tet"
+}
+
+/* 492 */
+{
+    "_id" : ObjectId("5b5ae55646fc21bae4928d78"),
+    "url" : "https://quantrimang.com/video"
+}
+
+/* 493 */
+{
+    "_id" : ObjectId("5b5ae55646fc21bae4928d79"),
+    "url" : "https://quantrimang.com/cisco-lab"
+}
+
+/* 494 */
+{
+    "_id" : ObjectId("5b5ae55646fc21bae4928d7a"),
+    "url" : "https://quantrimang.com/support/help"
+}
+
+/* 495 */
+{
+    "_id" : ObjectId("5b5ae55646fc21bae4928d7b"),
+    "url" : "https://www.facebook.com/quantrimang.com.vn"
+}
+
+/* 496 */
+{
+    "_id" : ObjectId("5b5ae55646fc21bae4928d7c"),
+    "url" : "http://meta.vn/"
+}
+
+/* 497 */
+{
+    "_id" : ObjectId("5b5ae55646fc21bae4928d7d"),
+    "url" : "https://quantrimang.com/kinh-nghiem-du-lich"
+}
+
+/* 498 */
+{
+    "_id" : ObjectId("5b5ae55646fc21bae4928d7e"),
+    "url" : "https://quantrimang.com/cuoi-hoi"
+}
+
+/* 499 */
+{
+    "_id" : ObjectId("5b5ae55646fc21bae4928d7f"),
+    "url" : "https://quantrimang.com/giang-sinh-noel"
+}
+
+/* 500 */
+{
+    "_id" : ObjectId("5b5ae55646fc21bae4928d80"),
+    "url" : "https://quantrimang.com/video-huong-dan"
+}
+
+/* 501 */
+{
+    "_id" : ObjectId("5b5ae55646fc21bae4928d81"),
+    "url" : "https://quantrimang.com/microsoft-lab"
+}
+
+/* 502 */
+{
+    "_id" : ObjectId("5b5ae55646fc21bae4928d82"),
+    "url" : "https://quantrimang.com/support/privacy"
+}
+
+/* 503 */
+{
+    "_id" : ObjectId("5b5ae55646fc21bae4928d83"),
+    "url" : "https://www.youtube.com/c/quantrimang"
+}
+
+/* 504 */
+{
+    "_id" : ObjectId("5b5ae55646fc21bae4928d84"),
+    "url" : "https://plus.google.com/+quantrimang"
+}
+
+/* 505 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d85"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#app-switcher"
+}
+
+/* 506 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d86"),
+    "url" : "http://irequest.vstv.vn/secure/MyJiraHome.jspa"
+}
+
+/* 507 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d87"),
+    "url" : "http://iknow.vstv.vn/"
+}
+
+/* 508 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d88"),
+    "url" : "http://irequest.vstv.vn/secure/MyJiraHome.jspa"
+}
+
+/* 509 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d89"),
+    "url" : "http://irequest.vstv.vn/secure/Dashboard.jspa"
+}
+
+/* 510 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d8a"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB"
+}
+
+/* 511 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d8b"),
+    "url" : "http://irequest.vstv.vn/issues/"
+}
+
+/* 512 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d8c"),
+    "url" : "http://irequest.vstv.vn/secure/RapidBoard.jspa"
+}
+
+/* 513 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d8d"),
+    "url" : "http://irequest.vstv.vn/secure/ManageRapidViews.jspa"
+}
+
+/* 514 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d8e"),
+    "url" : "http://irequest.vstv.vn/secure/CreateIssue!default.jspa"
+}
+
+/* 515 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d8f"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 516 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d90"),
+    "url" : "https://docs.atlassian.com/jira/jsw-docs-072/"
+}
+
+/* 517 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d91"),
+    "url" : "https://docs.atlassian.com/jira/jsw-docs-072/"
+}
+
+/* 518 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d92"),
+    "url" : "https://docs.atlassian.com/jira/jcore-docs-072/"
+}
+
+/* 519 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d93"),
+    "url" : "http://irequest.vstv.vn/secure/ViewKeyboardShortcuts!default.jspa"
+}
+
+/* 520 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d94"),
+    "url" : "http://irequest.vstv.vn/secure/AboutPage.jspa"
+}
+
+/* 521 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d95"),
+    "url" : "http://irequest.vstv.vn/secure/JiraCreditsPage!default.jspa"
+}
+
+/* 522 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d96"),
+    "url" : "http://irequest.vstv.vn/secure/ViewProfile.jspa"
+}
+
+/* 523 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d97"),
+    "url" : "http://irequest.vstv.vn/secure/ViewProfile.jspa"
+}
+
+/* 524 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d98"),
+    "url" : "http://irequest.vstv.vn/plugins/servlet/upm/requests?source=header_user"
+}
+
+/* 525 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d99"),
+    "url" : "http://irequest.vstv.vn/rest/subtasks-create/1.0/facility/issue/"
+}
+
+/* 526 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d9a"),
+    "url" : "http://irequest.vstv.vn/secure/UpdateMyJiraHome.jspa?target=com.atlassian.jira.jira-my-home-plugin%3Aset_my_jira_home_dashboard&atl_token=BYPF-KXIL-4J60-RNN9|bd1c8e0d9bdabdc9c0722492b4ce9a164ba111a5|lin"
+}
+
+/* 527 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d9b"),
+    "url" : "http://irequest.vstv.vn/secure/UpdateMyJiraHome.jspa?target=com.pyxis.greenhopper.jira%3Agreenhopper-my-jira-home-set-51&atl_token=BYPF-KXIL-4J60-RNN9|bd1c8e0d9bdabdc9c0722492b4ce9a164ba111a5|lin"
+}
+
+/* 528 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d9c"),
+    "url" : "http://irequest.vstv.vn/secure/UpdateMyJiraHome.jspa?target=com.atlassian.jira.jira-my-home-plugin%3Aset_my_jira_home_issue&atl_token=BYPF-KXIL-4J60-RNN9|bd1c8e0d9bdabdc9c0722492b4ce9a164ba111a5|lin"
+}
+
+/* 529 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d9d"),
+    "url" : "http://irequest.vstv.vn/logout?atl_token=BYPF-KXIL-4J60-RNN9|bd1c8e0d9bdabdc9c0722492b4ce9a164ba111a5|lin"
+}
+
+/* 530 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d9e"),
+    "url" : "http://irequest.vstv.vn/projects/CGAWEB/summary"
+}
+
+/* 531 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928d9f"),
+    "url" : "http://irequest.vstv.vn/projects/CGAWEB/summary"
+}
+
+/* 532 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928da0"),
+    "url" : "http://irequest.vstv.vn/projects/CGAWEB/summary"
+}
+
+/* 533 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928da1"),
+    "url" : "http://irequest.vstv.vn/projects/CGAWEB/issues"
+}
+
+/* 534 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928da2"),
+    "url" : "http://irequest.vstv.vn/projects/CGAWEB?selectedItem=com.atlassian.jira.jira-projects-plugin:report-page"
+}
+
+/* 535 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928da3"),
+    "url" : "http://irequest.vstv.vn/projects/CGAWEB?selectedItem=com.atlassian.jira.jira-projects-plugin:components-page"
+}
+
+/* 536 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928da4"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 537 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928da5"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 538 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928da6"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB"
+}
+
+/* 539 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928da7"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495"
+}
+
+/* 540 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928da8"),
+    "url" : "http://irequest.vstv.vn/secure/EditIssue!default.jspa?id=14560"
+}
+
+/* 541 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928da9"),
+    "url" : "http://irequest.vstv.vn/secure/AddComment!default.jspa?id=14560"
+}
+
+/* 542 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928daa"),
+    "url" : "http://irequest.vstv.vn/secure/AssignIssue!default.jspa?id=14560"
+}
+
+/* 543 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dab"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 544 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dac"),
+    "url" : "http://irequest.vstv.vn/secure/CreateWorklog!default.jspa?id=14560"
+}
+
+/* 545 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dad"),
+    "url" : "http://irequest.vstv.vn/secure/AttachFile!default.jspa?id=14560"
+}
+
+/* 546 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dae"),
+    "url" : "http://irequest.vstv.vn/secure/ShowAttachScreenshotFormAction!default.jspa?id=14560"
+}
+
+/* 547 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928daf"),
+    "url" : "http://irequest.vstv.vn/secure/ViewVoters!default.jspa?id=14560"
+}
+
+/* 548 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928db0"),
+    "url" : "http://irequest.vstv.vn/secure/VoteOrWatchIssue.jspa?atl_token=BYPF-KXIL-4J60-RNN9|bd1c8e0d9bdabdc9c0722492b4ce9a164ba111a5|lin&id=14560&watch=unwatch"
+}
+
+/* 549 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928db1"),
+    "url" : "http://irequest.vstv.vn/secure/ManageWatchers!default.jspa?id=14560"
+}
+
+/* 550 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928db2"),
+    "url" : "http://irequest.vstv.vn/secure/CreateSubTaskIssue!default.jspa?parentIssueId=14560"
+}
+
+/* 551 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928db3"),
+    "url" : "http://irequest.vstv.vn/secure/ConvertIssue.jspa?id=14560"
+}
+
+/* 552 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928db4"),
+    "url" : "http://irequest.vstv.vn/rest/subtasks-create/1.0/facility/issue/CGAWEB-1495"
+}
+
+/* 553 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928db5"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 554 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928db6"),
+    "url" : "http://irequest.vstv.vn/secure/MoveIssue!default.jspa?id=14560"
+}
+
+/* 555 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928db7"),
+    "url" : "http://irequest.vstv.vn/secure/LinkJiraIssue!default.jspa?id=14560"
+}
+
+/* 556 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928db8"),
+    "url" : "http://irequest.vstv.vn/secure/CloneIssueDetails!default.jspa?id=14560"
+}
+
+/* 557 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928db9"),
+    "url" : "http://irequest.vstv.vn/secure/EditLabels!default.jspa?id=14560"
+}
+
+/* 558 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dba"),
+    "url" : "http://irequest.vstv.vn/secure/WorkflowUIDispatcher.jspa?id=14560&action=701&atl_token=BYPF-KXIL-4J60-RNN9|bd1c8e0d9bdabdc9c0722492b4ce9a164ba111a5|lin"
+}
+
+/* 559 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dbb"),
+    "url" : "http://irequest.vstv.vn/secure/WorkflowUIDispatcher.jspa?id=14560&action=3&atl_token=BYPF-KXIL-4J60-RNN9|bd1c8e0d9bdabdc9c0722492b4ce9a164ba111a5|lin"
+}
+
+/* 560 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dbc"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 561 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dbd"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 562 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dbe"),
+    "url" : "http://irequest.vstv.vn/si/jira.issueviews:issue-xml/CGAWEB-1495/CGAWEB-1495.xml"
+}
+
+/* 563 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dbf"),
+    "url" : "http://irequest.vstv.vn/si/jira.issueviews:issue-word/CGAWEB-1495/CGAWEB-1495.doc"
+}
+
+/* 564 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dc0"),
+    "url" : "http://irequest.vstv.vn/si/jira.issueviews:issue-html/CGAWEB-1495/CGAWEB-1495.html"
+}
+
+/* 565 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dc1"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495?workflowName=CGAWEB+Workflow&stepId=4"
+}
+
+/* 566 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dc2"),
+    "url" : "http://irequest.vstv.vn/secure/EditLabels!default.jspa?id=14560&noLink=false"
+}
+
+/* 567 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dc3"),
+    "url" : "http://irequest.vstv.vn/secure/AttachFile!default.jspa?id=14560"
+}
+
+/* 568 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dc4"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 569 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dc5"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495?attachmentSortBy=fileName#attachmentmodule"
+}
+
+/* 570 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dc6"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495?attachmentSortBy=dateTime#attachmentmodule"
+}
+
+/* 571 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dc7"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495?attachmentOrder=asc#attachmentmodule"
+}
+
+/* 572 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dc8"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495?attachmentOrder=desc#attachmentmodule"
+}
+
+/* 573 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dc9"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495?attachmentViewMode=gallery#attachmentmodule"
+}
+
+/* 574 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dca"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495?attachmentViewMode=list#attachmentmodule"
+}
+
+/* 575 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dcb"),
+    "url" : "http://irequest.vstv.vn/secure/attachmentzip/14560.zip"
+}
+
+/* 576 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dcc"),
+    "url" : "http://irequest.vstv.vn/secure/ManageAttachments.jspa?id=14560"
+}
+
+/* 577 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dcd"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495?page=com.atlassian.jira.plugin.system.issuetabpanels:all-tabpanel"
+}
+
+/* 578 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dce"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495?page=com.atlassian.jira.plugin.system.issuetabpanels:worklog-tabpanel"
+}
+
+/* 579 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dcf"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495?page=com.atlassian.jira.plugin.system.issuetabpanels:changehistory-tabpanel"
+}
+
+/* 580 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dd0"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495?page=com.atlassian.streams.streams-jira-plugin:activity-stream-issue-tab"
+}
+
+/* 581 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dd1"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 582 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dd2"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495?focusedCommentId=16294&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-16294"
+}
+
+/* 583 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dd3"),
+    "url" : "http://irequest.vstv.vn/secure/EditComment!default.jspa?id=14560&commentId=16294"
+}
+
+/* 584 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dd4"),
+    "url" : "http://irequest.vstv.vn/secure/DeleteComment!default.jspa?id=14560&commentId=16294"
+}
+
+/* 585 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dd5"),
+    "url" : "http://irequest.vstv.vn/secure/ViewProfile.jspa?name=tuy.pham"
+}
+
+/* 586 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dd6"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 587 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dd7"),
+    "url" : "http://irequest.vstv.vn/secure/ViewProfile.jspa?name=tuy.pham"
+}
+
+/* 588 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dd8"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 589 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dd9"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 590 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dda"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 591 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928ddb"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 592 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928ddc"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 593 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928ddd"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 594 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dde"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 595 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928ddf"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 596 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928de0"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 597 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928de1"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 598 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928de2"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 599 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928de3"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 600 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928de4"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 601 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928de5"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 602 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928de6"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 603 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928de7"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 604 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928de8"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 605 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928de9"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 606 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dea"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 607 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928deb"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 608 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dec"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 609 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928ded"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 610 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dee"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 611 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928def"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 612 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928df0"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 613 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928df1"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 614 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928df2"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 615 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928df3"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 616 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928df4"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 617 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928df5"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 618 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928df6"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 619 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928df7"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 620 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928df8"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 621 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928df9"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 622 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dfa"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 623 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dfb"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 624 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dfc"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 625 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dfd"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 626 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dfe"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 627 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928dff"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 628 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e00"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 629 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e01"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 630 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e02"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 631 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e03"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 632 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e04"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 633 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e05"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 634 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e06"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 635 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e07"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 636 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e08"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 637 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e09"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 638 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e0a"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 639 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e0b"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 640 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e0c"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 641 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e0d"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 642 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e0e"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 643 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e0f"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 644 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e10"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 645 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e11"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 646 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e12"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 647 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e13"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 648 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e14"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 649 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e15"),
+    "url" : "http://irequest.vstv.vn/secure/WikiRendererHelpAction.jspa?section=texteffects"
+}
+
+/* 650 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e16"),
+    "url" : "https://docs.atlassian.com/jira/jsw-docs-072/Visual+editing"
+}
+
+/* 651 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e17"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 652 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e18"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 653 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e19"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 654 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e1a"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 655 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e1b"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 656 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e1c"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 657 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e1d"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 658 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e1e"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 659 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e1f"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 660 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e20"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 661 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e21"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 662 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e22"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 663 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e23"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 664 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e24"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 665 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e25"),
+    "url" : "http://irequest.vstv.vn/secure/WikiRendererHelpAction.jspa?section=texteffects"
+}
+
+/* 666 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e26"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 667 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e27"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 668 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e28"),
+    "url" : "http://irequest.vstv.vn/secure/AddComment!default.jspa?id=14560"
+}
+
+/* 669 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e29"),
+    "url" : "http://irequest.vstv.vn/browse/CGAWEB-1495#"
+}
+
+/* 670 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e2a"),
+    "url" : "http://irequest.vstv.vn/secure/ViewVoters!default.jspa?id=14560"
+}
+
+/* 671 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e2b"),
+    "url" : "http://irequest.vstv.vn/secure/ManageWatchers!default.jspa?id=14560"
+}
+
+/* 672 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e2c"),
+    "url" : "http://irequest.vstv.vn/secure/VoteOrWatchIssue.jspa?atl_token=BYPF-KXIL-4J60-RNN9|bd1c8e0d9bdabdc9c0722492b4ce9a164ba111a5|lin&id=14560&watch=unwatch"
+}
+
+/* 673 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e2d"),
+    "url" : "https://www.atlassian.com/software/jira"
+}
+
+/* 674 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e2e"),
+    "url" : "http://irequest.vstv.vn/secure/AboutPage.jspa"
+}
+
+/* 675 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e2f"),
+    "url" : "http://irequest.vstv.vn/secure/CreateIssue!default.jspa"
+}
+
+/* 676 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e30"),
+    "url" : "javascript:;"
+}
+
+/* 677 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e31"),
+    "url" : "http://www.atlassian.com/"
+}
+
+/* 678 */
+{
+    "_id" : ObjectId("5b5ae56a46fc21bae4928e32"),
+    "url" : "javascript:;"
+}
+
+/* 679 */
+{
+    "_id" : ObjectId("5b5ae8b1ee35614608a2f097"),
+    "url" : "https://completejavascript.com/"
+}
+
+/* 680 */
+{
+    "_id" : ObjectId("5b5ae8b1ee35614608a2f098"),
+    "url" : "https://completejavascript.com/category/javascript/"
+}
+
+/* 681 */
+{
+    "_id" : ObjectId("5b5ae8b1ee35614608a2f099"),
+    "url" : "https://completejavascript.com/category/javascript/javascript-co-ban/"
+}
+
+/* 682 */
+{
+    "_id" : ObjectId("5b5ae8b1ee35614608a2f09a"),
+    "url" : "https://completejavascript.com/category/javascript/javascript-nang-cao/"
+}
+
+/* 683 */
+{
+    "_id" : ObjectId("5b5ae8b1ee35614608a2f09b"),
+    "url" : "https://completejavascript.com/category/javascript/javascript-design-pattern/"
+}
+
+/* 684 */
+{
+    "_id" : ObjectId("5b5ae8b1ee35614608a2f09c"),
+    "url" : "https://completejavascript.com/category/javascript/thu-thuat-javascript/"
+}
+
+/* 685 */
+{
+    "_id" : ObjectId("5b5ae8b1ee35614608a2f09d"),
+    "url" : "https://completejavascript.com/category/javascript/phong-van-javascript/"
+}
+
+/* 686 */
+{
+    "_id" : ObjectId("5b5ae8b1ee35614608a2f09e"),
+    "url" : "https://completejavascript.com/category/freecodecamp/"
+}
+
+/* 687 */
+{
+    "_id" : ObjectId("5b5ae8b1ee35614608a2f09f"),
+    "url" : "https://completejavascript.com/category/freecodecamp/basic-front-end/"
+}
+
+/* 688 */
+{
+    "_id" : ObjectId("5b5ae8b1ee35614608a2f0a0"),
+    "url" : "https://completejavascript.com/category/freecodecamp/intermediate-front-end/"
+}
+
+/* 689 */
+{
+    "_id" : ObjectId("5b5ae8b2ee35614608a2f0a1"),
+    "url" : "https://completejavascript.com/category/freecodecamp/javascript-algorithm/"
+}
+
+/* 690 */
+{
+    "_id" : ObjectId("5b5ae9e1615fe1676d93fc46"),
+    "url" : "https://completejavascript.com/,https://completejavascript.com/category/javascript/,https://completejavascript.com/category/javascript/javascript-co-ban/,https://completejavascript.com/category/javascript/javascript-nang-cao/,https://completejavascript.com/category/javascript/javascript-design-pattern/,https://completejavascript.com/category/javascript/thu-thuat-javascript/,https://completejavascript.com/category/javascript/phong-van-javascript/,https://completejavascript.com/category/freecodecamp/,https://completejavascript.com/category/freecodecamp/basic-front-end/,https://completejavascript.com/category/freecodecamp/intermediate-front-end/,https://completejavascript.com/category/freecodecamp/javascript-algorithm/,https://completejavascript.com/category/blog/,https://completejavascript.com/category/blog/lap-trinh-co-ban/,https://completejavascript.com/category/blog/thu-thuat-may-tinh/,https://completejavascript.com/category/blog/ky-nang-mem/,https://completejavascript.com/category/blog/lap-trinh-va-cuoc-song/,https://completejavascript.com/category/anh-che-vui/,http://about.phamvanlam.com/,https://completejavascript.com/,https://completejavascript.com/,https://completejavascript.com/category/javascript/,https://completejavascript.com/category/javascript/javascript-co-ban/,https://completejavascript.com/category/javascript/javascript-nang-cao/,https://completejavascript.com/category/javascript/javascript-design-pattern/,https://completejavascript.com/category/javascript/thu-thuat-javascript/,https://completejavascript.com/category/javascript/phong-van-javascript/,https://completejavascript.com/category/freecodecamp/,https://completejavascript.com/category/freecodecamp/basic-front-end/,https://completejavascript.com/category/freecodecamp/intermediate-front-end/,https://completejavascript.com/category/freecodecamp/javascript-algorithm/,https://completejavascript.com/category/blog/,https://completejavascript.com/category/blog/lap-trinh-co-ban/,https://completejavascript.com/category/blog/thu-thuat-may-tinh/,https://completejavascript.com/category/blog/ky-nang-mem/,https://completejavascript.com/category/blog/lap-trinh-va-cuoc-song/,https://completejavascript.com/category/anh-che-vui/,http://about.phamvanlam.com/,https://completejavascript.com/category/javascript/javascript-co-ban/,https://completejavascript.com/,https://completejavascript.com/category/javascript/,https://completejavascript.com/category/javascript/javascript-co-ban/,https://completejavascript.com/author/completejavascript/,http://www.facebook.com/sharer.php?u=https%3A%2F%2Fcompletejavascript.com%2Fjavascript-foreach-la-cai-quai-gi%2F,http://twitter.com/share?url=https%3A%2F%2Fcompletejavascript.com%2Fjavascript-foreach-la-cai-quai-gi%2F&text=JavaScript%20forEach%20l%C3%A0%20c%C3%A1i%20qu%C3%A1i%20g%C3%AC?,https://plus.google.com/share?url=https%3A%2F%2Fcompletejavascript.com%2Fjavascript-foreach-la-cai-quai-gi%2F,http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fcompletejavascript.com%2Fjavascript-foreach-la-cai-quai-gi%2F,https://completejavascript.com/javascript-array-co-ban/,https://completejavascript.com/values-types-va-operators-trong-javascript-phan-1/,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#Cach_trien_khai_ham_forEach,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#Ap_dung_ham_forEach_de_giai_quyet_bai_toan_tren,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#Gioi_thieu_ham_forEach_cua_JavaScript,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#Cu_phap,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#Giai_thich,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#Chu_y,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#Vi_du_in_ra_noi_dung_cua_mang,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#Vi_du_su_dung_thisArg,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#Uu_nhuoc_diem_cua_viec_su_dung_forEach,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#Uu_diem,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#Nhuoc_diem,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#Tu_JavaScript_forEach_den_cac_phuong_thuc_khac,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#arrayprototypeentries,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#arrayprototypeevery,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#arrayprototypefilter,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#arrayprototypefind,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#arrayprototypefindIndex,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#arrayprototypemap,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#Thuc_hanh,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#1_Flattening,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#2_Every_and_some,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#Tham_khao,https://completejavascript.com/category/javascript-co-ban/,https://completejavascript.com/array-sorting-van-de-muon-thuo/,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/entries,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce,https://github.com/completejavascript/practical-javascript/blob/master/iteration/iteration-flattening-completejavascript.com.js,https://github.com/completejavascript/practical-javascript/blob/master/iteration/loop-flattening-completejavascript.com.js,https://github.com/completejavascript/practical-javascript/blob/master/iteration/every-prototype-completejavascript.com.js,https://github.com/completejavascript/practical-javascript/blob/master/iteration/some-prototype-completejavascript.com.js,https://completejavascript.com/phan-biet-call-apply-va-bind-trong-javascript/,https://completejavascript.com/category/javascript-co-ban/,http://eloquentjavascript.net/05_higher_order.html,https://completejavascript.com/gioi-thieu/,https://www.facebook.com/completejavascript/,https://www.facebook.com/groups/HoiDapJavascriptVN,http://about.phamvanlam.com/,https://completejavascript.com/tag/array/,https://completejavascript.com/tag/foreach/,https://completejavascript.com/tag/function/,https://completejavascript.com/nhung-ngon-ngu-lap-trinh-nen-hoc-nam-2017/,https://completejavascript.com/phan-biet-call-apply-va-bind-trong-javascript/,http://www.facebook.com/sharer.php?u=https%3A%2F%2Fcompletejavascript.com%2Fjavascript-foreach-la-cai-quai-gi%2F,http://twitter.com/share?url=https%3A%2F%2Fcompletejavascript.com%2Fjavascript-foreach-la-cai-quai-gi%2F&text=JavaScript%20forEach%20l%C3%A0%20c%C3%A1i%20qu%C3%A1i%20g%C3%AC?,https://plus.google.com/share?url=https%3A%2F%2Fcompletejavascript.com%2Fjavascript-foreach-la-cai-quai-gi%2F,http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fcompletejavascript.com%2Fjavascript-foreach-la-cai-quai-gi%2F,https://completejavascript.com/author/completejavascript/,https://completejavascript.com/author/completejavascript/,mailto:completejavascript.super@gmail.com,https://completejavascript.com/,https://www.twitter.com/CmpltJavaScript,https://plus.google.com/u/1/102905788712213091494,https://www.facebook.com/completejavascript,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#,https://completejavascript.com/xoan-nao-voi-phong-van-javascript-4/,https://completejavascript.com/category/javascript/phong-van-javascript/,https://completejavascript.com/xoan-nao-voi-phong-van-javascript-4/,https://completejavascript.com/author/completejavascript/,https://completejavascript.com/tim-hieu-javascript-closures/,https://completejavascript.com/category/javascript/javascript-co-ban/,https://completejavascript.com/tim-hieu-javascript-closures/,https://completejavascript.com/author/completejavascript/,https://completejavascript.com/values-types-va-operators-trong-javascript-phan-1/,https://completejavascript.com/category/javascript/javascript-co-ban/,https://completejavascript.com/values-types-va-operators-trong-javascript-phan-1/,https://completejavascript.com/author/completejavascript/,https://completejavascript.com/6-cach-loai-bo-phan-tu-lap-trong-mang/,https://completejavascript.com/category/javascript/thu-thuat-javascript/,https://completejavascript.com/6-cach-loai-bo-phan-tu-lap-trong-mang/,https://completejavascript.com/author/completejavascript/,https://completejavascript.com/phan-biet-arrow-function-va-function-trong-javascript/,https://completejavascript.com/category/blog/lap-trinh-co-ban/,https://completejavascript.com/phan-biet-arrow-function-va-function-trong-javascript/,https://completejavascript.com/author/completejavascript/,https://completejavascript.com/javascript-object-last-but-not-least/,https://completejavascript.com/category/javascript/javascript-co-ban/,https://completejavascript.com/javascript-object-last-but-not-least/,https://completejavascript.com/author/completejavascript/,https://completejavascript.com/,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#comment-5,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#comment-5,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#respond,https://akismet.com/privacy/,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#widget-tab1-content-5b5adb2575b27,https://completejavascript.com/tim-hieu-ki-thuat-method-chaining-co-ban/,https://completejavascript.com/tim-hieu-ki-thuat-method-chaining-co-ban/,https://completejavascript.com/author/completejavascript/,https://completejavascript.com/2-cach-tao-immutable-object-javascript/,https://completejavascript.com/2-cach-tao-immutable-object-javascript/,https://completejavascript.com/author/completejavascript/,https://completejavascript.com/phan-biet-arrow-function-va-function-trong-javascript/,https://completejavascript.com/phan-biet-arrow-function-va-function-trong-javascript/,https://completejavascript.com/author/completejavascript/,https://completejavascript.com/lay-anh-thumbnail-cua-video-tren-youtube/,https://completejavascript.com/lay-anh-thumbnail-cua-video-tren-youtube/,https://completejavascript.com/author/completejavascript/,https://completejavascript.com/xoan-nao-voi-phong-van-javascript-6/,https://completejavascript.com/xoan-nao-voi-phong-van-javascript-6/,https://completejavascript.com/author/completejavascript/,https://completejavascript.com/javascript-foreach-la-cai-quai-gi/#widget-tab2-content-5b5adb2579a57,https://completejavascript.com/lap-trinh-javascript-voi-fcc-basic-algorithm-scripting/,https://completejavascript.com/lap-trinh-javascript-voi-fcc-basic-algorithm-scripting/,https://completejavascript.com/author/completejavascript/,https://completejavascript.com/ke-thua-co-ban-trong-javascript/,https://completejavascript.com/ke-thua-co-ban-trong-javascript/,https://completejavascript.com/author/completejavascript/,https://completejavascript.com/phan-biet-call-apply-va-bind-trong-javascript/,https://completejavascript.com/phan-biet-call-apply-va-bind-trong-javascript/,https://completejavascript.com/author/completejavascript/,https://completejavascript.com/21-thu-thuat-javascript-huu-ich/,https://completejavascript.com/21-thu-thuat-javascript-huu-ich/,https://completejavascript.com/author/completejavascript/,https://completejavascript.com/xoan-nao-voi-phong-van-javascript-1/,https://completejavascript.com/xoan-nao-voi-phong-van-javascript-1/,https://completejavascript.com/author/completejavascript/,https://completejavascript.com/tag/api/,https://completejavascript.com/tag/array/,https://completejavascript.com/tag/arrow-function/,https://completejavascript.com/tag/bind/,https://completejavascript.com/tag/canvas/,https://completejavascript.com/tag/closures/,https://completejavascript.com/tag/console/,https://completejavascript.com/tag/css/,https://completejavascript.com/tag/cau-lenh/,https://completejavascript.com/tag/debug/,https://completejavascript.com/tag/dom/,https://completejavascript.com/tag/dich-blog/,https://completejavascript.com/tag/error/,https://completejavascript.com/tag/es6/,https://completejavascript.com/tag/event/,https://completejavascript.com/tag/fcc/,https://completejavascript.com/tag/function/,https://completejavascript.com/tag/hoisting/,https://completejavascript.com/tag/html/,https://completejavascript.com/tag/iife/,https://completejavascript.com/tag/jquery/,https://completejavascript.com/tag/json/,https://completejavascript.com/tag/kieu-du-lieu/,https://completejavascript.com/tag/ke-thua/,https://completejavascript.com/tag/lap-trinh-vien/,https://completejavascript.com/tag/menu/,https://completejavascript.com/tag/module/,https://completejavascript.com/tag/object/,https://completejavascript.com/tag/phuong-phap-hoc/,https://completejavascript.com/tag/promise/,https://completejavascript.com/tag/prototype/,https://completejavascript.com/tag/regexp/,https://completejavascript.com/tag/responsive/,https://completejavascript.com/tag/smooth-scrolling/,https://completejavascript.com/tag/so-sanh/,https://completejavascript.com/tag/strict-mode/,https://completejavascript.com/tag/sap-xep/,https://completejavascript.com/tag/suc-khoe/,https://completejavascript.com/tag/template/,https://completejavascript.com/tag/this/,https://completejavascript.com/tag/thuat-toan/,https://completejavascript.com/tag/thu-thuat/,https://completejavascript.com/tag/ubuntu/,https://completejavascript.com/tag/viet-blog/,https://completejavascript.com/tag/xmlhttprequest/,https://completejavascript.com/,https://creativecommons.org/licenses/by-nc-nd/4.0/,https://completejavascript.com/gioi-thieu/,https://completejavascript.com/ban-quyen/,https://completejavascript.com/lien-he/,https://completejavascript.com/so-do-trang/,https://completejavascript.com/privacy-policy/,https://completejavascript.com/books/,http://phamvanlam.com/,http://thuattoan.phamvanlam.com/,https://www.facebook.com/completejavascript/,https://twitter.com/CmpltJavaScript,https://plus.google.com/u/1/102905788712213091494,https://www.linkedin.com/in/completejavascript/,https://www.pinterest.com/completejavascript/,https://www.youtube.com/channel/UCvpDc5xfA5BAQigOddW5h7A,https://github.com/completejavascript,https://codepen.io/completejavascript/,https://www.freecodecamp.org/completejavascript,https://stackoverflow.com/users/7905521/lam-pham,https://completejavascript.com/"
+}
+
+/* 691 */
+{
+    "_id" : ObjectId("5b5aea61615fe1676d93fc48"),
+    "url" : "https://www.w3schools.com/,javascript:void(0),javascript:void(0);,https://www.w3schools.com/default.asp,https://www.w3schools.com/html/default.asp,https://www.w3schools.com/css/default.asp,https://www.w3schools.com/js/default.asp,https://www.w3schools.com/sql/default.asp,https://www.w3schools.com/php/default.asp,https://www.w3schools.com/bootstrap/default.asp,https://www.w3schools.com/howto/default.asp,https://www.w3schools.com/jquery/default.asp,https://www.w3schools.com/w3css/default.asp,https://www.w3schools.com/angular/default.asp,https://www.w3schools.com/xml/default.asp,javascript:void(0);,javascript:void(0);,javascript:void(0);,https://www.w3schools.com/forum/default.asp,javascript:void(0);,javascript:void(0);,https://www.w3schools.com/html/default.asp,https://www.w3schools.com/css/default.asp,https://www.w3schools.com/w3css/default.asp,https://www.w3schools.com/colors/default.asp,https://www.w3schools.com/bootstrap/default.asp,https://www.w3schools.com/bootstrap4/default.asp,https://www.w3schools.com/graphics/default.asp,https://www.w3schools.com/icons/default.asp,https://www.w3schools.com/howto/default.asp,https://www.w3schools.com/js/default.asp,https://www.w3schools.com/jquery/default.asp,https://www.w3schools.com/angular/default.asp,https://www.w3schools.com/js/js_json_intro.asp,https://www.w3schools.com/js/js_ajax_intro.asp,https://www.w3schools.com/w3js/default.asp,https://www.w3schools.com/sql/default.asp,https://www.w3schools.com/php/default.asp,https://www.w3schools.com/python/default.asp,https://www.w3schools.com/asp/default.asp,https://www.w3schools.com/nodejs/default.asp,https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp,https://www.w3schools.com/w3css/w3css_templates.asp,https://www.w3schools.com/browsers/default.asp,https://www.w3schools.com/cert/default.asp,https://www.w3schools.com/tryit/default.asp,https://www.w3schools.com/xml/default.asp,https://www.w3schools.com/xml/ajax_intro.asp,https://www.w3schools.com/xml/dom_intro.asp,https://www.w3schools.com/xml/xml_dtd_intro.asp,https://www.w3schools.com/xml/schema_intro.asp,https://www.w3schools.com/xml/xsl_intro.asp,https://www.w3schools.com/xml/xpath_intro.asp,https://www.w3schools.com/xml/xquery_intro.asp,https://www.w3schools.com/tags/default.asp,https://www.w3schools.com/tags/ref_eventattributes.asp,https://www.w3schools.com/colors/default.asp,https://www.w3schools.com/tags/ref_attributes.asp,https://www.w3schools.com/tags/ref_canvas.asp,https://www.w3schools.com/graphics/svg_reference.asp,https://www.w3schools.com/graphics/google_maps_reference.asp,https://www.w3schools.com/charsets/default.asp,https://www.w3schools.com/charsets/ref_html_ascii.asp,https://www.w3schools.com/charsets/ref_html_ansi.asp,https://www.w3schools.com/charsets/ref_html_ansi.asp,https://www.w3schools.com/charsets/ref_html_8859.asp,https://www.w3schools.com/charsets/ref_html_symbols.asp,https://www.w3schools.com/charsets/ref_html_utf8.asp,https://www.w3schools.com/cssref/default.asp,https://www.w3schools.com/cssref/css3_browsersupport.asp,https://www.w3schools.com/cssref/css_selectors.asp,https://www.w3schools.com/w3css/w3css_references.asp,https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp,https://www.w3schools.com/icons/icons_reference.asp,https://www.w3schools.com/xml/dom_nodetype.asp,https://www.w3schools.com/xml/dom_http.asp,https://www.w3schools.com/xml/xsl_elementref.asp,https://www.w3schools.com/xml/schema_elements_ref.asp,https://www.w3schools.com/jsref/default.asp,https://www.w3schools.com/jsref/default.asp,https://www.w3schools.com/jquery/jquery_ref_overview.asp,https://www.w3schools.com/angular/angular_ref_directives.asp,https://www.w3schools.com/w3js/w3js_references.asp,https://www.w3schools.com/php/php_ref_overview.asp,https://www.w3schools.com/sql/sql_quickref.asp,https://www.w3schools.com/python/python_ref_functions.asp,https://www.w3schools.com/asp/asp_ref_response.asp,https://www.w3schools.com/html/html_examples.asp,https://www.w3schools.com/css/css_examples.asp,https://www.w3schools.com/w3css/w3css_examples.asp,https://www.w3schools.com/w3css/w3css_templates.asp,https://www.w3schools.com/bootstrap/bootstrap_examples.asp,https://www.w3schools.com/howto/default.asp,https://www.w3schools.com/graphics/svg_examples.asp,https://www.w3schools.com/js/js_examples.asp,https://www.w3schools.com/js/js_dom_examples.asp,https://www.w3schools.com/jquery/jquery_examples.asp,https://www.w3schools.com/angular/angular_examples.asp,https://www.w3schools.com/js/js_ajax_examples.asp,https://www.w3schools.com/w3js/w3js_examples.asp,https://www.w3schools.com/php/php_examples.asp,https://www.w3schools.com/asp/asp_examples.asp,https://www.w3schools.com/xml/xml_examples.asp,https://www.w3schools.com/xml/xsl_examples.asp,https://www.w3schools.com/xml/xpath_examples.asp,https://www.w3schools.com/xml/schema_example.asp,https://www.w3schools.com/graphics/svg_examples.asp,https://www.w3schools.com/quiztest/quiztest.asp?Qtest=HTML,https://www.w3schools.com/quiztest/quiztest.asp?Qtest=CSS,https://www.w3schools.com/quiztest/quiztest.asp?Qtest=JavaScript,https://www.w3schools.com/quiztest/quiztest.asp?Qtest=Bootstrap,https://www.w3schools.com/quiztest/quiztest.asp?Qtest=jQuery,https://www.w3schools.com/quiztest/quiztest.asp?Qtest=PHP,https://www.w3schools.com/quiztest/quiztest.asp?Qtest=SQL,https://www.w3schools.com/quiztest/quiztest.asp?Qtest=XML,javascript:void(0),https://www.w3schools.com/js/default.asp,https://www.w3schools.com/js/js_intro.asp,https://www.w3schools.com/js/js_whereto.asp,https://www.w3schools.com/js/js_output.asp,https://www.w3schools.com/js/js_statements.asp,https://www.w3schools.com/js/js_syntax.asp,https://www.w3schools.com/js/js_comments.asp,https://www.w3schools.com/js/js_variables.asp,https://www.w3schools.com/js/js_operators.asp,https://www.w3schools.com/js/js_arithmetic.asp,https://www.w3schools.com/js/js_assignment.asp,https://www.w3schools.com/js/js_datatypes.asp,https://www.w3schools.com/js/js_functions.asp,https://www.w3schools.com/js/js_objects.asp,https://www.w3schools.com/js/js_events.asp,https://www.w3schools.com/js/js_strings.asp,https://www.w3schools.com/js/js_string_methods.asp,https://www.w3schools.com/js/js_numbers.asp,https://www.w3schools.com/js/js_number_methods.asp,https://www.w3schools.com/js/js_arrays.asp,https://www.w3schools.com/js/js_array_methods.asp,https://www.w3schools.com/js/js_array_sort.asp,https://www.w3schools.com/js/js_array_iteration.asp,https://www.w3schools.com/js/js_dates.asp,https://www.w3schools.com/js/js_date_formats.asp,https://www.w3schools.com/js/js_date_methods.asp,https://www.w3schools.com/js/js_date_methods_set.asp,https://www.w3schools.com/js/js_math.asp,https://www.w3schools.com/js/js_random.asp,https://www.w3schools.com/js/js_booleans.asp,https://www.w3schools.com/js/js_comparisons.asp,https://www.w3schools.com/js/js_if_else.asp,https://www.w3schools.com/js/js_switch.asp,https://www.w3schools.com/js/js_loop_for.asp,https://www.w3schools.com/js/js_loop_while.asp,https://www.w3schools.com/js/js_break.asp,https://www.w3schools.com/js/js_type_conversion.asp,https://www.w3schools.com/js/js_bitwise.asp,https://www.w3schools.com/js/js_regexp.asp,https://www.w3schools.com/js/js_errors.asp,https://www.w3schools.com/js/js_scope.asp,https://www.w3schools.com/js/js_hoisting.asp,https://www.w3schools.com/js/js_strict.asp,https://www.w3schools.com/js/js_this.asp,https://www.w3schools.com/js/js_let.asp,https://www.w3schools.com/js/js_const.asp,https://www.w3schools.com/js/js_debugging.asp,https://www.w3schools.com/js/js_conventions.asp,https://www.w3schools.com/js/js_best_practices.asp,https://www.w3schools.com/js/js_mistakes.asp,https://www.w3schools.com/js/js_performance.asp,https://www.w3schools.com/js/js_reserved.asp,https://www.w3schools.com/js/js_versions.asp,https://www.w3schools.com/js/js_es5.asp,https://www.w3schools.com/js/js_es6.asp,https://www.w3schools.com/js/js_json.asp,https://www.w3schools.com/js/js_validation.asp,https://www.w3schools.com/js/js_validation_api.asp,https://www.w3schools.com/js/js_object_definition.asp,https://www.w3schools.com/js/js_object_properties.asp,https://www.w3schools.com/js/js_object_methods.asp,https://www.w3schools.com/js/js_object_constructors.asp,https://www.w3schools.com/js/js_object_prototypes.asp,https://www.w3schools.com/js/js_function_definition.asp,https://www.w3schools.com/js/js_function_parameters.asp,https://www.w3schools.com/js/js_function_invocation.asp,https://www.w3schools.com/js/js_function_call.asp,https://www.w3schools.com/js/js_function_apply.asp,https://www.w3schools.com/js/js_function_closures.asp,https://www.w3schools.com/js/js_htmldom.asp,https://www.w3schools.com/js/js_htmldom_methods.asp,https://www.w3schools.com/js/js_htmldom_document.asp,https://www.w3schools.com/js/js_htmldom_elements.asp,https://www.w3schools.com/js/js_htmldom_html.asp,https://www.w3schools.com/js/js_htmldom_css.asp,https://www.w3schools.com/js/js_htmldom_animate.asp,https://www.w3schools.com/js/js_htmldom_events.asp,https://www.w3schools.com/js/js_htmldom_eventlistener.asp,https://www.w3schools.com/js/js_htmldom_navigation.asp,https://www.w3schools.com/js/js_htmldom_nodes.asp,https://www.w3schools.com/js/js_htmldom_collections.asp,https://www.w3schools.com/js/js_htmldom_nodelist.asp,https://www.w3schools.com/js/js_window.asp,https://www.w3schools.com/js/js_window_screen.asp,https://www.w3schools.com/js/js_window_location.asp,https://www.w3schools.com/js/js_window_history.asp,https://www.w3schools.com/js/js_window_navigator.asp,https://www.w3schools.com/js/js_popup.asp,https://www.w3schools.com/js/js_timing.asp,https://www.w3schools.com/js/js_cookies.asp,https://www.w3schools.com/js/js_ajax_intro.asp,https://www.w3schools.com/js/js_ajax_http.asp,https://www.w3schools.com/js/js_ajax_http_send.asp,https://www.w3schools.com/js/js_ajax_http_response.asp,https://www.w3schools.com/js/js_ajax_xmlfile.asp,https://www.w3schools.com/js/js_ajax_php.asp,https://www.w3schools.com/js/js_ajax_asp.asp,https://www.w3schools.com/js/js_ajax_database.asp,https://www.w3schools.com/js/js_ajax_applications.asp,https://www.w3schools.com/js/js_ajax_examples.asp,https://www.w3schools.com/js/js_json_intro.asp,https://www.w3schools.com/js/js_json_syntax.asp,https://www.w3schools.com/js/js_json_xml.asp,https://www.w3schools.com/js/js_json_datatypes.asp,https://www.w3schools.com/js/js_json_objects.asp,https://www.w3schools.com/js/js_json_arrays.asp,https://www.w3schools.com/js/js_json_parse.asp,https://www.w3schools.com/js/js_json_stringify.asp,https://www.w3schools.com/js/js_json_php.asp,https://www.w3schools.com/js/js_json_html.asp,https://www.w3schools.com/js/js_json_jsonp.asp,https://www.w3schools.com/js/js_examples.asp,https://www.w3schools.com/js/js_dom_examples.asp,https://www.w3schools.com/js/js_input_examples.asp,https://www.w3schools.com/js/js_ex_dom.asp,https://www.w3schools.com/js/js_events_examples.asp,https://www.w3schools.com/js/js_ex_browser.asp,https://www.w3schools.com/js/js_quiz.asp,https://www.w3schools.com/js/js_exam.asp,https://www.w3schools.com/jsref/default.asp,https://www.w3schools.com/jsref/default.asp,https://www.w3schools.com/js/js_window.asp,https://www.w3schools.com/js/js_window_location.asp,https://www.w3schools.com/js/tryit.asp?filename=tryjs_screen_width,https://www.w3schools.com/js/tryit.asp?filename=tryjs_screen_height,https://www.w3schools.com/js/tryit.asp?filename=tryjs_screen_availwidth,https://www.w3schools.com/js/tryit.asp?filename=tryjs_screen_availheight,https://www.w3schools.com/js/tryit.asp?filename=tryjs_screen_colorDepth,https://www.w3schools.com/js/tryit.asp?filename=tryjs_screen_pixelDepth,https://www.w3schools.com/js/js_window.asp,https://www.w3schools.com/js/js_window_location.asp,https://www.w3schools.com/colors/colors_picker.asp,https://www.w3schools.com/colors/colors_picker.asp,https://www.w3schools.com/howto/default.asp,https://www.w3schools.com/howto/howto_js_tabs.asp,https://www.w3schools.com/howto/howto_css_dropdown.asp,https://www.w3schools.com/howto/howto_js_accordion.asp,https://www.w3schools.com/howto/howto_js_weight_converter.asp,https://www.w3schools.com/howto/howto_css_animate_buttons.asp,https://www.w3schools.com/howto/howto_js_sidenav.asp,https://www.w3schools.com/howto/howto_js_topnav.asp,https://www.w3schools.com/howto/howto_css_modals.asp,https://www.w3schools.com/howto/howto_js_progressbar.asp,https://www.w3schools.com/howto/howto_css_parallax.asp,https://www.w3schools.com/howto/howto_css_login_form.asp,https://www.w3schools.com/howto/howto_html_include.asp,https://www.w3schools.com/howto/howto_google_maps.asp,https://www.w3schools.com/howto/howto_js_rangeslider.asp,https://www.w3schools.com/howto/howto_css_tooltip.asp,https://www.w3schools.com/howto/howto_js_slideshow.asp,https://www.w3schools.com/howto/howto_js_filter_lists.asp,https://www.w3schools.com/howto/howto_js_sort_list.asp,http://www.facebook.com/sharer.php?u=https://www.w3schools.com/js/js_window_screen.asp,https://twitter.com/home?status=Currently%20reading%20https://www.w3schools.com/js/js_window_screen.asp,https://plus.google.com/share?url=https://www.w3schools.com/js/js_window_screen.asp,javascript:void(0);,https://www.w3schools.com/cert/default.asp,https://www.w3schools.com/cert/cert_html.asp,https://www.w3schools.com/cert/cert_css.asp,https://www.w3schools.com/cert/cert_javascript.asp,https://www.w3schools.com/cert/cert_php.asp,https://www.w3schools.com/cert/cert_jquery.asp,https://www.w3schools.com/cert/cert_bootstrap.asp,https://www.w3schools.com/cert/cert_xml.asp,https://www.w3schools.com/cert/default.asp,javascript:void(0);,javascript:void(0);,https://www.w3schools.com/forum/default.asp,https://www.w3schools.com/about/default.asp,https://www.w3schools.com/html/default.asp,https://www.w3schools.com/css/default.asp,https://www.w3schools.com/js/default.asp,https://www.w3schools.com/howto/default.asp,https://www.w3schools.com/w3css/default.asp,https://www.w3schools.com/bootstrap/default.asp,https://www.w3schools.com/sql/default.asp,https://www.w3schools.com/php/default.asp,https://www.w3schools.com/jquery/default.asp,https://www.w3schools.com/angular/default.asp,https://www.w3schools.com/tags/default.asp,https://www.w3schools.com/cssref/default.asp,https://www.w3schools.com/jsref/default.asp,https://www.w3schools.com/w3css/w3css_references.asp,https://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp,https://www.w3schools.com/sql/sql_ref_mysql.asp,https://www.w3schools.com/php/php_ref_overview.asp,https://www.w3schools.com/colors/colors_names.asp,https://www.w3schools.com/jquery/jquery_ref_overview.asp,https://www.w3schools.com/angular/angular_ref_directives.asp,https://www.w3schools.com/html/html_examples.asp,https://www.w3schools.com/css/css_examples.asp,https://www.w3schools.com/js/js_examples.asp,https://www.w3schools.com/howto/default.asp,https://www.w3schools.com/w3css/w3css_examples.asp,https://www.w3schools.com/bootstrap/bootstrap_examples.asp,https://www.w3schools.com/php/php_examples.asp,https://www.w3schools.com/jquery/jquery_examples.asp,https://www.w3schools.com/angular/angular_examples.asp,https://www.w3schools.com/xml/xml_examples.asp,https://www.w3schools.com/cert/default.asp,https://www.w3schools.com/cert/default.asp,https://www.w3schools.com/cert/default.asp,https://www.w3schools.com/cert/default.asp,https://www.w3schools.com/cert/default.asp,https://www.w3schools.com/cert/default.asp,https://www.w3schools.com/cert/default.asp,https://www.w3schools.com/about/about_copyright.asp,https://www.w3schools.com/about/about_privacy.asp,https://www.w3schools.com/about/about_copyright.asp,https://www.w3schools.com/w3css/,https://www.w3schools.com/"
+}
+
+/* 692 */
+{
+    "_id" : ObjectId("5b5aea6e615fe1676d93fc4a"),
+    "url" : "https://quantrimang.com/,https://quantrimang.com/,https://quantrimang.com/lang-cong-nghe,https://quantrimang.com/cong-nghe,https://quantrimang.com/khoa-hoc,https://quantrimang.com/cuoc-song,https://quantrimang.com/video,https://quantrimang.com/ung-dung,https://quantrimang.com/ios,https://quantrimang.com/android,https://quantrimang.com/lap-trinh,https://quantrimang.com/windows-10-os,https://quantrimang.com/,https://quantrimang.com/cong-nghe,https://quantrimang.com/kien-thuc-co-ban,https://quantrimang.com/dinh-dang-imax-la-gi-151190,https://quantrimang.com/chu-q-trong-qled-cua-tv-samsung-co-y-nghia-gi-148366,https://quantrimang.com/tim-hieu-do-phan-giai-pho-bien-hien-nay-tren-tivi-121209,https://quantrimang.com/mang-5g-la-gi-130446,https://quantrimang.com/youtube-mua-cong-ty-truyen-hinh-internet-cua-my-76316,https://quantrimang.com/cac-cong-nghe-man-hinh-di-dong-75280,https://quantrimang.com/nhung-do-cong-nghe-cao-loi-hen-nguoi-dung-64556,https://quantrimang.com/iptv-truyen-hinh-cua-tuong-lai-40397,https://quantrimang.com/iptv-canh-tranh-voi-truyen-hinh-truyen-thong-22975,https://quantrimang.com/cach-choi-game-android-tren-may-tinh-bang-amiduos-155912,https://quantrimang.com/generic-trong-c-155962,https://quantrimang.com/huong-dan-nap-tien-vao-grabpay-155960,https://quantrimang.com/cach-bat-material-design-cua-chrome-tren-ios-155959,https://quantrimang.com/collection-trong-c-155956,https://quantrimang.com/samsung-lai-quang-cao-ve-pin-moi-2-nam-sau-tham-hoa-note-7-155957,https://quantrimang.com/cach-kiem-tra-thue-bao-viettel-co-can-bo-sung-thong-tin-ca-nhan-truoc-ngay-24-4-hay-khong-148333,https://quantrimang.com/cac-phim-tat-trong-vista-47472,https://quantrimang.com/yeu-cau-cau-hinh-de-su-dung-windows-7-56575,https://quantrimang.com/5-dau-hieu-may-tinh-nhiem-phan-mem-doc-hai-84891,https://quantrimang.com/google-chrome-la%CC%80-he%CC%A3-die%CC%80u-ha%CC%80nh-da%CC%81m-may-48668,https://quantrimang.com/dong-bo-hoa-du-lieu-giua-cac-nen-tang-va-thiet-bi-79597,https://quantrimang.com/kien-thuc-co-ban,https://quantrimang.com/11-thu-thuat-giup-ban-khac-phuc-loi-full-disk-100-tren-windows-8-1-112336,https://quantrimang.com/lam-the-nao-de-mo-file-word-excel-powerpoint-116981,https://quantrimang.com/huong-dan-tao-group-email-trong-gmail-84112,https://quantrimang.com/da-co-cach-tai-file-iso-cua-windows-10-tu-microsoft-116913,https://quantrimang.com/huong-dan-cach-tao-usb-cai-dat-windows-10-116910,https://quantrimang.com/bang-ma-vung-dien-thoai-quoc-te-148434,https://quantrimang.com/cach-kiem-tra-goi-cuoc-internet-mang-fpt-vnpt-viettel-dang-dung-147741,https://quantrimang.com/10-cach-su-dung-tinh-nang-paste-trong-excel-84371,https://quantrimang.com/10-viec-khong-nen-lam-khi-su-dung-may-tinh-97090,https://quantrimang.com/khac-biet-giua-windows-32bit-va-64bit-67517,https://www.facebook.com/quantrimang.com.vn,https://quantrimang.com/cong-nghe,https://quantrimang.com/ung-dung,https://quantrimang.com/chat-nhan-tin-goi-dien,https://quantrimang.com/mang-xa-hoi,https://quantrimang.com/phan-mem-nhac,https://quantrimang.com/tin-hoc-van-phong,https://quantrimang.com/trinh-doc-email,https://quantrimang.com/email,https://quantrimang.com/luu-tru-chia-se,https://quantrimang.com/trinh-duyet,https://quantrimang.com/chinh-sua-anh,https://quantrimang.com/bo-go-tieng-viet,https://quantrimang.com/thiet-ke-do-hoa,https://quantrimang.com/nen-va-giai-nen,https://quantrimang.com/phan-mem-chuyen-doi,https://quantrimang.com/ho-tro-download-upload,https://quantrimang.com/website-blog,https://quantrimang.com/phan-mem-gia-lap,https://quantrimang.com/ban-do-dinh-vi,https://quantrimang.com/chinh-sua-video,https://quantrimang.com/thanh-toan-online,https://quantrimang.com/cai-dat-go-bo,https://quantrimang.com/free-license,https://quantrimang.com/he-thong,https://quantrimang.com/windows-10-os,https://quantrimang.com/windows-8-os,https://quantrimang.com/windows-7-os,https://quantrimang.com/windows-xp,https://quantrimang.com/ghost-cai-dat-windows,https://quantrimang.com/sua-loi-may-tinh,https://quantrimang.com/giaiphapbaomat,https://quantrimang.com/diet-virus-spyware,https://quantrimang.com/bao-mat-may-tinh,https://quantrimang.com/lan-wan,https://quantrimang.com/cau-hinh-router-switch,https://quantrimang.com/may-chu,https://quantrimang.com/mail-server,https://quantrimang.com/thu-thuat-wifi,https://quantrimang.com/tang-toc-may-tinh,https://quantrimang.com/windows-server2012,https://quantrimang.com/hinh-nen-may-tinh,https://quantrimang.com/game-tro-choi,https://quantrimang.com/pokemon-go,https://quantrimang.com/game-pc,https://quantrimang.com/game-mobile,https://quantrimang.com/choi-game-online,https://quantrimang.com/ios,https://quantrimang.com/thiet-lap-co-ban-ios,https://quantrimang.com/du-lieu-ios,https://quantrimang.com/thu-thuat-ung-dung-ios,https://quantrimang.com/chat-goi-dien-nhan-tin-ios,https://quantrimang.com/mang-xa-hoi-ios,https://quantrimang.com/chup-va-xu-ly-anh-ios,https://quantrimang.com/quan-ly-chinh-sua-video-ios,https://quantrimang.com/trinh-duyet-add-on-ios,https://quantrimang.com/bao-mat-diet-virus-ios,https://quantrimang.com/luu-tru-dong-bo-ios,https://quantrimang.com/ca-nhan-hoa-ios,https://quantrimang.com/hinh-nen-nhac-chuong-ios,https://quantrimang.com/ban-do-dinh-vi-ios,https://quantrimang.com/android,https://quantrimang.com/thiet-lap-co-ban,https://quantrimang.com/du-lieu,https://quantrimang.com/thu-thuat-ung-dung,https://quantrimang.com/chat-goi-dien-nhan-tin-android,https://quantrimang.com/mang-xa-hoi-android,https://quantrimang.com/chup-va-xu-ly-anh-android,https://quantrimang.com/quan-ly-chinh-sua-video-android,https://quantrimang.com/trinh-duyet-add-on-android,https://quantrimang.com/bao-mat-diet-virus-android,https://quantrimang.com/luu-tru-dong-bo-android,https://quantrimang.com/ca-nhan-hoa-android,https://quantrimang.com/hinh-nen-nhac-chuong-android,https://quantrimang.com/ban-do-dinh-vi-android,https://quantrimang.com/windows-phone,https://quantrimang.com/thiet-lap-co-ban-wp,https://quantrimang.com/may-anh-may-quay,https://quantrimang.com/mac-os-x,https://quantrimang.com/bao-mat-mac,https://quantrimang.com/ung-dung-van-phong-mac,https://quantrimang.com/quan-ly-email-mac,https://quantrimang.com/phan-mem-he-thong-mac,https://quantrimang.com/du-lieu-file-mac,https://quantrimang.com/phan-cung-mac,https://quantrimang.com/phan-cung,https://quantrimang.com/tu-van-mua-may,https://quantrimang.com/may-pc,https://quantrimang.com/laptop,https://quantrimang.com/thiet-bi-mang,https://quantrimang.com/may-in,https://quantrimang.com/usb-o-flash,https://quantrimang.com/thu-thuat-seo,https://quantrimang.com/kien-thuc-co-ban,https://quantrimang.com/linux-os,https://quantrimang.com/dich-vu-ngan-hang,https://quantrimang.com/lap-trinh,https://quantrimang.com/sql,https://quantrimang.com/python,https://quantrimang.com/php,https://quantrimang.com/html,https://quantrimang.com/co-so-du-lieu,https://quantrimang.com/sql-server,https://quantrimang.com/hoc-css,https://quantrimang.com/csharp,https://quantrimang.com/jquery,https://quantrimang.com/lang-cong-nghe,https://quantrimang.com/tan-cong-mang,https://quantrimang.com/chuyen-cong-nghe,https://quantrimang.com/cong-nghe-moi,https://quantrimang.com/ai,https://quantrimang.com/anh-tai-cong-nghe,https://quantrimang.com/steve-jobs,https://quantrimang.com/jack-ma,https://quantrimang.com/bill-gates,https://quantrimang.com/mark-zuckerberg,https://quantrimang.com/hacker,https://quantrimang.com/binh-luan-cong-nghe,https://quantrimang.com/trac-nghiem-cong-nghe-thong-tin,https://quantrimang.com/khoa-hoc,https://quantrimang.com/thi-nghiem-khoa-hoc,https://quantrimang.com/kham-pha-khoa-hoc,https://quantrimang.com/bi-an-chuyen-la,https://quantrimang.com/suc-khoe,https://quantrimang.com/suc-khoe-gia-dinh,https://quantrimang.com/bi-quyet-song-vui,https://quantrimang.com/khoa-hoc-vu-tru,https://quantrimang.com/kham-pha-thien-nhien,https://quantrimang.com/the-gioi-dong-vat,https://quantrimang.com/dai-duong-hoc,https://quantrimang.com/the-gioi-thuc-vat,https://quantrimang.com/khi-hau-thoi-tiet,https://quantrimang.com/bao-ve-thien-nhien,https://quantrimang.com/moi-truong,https://quantrimang.com/y-hoc,https://quantrimang.com/benh-cum,https://quantrimang.com/benh-ung-thu,https://quantrimang.com/khao-co-hoc,https://quantrimang.com/phat-minh-khoa-hoc,https://quantrimang.com/phat-minh-the-gioi,https://quantrimang.com/cau-chuyen-khoa-hoc,https://quantrimang.com/khoa-hoc-cong-nghe,https://quantrimang.com/anh-dep-khoa-hoc,https://quantrimang.com/dien-may,https://quantrimang.com/tivi,https://quantrimang.com/smart-tivi,https://quantrimang.com/tu-lanh,https://quantrimang.com/dieu-hoa,https://quantrimang.com/may-giat,https://quantrimang.com/quat-cac-loai,https://quantrimang.com/cuoc-song,https://quantrimang.com/ky-nang,https://quantrimang.com/ky-nang-song,https://quantrimang.com/ky-nang-cong-viec,https://quantrimang.com/am-thuc,https://quantrimang.com/an-uong-dinh-duong,https://quantrimang.com/lam-dep,https://quantrimang.com/nuoi-day-con,https://quantrimang.com/nha-cua,https://quantrimang.com/kinh-nghiem-du-lich,https://quantrimang.com/diy-handmade,https://quantrimang.com/tet-trung-thu,https://quantrimang.com/cuoi-hoi,https://quantrimang.com/halloween,https://quantrimang.com/meo-vat,https://quantrimang.com/giang-sinh-noel,https://quantrimang.com/tet,https://quantrimang.com/valentine,https://quantrimang.com/chon-qua-tang,https://quantrimang.com/giai-tri,https://quantrimang.com/may-cong-cu,https://quantrimang.com/video,https://quantrimang.com/video-huong-dan,https://quantrimang.com/cisco-lab,https://quantrimang.com/microsoft-lab,https://quantrimang.com/video-khoa-hoc,https://quantrimang.com/tong-hop,https://quantrimang.com/support/about,https://quantrimang.com/support/terms,https://quantrimang.com/support/privacy,https://quantrimang.com/support/help,https://quantrimang.com/support/apps/,https://quantrimang.com/support/contact,https://www.facebook.com/quantrimang.com.vn,https://www.youtube.com/c/quantrimang,https://plus.google.com/+quantrimang,http://meta.vn/,tel:+842422426188,https://www.dmca.com/Protection/Status.aspx?ID=9d523b74-7299-4834-8990-8c157b6e8fc7&refurl=https://quantrimang.com/iptv-la-gi-cong-nghe-truyen-hinh-vi-nguoi-xem-57151"
+}
+
+/* 693 */
+{
+    "_id" : ObjectId("5b5aeae67c5f995735948734"),
+    "url" : "http://www.oravn.com/,http://www.oravn.com/index.php,http://www.oravn.com/oracle-database-administrator-f30/,http://www.oravn.com/t-i-u-hoa-f8/,http://www.oravn.com/#,http://www.oravn.com/memberlist.php?mode=email&t=35070,http://www.oravn.com/viewtopic.php?f=8&t=35070&start=0&&view=print,http://www.oravn.com/ucp.php,http://www.oravn.com/ucp.php?i=pm&folder=inbox,http://www.oravn.com/member/pkt_zz/topics/,http://www.oravn.com/newposts.html,http://www.oravn.com/faq.php,http://www.oravn.com/downloads.php,http://www.oravn.com/memberlist.php,http://www.oravn.com/ucp.php?mode=logout&sid=0570c8081cee7adb80ac643201141eaf,http://www.oravn.com/t-i-u-hoa-f8/real-time-sql-monitoring-t35070.html,http://www.oravn.com/posting.php?mode=reply&f=8&t=35070,http://www.oravn.com/post77037.html#p77037,http://www.oravn.com/member/lamgak/,http://www.oravn.com/ucp.php?i=pm&mode=compose&action=quotepost&p=77037,http://www.oravn.com/t-i-u-hoa-f8/real-time-sql-monitoring-t35070.html#p77037,http://www.oracle.com/technetwork/database/manageability/owp-sql-monitoring-128746.pdf,http://www.oravn.com/#,http://download.oracle.com/technology/products/manageability/database/active-reports/faq_ctas.html,http://docs.oracle.com/cd/E11882_01/server.112/e41573/instance_tune.htm#PFGRF94543,http://www.oracle.com/technetwork/database/manageability/owp-sql-monitoring-128746.pdf,http://docs.oracle.com/cd/E11882_01/server.112/e16638/instance_tune.htm#PFGRF94543,http://www.oracle-base.com/articles/11g/real-time-sql-monitoring-11gr1.php,http://www.oravn.com/topic41274.html,http://www.oravn.com/member/tomtit/,http://www.oravn.com/topic38110.html,http://www.oravn.com/member/hongtham123/,http://www.oravn.com/topic34380.html,http://www.oravn.com/member/daitd/,http://www.oravn.com/topic35525.html,http://www.oravn.com/member/likeoracle/,http://www.oravn.com/topic35094.html,http://www.oravn.com/member/likeoracle/,http://www.oravn.com/report.php?f=8&p=77037,http://www.oravn.com/posting.php?mode=quote&f=8&p=77037,http://www.oravn.com/t-i-u-hoa-f8/real-time-sql-monitoring-t35070.html#wrap,http://www.oravn.com/posting.php?mode=reply&f=8&t=35070,http://www.oravn.com/t-i-u-hoa-f8/,http://www.oravn.com/viewonline.php,http://www.oravn.com/member/pkt_zz/,http://www.oravn.com/,http://www.oravn.com/viewtopic.php?uid=23816&f=8&t=35070&watch=topic&start=0&hash=eb4b3ba1,http://www.oravn.com/viewtopic.php?f=8&t=35070&bookmark=1&hash=eb4b3ba1,http://www.oravn.com/the-team.html,http://www.oravn.com/ucp.php?mode=delete_cookies,http://www.oravn.com/maps/,http://www.oravn.com/sitemapindex.xml,http://www.oravn.com/rss/news/rss.xml,http://www.oravn.com/rss/news/,http://www.phpbb.com/"
+}
+
+/* 694 */
+{
+    "_id" : ObjectId("5b5aebac7c5f995735948736"),
+    "url" : "https://www.google.com.vn/intl/vi/options/,https://accounts.google.com/SignOutOptions?hl=vi&continue=https://www.google.com.vn/search%3Fbiw%3D1280%26bih%3D901%26ei%3DouFaW4_vBYmnoASzpYfoAQ%26q%3Dc%25C3%25B4ng%2Bngh%25E1%25BB%2587%2Btruy%25E1%25BB%2581n%2Bh%25C3%25ACnh%2Bs%25E1%25BB%2591%2Bv%25E1%25BB%2587%2Btinh%26oq%3Dc%25C3%25B4ng%2Bngh%25E1%25BB%2587%2Btruy%25E1%25BB%2581n%2Bh%25C3%25ACnh%2Bs%26gs_l%3Dpsy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI,https://www.google.com.vn/webhp?hl=vi&sa=X&ved=0ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQPAgD,javascript:void(0),javascript:void(0),https://support.google.com/websearch/answer/186645?hl=vi,https://www.google.com.vn/search?biw=1280&bih=901&ei=ouFaW4_vBYmnoASzpYfoAQ&q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&oq=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s&gs_l=psy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI#,https://www.google.com.vn/search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&biw=1280&bih=901&source=lnms&tbm=vid&sa=X&ved=0ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQ_AUICigB,https://www.google.com.vn/search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&biw=1280&bih=901&source=lnms&tbm=nws&sa=X&ved=0ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQ_AUICygC,https://www.google.com.vn/search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&biw=1280&bih=901&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQ_AUIDCgD,https://www.google.com.vn/search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&biw=1280&bih=901&source=lnms&tbm=bks&sa=X&ved=0ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQ_AUIDigA,https://www.google.com.vn/search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&biw=1280&bih=901&source=lnms&tbm=fin&sa=X&ved=0ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQ_AUIDygB,https://www.google.com.vn/preferences,https://www.google.com.vn/preferences?hl=vi&prev=https://www.google.com.vn/search?biw%3D1280%26bih%3D901%26ei%3DouFaW4_vBYmnoASzpYfoAQ%26q%3Dc%25C3%25B4ng%2Bngh%25E1%25BB%2587%2Btruy%25E1%25BB%2581n%2Bh%25C3%25ACnh%2Bs%25E1%25BB%2591%2Bv%25E1%25BB%2587%2Btinh%26oq%3Dc%25C3%25B4ng%2Bngh%25E1%25BB%2587%2Btruy%25E1%25BB%2581n%2Bh%25C3%25ACnh%2Bs%26gs_l%3Dpsy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI,https://www.google.com.vn/preferences?hl=vi&prev=https://www.google.com.vn/search?biw%3D1280%26bih%3D901%26ei%3DouFaW4_vBYmnoASzpYfoAQ%26q%3Dc%25C3%25B4ng%2Bngh%25E1%25BB%2587%2Btruy%25E1%25BB%2581n%2Bh%25C3%25ACnh%2Bs%25E1%25BB%2591%2Bv%25E1%25BB%2587%2Btinh%26oq%3Dc%25C3%25B4ng%2Bngh%25E1%25BB%2587%2Btruy%25E1%25BB%2581n%2Bh%25C3%25ACnh%2Bs%26gs_l%3Dpsy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI#languages,https://www.google.com.vn/setprefs?safeui=on&sig=0_HRIfMflnCdt1q09stKuWgk3Y0FY%3D&prev=https://www.google.com.vn/search?biw%3D1280%26bih%3D901%26ei%3DouFaW4_vBYmnoASzpYfoAQ%26q%3Dc%25C3%25B4ng%2Bngh%25E1%25BB%2587%2Btruy%25E1%25BB%2581n%2Bh%25C3%25ACnh%2Bs%25E1%25BB%2591%2Bv%25E1%25BB%2587%2Btinh%26oq%3Dc%25C3%25B4ng%2Bngh%25E1%25BB%2587%2Btruy%25E1%25BB%2581n%2Bh%25C3%25ACnh%2Bs%26gs_l%3Dpsy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI,https://www.google.com.vn/search?biw=1280&bih=901&ei=ouFaW4_vBYmnoASzpYfoAQ&q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&oq=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s&gs_l=psy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI&pws=0,https://www.google.com.vn/advanced_search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&biw=1280&bih=901&hl=vi,https://www.google.com.vn/history/?hl=vi,https://support.google.com/websearch/?source=g&hl=vi,https://www.google.com.vn/search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&biw=1280&bih=901&source=lnt&tbs=ctr:countryVN&cr=countryVN&sa=X&ved=0ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQpwUIHQ,https://www.google.com.vn/search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&biw=1280&bih=901&source=lnt&tbs=lr:lang_1vi&lr=lang_vi&sa=X&ved=0ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQpwUIHQ,https://www.google.com.vn/search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&biw=1280&bih=901&source=lnt&tbs=qdr:h&sa=X&ved=0ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQpwUIHQ,https://www.google.com.vn/search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&biw=1280&bih=901&source=lnt&tbs=qdr:d&sa=X&ved=0ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQpwUIHQ,https://www.google.com.vn/search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&biw=1280&bih=901&source=lnt&tbs=qdr:w&sa=X&ved=0ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQpwUIHQ,https://www.google.com.vn/search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&biw=1280&bih=901&source=lnt&tbs=qdr:m&sa=X&ved=0ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQpwUIHQ,https://www.google.com.vn/search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&biw=1280&bih=901&source=lnt&tbs=qdr:y&sa=X&ved=0ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQpwUIHQ,https://www.google.com.vn/search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s&biw=1280&bih=901&source=lnt&tbs=li:1&sa=X&ved=0ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQpwUIHQ,https://truyenhinhanvienhd.vn/truyen-hinh-ky-thuat-so-ve-tinh-dth-la-gi/,https://www.google.com.vn/search?biw=1280&bih=901&ei=ouFaW4_vBYmnoASzpYfoAQ&q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&oq=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s&gs_l=psy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI#,https://webcache.googleusercontent.com/search?q=cache:J8-5Dvd-rzgJ:https://truyenhinhanvienhd.vn/truyen-hinh-ky-thuat-so-ve-tinh-dth-la-gi/+&cd=1&hl=vi&ct=clnk&gl=vn,https://www.google.com.vn/search?biw=1280&bih=901&q=related:https://truyenhinhanvienhd.vn/truyen-hinh-ky-thuat-so-ve-tinh-dth-la-gi/+c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&tbo=1&sa=X&ved=2ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQHzAAegQIARAF,https://truyenhinhavg.vn/truyen-hinh-ky-thuat-so-ve-tinh-dth-la-gi/,https://www.google.com.vn/search?biw=1280&bih=901&ei=ouFaW4_vBYmnoASzpYfoAQ&q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&oq=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s&gs_l=psy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI#,https://webcache.googleusercontent.com/search?q=cache:6LBMER5S2A8J:https://truyenhinhavg.vn/truyen-hinh-ky-thuat-so-ve-tinh-dth-la-gi/+&cd=2&hl=vi&ct=clnk&gl=vn,https://www.google.com.vn/search?biw=1280&bih=901&q=related:https://truyenhinhavg.vn/truyen-hinh-ky-thuat-so-ve-tinh-dth-la-gi/+c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&tbo=1&sa=X&ved=2ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQHzABegQIABAG,http://www.lapdattruyenhinhnhanh.com/gioi-thieu-myk-truyen-hinh-so-ve-tinh-k/,https://www.youtube.com/watch?v=TZFq0x81pI8,https://www.youtube.com/watch?v=Uc-7JD2lPV0,https://www.youtube.com/watch?v=k5J0rLowSek,https://www.youtube.com/watch?v=vdEQVN9ACA8,https://www.youtube.com/watch?v=kyt4RXf2DPg,https://www.youtube.com/watch?v=gh0Mu42eZng,https://www.kplus.vn/,https://www.google.com.vn/search?biw=1280&bih=901&ei=ouFaW4_vBYmnoASzpYfoAQ&q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&oq=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s&gs_l=psy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI#,https://webcache.googleusercontent.com/search?q=cache:gS_jd18GSLEJ:https://www.kplus.vn/+&cd=10&hl=vi&ct=clnk&gl=vn,https://www.kplus.vn/ho-tro/cac-cach-gia-han,https://www.kplus.vn/mykplus/vi-vn/account/login,https://www.kplus.vn/ho-tro/gia-han-truc-tuyen,https://www.kplus.vn/my-kplus/xem-tv-truc-tuyen?aspxautodetectcookiesupport=1,https://vi.wikipedia.org/wiki/Truy%E1%BB%81n_h%C3%ACnh_k%E1%BB%B9_thu%E1%BA%ADt_s%E1%BB%91,https://www.google.com.vn/search?biw=1280&bih=901&ei=ouFaW4_vBYmnoASzpYfoAQ&q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&oq=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s&gs_l=psy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI#,https://webcache.googleusercontent.com/search?q=cache:XAI8fQtZ6oIJ:https://vi.wikipedia.org/wiki/Truy%25E1%25BB%2581n_h%25C3%25ACnh_k%25E1%25BB%25B9_thu%25E1%25BA%25ADt_s%25E1%25BB%2591+&cd=11&hl=vi&ct=clnk&gl=vn,https://www.google.com.vn/search?biw=1280&bih=901&q=related:https://vi.wikipedia.org/wiki/Truy%25E1%25BB%2581n_h%25C3%25ACnh_k%25E1%25BB%25B9_thu%25E1%25BA%25ADt_s%25E1%25BB%2591+c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&tbo=1&sa=X&ved=2ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQHzAKegQIAxAF,https://www.dienmayxanh.com/kinh-nghiem-hay/dvb-s2-la-gi-690996,https://www.google.com.vn/search?biw=1280&bih=901&ei=ouFaW4_vBYmnoASzpYfoAQ&q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&oq=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s&gs_l=psy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI#,https://webcache.googleusercontent.com/search?q=cache:z18JnA1z7TEJ:https://www.dienmayxanh.com/kinh-nghiem-hay/dvb-s2-la-gi-690996+&cd=12&hl=vi&ct=clnk&gl=vn,https://www.google.com.vn/search?biw=1280&bih=901&q=related:https://www.dienmayxanh.com/kinh-nghiem-hay/dvb-s2-la-gi-690996+c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&tbo=1&sa=X&ved=2ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQHzALegQIBBAG,https://vnreview.vn/tu-van-do-gia-dung/-/view_content/content/1952879/cac-dich-vu-truyen-hinh-tai-viet-nam,https://www.google.com.vn/search?biw=1280&bih=901&ei=ouFaW4_vBYmnoASzpYfoAQ&q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&oq=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s&gs_l=psy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI#,https://webcache.googleusercontent.com/search?q=cache:rogUfVaHLTwJ:https://vnreview.vn/tu-van-do-gia-dung/-/view_content/content/1952879/cac-dich-vu-truyen-hinh-tai-viet-nam+&cd=13&hl=vi&ct=clnk&gl=vn,https://www.google.com.vn/search?biw=1280&bih=901&q=related:https://vnreview.vn/tu-van-do-gia-dung/-/view_content/content/1952879/cac-dich-vu-truyen-hinh-tai-viet-nam+c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&tbo=1&sa=X&ved=2ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQHzAMegQIBRAF,http://truyenhinhavg.org/truyen-hinh-ky-thuat-so-ve-tinh-dth-an-vien.html,https://www.google.com.vn/search?biw=1280&bih=901&ei=ouFaW4_vBYmnoASzpYfoAQ&q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&oq=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s&gs_l=psy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI#,http://webcache.googleusercontent.com/search?q=cache:P6ieOwq5d3sJ:truyenhinhavg.org/truyen-hinh-ky-thuat-so-ve-tinh-dth-an-vien.html+&cd=14&hl=vi&ct=clnk&gl=vn,https://www.google.com.vn/search?biw=1280&bih=901&q=related:truyenhinhavg.org/truyen-hinh-ky-thuat-so-ve-tinh-dth-an-vien.html+c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&tbo=1&sa=X&ved=2ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQHzANegQIBxAF,http://laptruyenhinhkplus.net/the-nao-la-truyen-hinh-ve-tinh-dth/,https://www.google.com.vn/search?biw=1280&bih=901&ei=ouFaW4_vBYmnoASzpYfoAQ&q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&oq=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s&gs_l=psy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI#,http://webcache.googleusercontent.com/search?q=cache:yJPhKH32pjgJ:laptruyenhinhkplus.net/the-nao-la-truyen-hinh-ve-tinh-dth/+&cd=15&hl=vi&ct=clnk&gl=vn,http://dauthukythuatso.vn/truyen-hinh-ky-thuat-so-mat-dat-khac-ve-tinh-nhu-the-nao-17,https://www.google.com.vn/search?biw=1280&bih=901&ei=ouFaW4_vBYmnoASzpYfoAQ&q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&oq=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s&gs_l=psy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI#,http://webcache.googleusercontent.com/search?q=cache:tj6TdkqReYIJ:dauthukythuatso.vn/truyen-hinh-ky-thuat-so-mat-dat-khac-ve-tinh-nhu-the-nao-17+&cd=16&hl=vi&ct=clnk&gl=vn,https://www.google.com.vn/search?biw=1280&bih=901&q=related:dauthukythuatso.vn/truyen-hinh-ky-thuat-so-mat-dat-khac-ve-tinh-nhu-the-nao-17+c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&tbo=1&sa=X&ved=2ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQHzAPegQICRAG,https://www.google.com.vn/search?biw=1280&bih=901&q=truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+l%C3%A0+g%C3%AC&sa=X&ved=0ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQ1QIIuQEoAA,https://www.google.com.vn/search?biw=1280&bih=901&q=truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh+m%E1%BA%B7t+%C4%91%E1%BA%A5t&sa=X&ved=0ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQ1QIIugEoAQ,https://www.google.com.vn/search?biw=1280&bih=901&q=truy%E1%BB%81n+h%C3%ACnh+k%E1%BB%B9+thu%E1%BA%ADt+s%E1%BB%91+l%C3%A0+g%C3%AC&sa=X&ved=0ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQ1QIIuwEoAg,https://www.google.com.vn/search?biw=1280&bih=901&q=truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+m%E1%BA%B7t+%C4%91%E1%BA%A5t+l%C3%A0+g%C3%AC&sa=X&ved=0ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQ1QIIvAEoAw,https://www.google.com.vn/search?biw=1280&bih=901&q=t%C3%ACm+hi%E1%BB%83u+v%E1%BB%81+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&sa=X&ved=0ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQ1QIIvQEoBA,https://www.google.com.vn/search?biw=1280&bih=901&q=truy%E1%BB%81n+h%C3%ACnh+an+vi%C3%AAn&sa=X&ved=0ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQ1QIIvgEoBQ,https://www.google.com.vn/search?biw=1280&bih=901&q=truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh+dvb-s2&sa=X&ved=0ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQ1QIIvwEoBg,https://www.google.com.vn/search?biw=1280&bih=901&q=so+s%C3%A1nh+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+m%E1%BA%B7t+%C4%91%E1%BA%A5t+v%C3%A0+v%E1%BB%87+tinh&sa=X&ved=0ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQ1QIIwAEoBw,https://www.google.com.vn/search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&biw=1280&bih=901&ei=XutaW6KBCZXZhwPn0qIw&start=10&sa=N,https://www.google.com.vn/search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&biw=1280&bih=901&ei=XutaW6KBCZXZhwPn0qIw&start=20&sa=N,https://www.google.com.vn/search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&biw=1280&bih=901&ei=XutaW6KBCZXZhwPn0qIw&start=30&sa=N,https://www.google.com.vn/search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&biw=1280&bih=901&ei=XutaW6KBCZXZhwPn0qIw&start=40&sa=N,https://www.google.com.vn/search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&biw=1280&bih=901&ei=XutaW6KBCZXZhwPn0qIw&start=50&sa=N,https://www.google.com.vn/search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&biw=1280&bih=901&ei=XutaW6KBCZXZhwPn0qIw&start=60&sa=N,https://www.google.com.vn/search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&biw=1280&bih=901&ei=XutaW6KBCZXZhwPn0qIw&start=70&sa=N,https://www.google.com.vn/search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&biw=1280&bih=901&ei=XutaW6KBCZXZhwPn0qIw&start=80&sa=N,https://www.google.com.vn/search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&biw=1280&bih=901&ei=XutaW6KBCZXZhwPn0qIw&start=90&sa=N,https://www.google.com.vn/search?q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&biw=1280&bih=901&ei=XutaW6KBCZXZhwPn0qIw&start=10&sa=N,https://lh5.googleusercontent.com/p/AF1QipNFZ8r_4Pc_RdTobO_5LpGTF4UC8I3sIWGP8zyV=w160-h160-k-no,https://www.google.com.vn/maps/place/C%C3%B4ng+Ty+TNHH+Truy%E1%BB%81n+H%C3%ACnh+S%E1%BB%91+V%E1%BB%87+Tinh+Vi%E1%BB%87t+Nam/@21.0294828,105.8115096,15z/data=!4m2!3m1!1s0x0:0xc38a6c982ea5ce1?sa=X&ved=2ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQ_BIwEHoECAoQCw,http://www.kplus.vn/,https://www.google.com.vn/maps/dir/''/c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh/data=!4m5!4m4!1m0!1m2!1m1!1s0x3135ab6bf53c4d29:0xc38a6c982ea5ce1?sa=X&ved=2ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQ9RcwEXoECAoQHQ,https://www.google.com.vn/search?biw=1280&bih=901&ei=ouFaW4_vBYmnoASzpYfoAQ&q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&oq=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s&gs_l=psy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI#,javascript:void(0),https://www.google.com.vn/search?biw=1280&bih=901&q=c%C3%B4ng+ty+tnhh+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh+vi%E1%BB%87t+nam+%C4%91%E1%BB%8Ba+ch%E1%BB%89&stick=H4sIAAAAAAAAAOPgE-LRT9c3zEgzTq8sqTLQks1OttLPyU9OLMnMz4MzrBJTUopSi4sB4JS3si8AAAA&ludocid=880637111565966561&sa=X&ved=2ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQ6BMwFnoECAoQKw,https://www.google.com.vn/search?biw=1280&bih=901&q=c%C3%B4ng+ty+tnhh+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh+vi%E1%BB%87t+nam+gi%E1%BB%9D&ludocid=880637111565966561&sa=X&ved=2ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQ6BMwF3oECAoQLg,https://www.google.com.vn/search?biw=1280&bih=901&q=c%C3%B4ng+ty+tnhh+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh+vi%E1%BB%87t+nam+%C4%91i%E1%BB%87n+tho%E1%BA%A1i&ludocid=880637111565966561&sa=X&ved=2ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQ6BMwGHoECAoQNA,https://www.google.com/local/add/choice?latlng=880637111565966561&hl=vi&getstarted&gmbsrc=vn-vi-et-ip-z-gmb-s-z-l~skp%7Cclaimbz%7Cu&ppsrc=GMBSI,https://www.google.com.vn/search?biw=1280&bih=901&ei=ouFaW4_vBYmnoASzpYfoAQ&q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&oq=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s&gs_l=psy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI#,https://www.google.com.vn/search?biw=1280&bih=901&ei=ouFaW4_vBYmnoASzpYfoAQ&q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&oq=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s&gs_l=psy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI#,https://www.google.com.vn/search?biw=1280&bih=901&ei=ouFaW4_vBYmnoASzpYfoAQ&q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&oq=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s&gs_l=psy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI#,javascript:void(0);,javascript:void(0),https://www.google.com.vn/search?biw=1280&bih=901&tbm=lcl&q=C%C3%B4ng+Ty+TNHH+Truy%E1%BB%81n+H%C3%ACnh+S%E1%BB%91+V%E1%BB%87+Tinh+Vi%E1%BB%87t+Nam&rflfq=1&num=20&stick=H4sIAAAAAAAAABWPvU0DURCE5QSR29FFV8Lu7H8RVEFgWciOaIMSKACJgBgHBAj6cEoVzL3oaXZn9pv7u-WgBaBTvVUrXb3CqaLM4TIJiUaJVlGNcn4akxkyPaW27FOqU7hk6WO6vWWPZEDYTIi0tJfFsncYU62QqB5vM9tCDR2Y4iTCMy1y2VuMyNRk0d3qqb2JRAoawhRK4KQYzKLRinc8WKM3UmKnAGMuXZWxhR40udEK94CkaqiDqJHmqhOAIQRVzlRpDSd2uZgXAtv9oRWsG8VahGiWYk2eYtOcmCZuxsdu97dbH27Xl9N6Of5-3K6vp_Xx5-1yXJ-_38_r0-n2-XX-By_1AFp-AQAA&sa=X&ved=2ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQ6nUoADAfegQIChBj,https://www.google.com.vn/search?biw=1280&bih=901&tbm=lcl&q=C%C3%B4ng+Ty+TNHH+Truy%E1%BB%81n+H%C3%ACnh+S%E1%BB%91+V%E1%BB%87+Tinh+Vi%E1%BB%87t+Nam&rflfq=1&num=20&stick=H4sIAAAAAAAAABWPvU0DURCE5QSR29FFV8Lu7H8RVEFgWciOaIMSKACJgBgHBAj6cEoVzL3oaXZn9pv7u-WgBaBTvVUrXb3CqaLM4TIJiUaJVlGNcn4akxkyPaW27FOqU7hk6WO6vWWPZEDYTIi0tJfFsncYU62QqB5vM9tCDR2Y4iTCMy1y2VuMyNRk0d3qqb2JRAoawhRK4KQYzKLRinc8WKM3UmKnAGMuXZWxhR40udEK94CkaqiDqJHmqhOAIQRVzlRpDSd2uZgXAtv9oRWsG8VahGiWYk2eYtOcmCZuxsdu97dbH27Xl9N6Of5-3K6vp_Xx5-1yXJ-_38_r0-n2-XX-By_1AFp-AQAA&sa=X&ved=2ahUKEwiiqLWPgb_cAhWV7GEKHWepCAYQ63UoATAfegQIChBk,javascript:void(0);,javascript:void(0);,javascript:void(0);,javascript:void(0);,javascript:void(0);,https://www.google.com.vn/search?biw=1280&bih=901&ei=ouFaW4_vBYmnoASzpYfoAQ&q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&oq=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s&gs_l=psy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI#,https://www.google.com.vn/search?biw=1280&bih=901&ei=ouFaW4_vBYmnoASzpYfoAQ&q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&oq=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s&gs_l=psy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI#,https://support.google.com/websearch?p=ws_settings_location&hl=vi,https://support.google.com/websearch/?p=ws_results_help&hl=vi&fg=1,https://www.google.com.vn/search?biw=1280&bih=901&ei=ouFaW4_vBYmnoASzpYfoAQ&q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&oq=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s&gs_l=psy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI#,https://www.google.com.vn/intl/vi_vn/policies/privacy/?fg=1,https://www.google.com.vn/intl/vi_vn/policies/terms/?fg=1,https://myaccount.google.com/?utm_source=OGB&utm_medium=app,https://www.google.com.vn/webhp?tab=ww,https://www.youtube.com/?gl=VN,https://news.google.com.vn/nwshp?hl=vi&tab=wn,https://mail.google.com/mail/?tab=wm,https://www.google.com/contacts/?hl=vi&tab=wC,https://drive.google.com/?tab=wo&authuser=0,https://www.google.com/calendar?tab=wc,https://plus.google.com/u/0/?gpsrc=ogpy0&tab=wX,https://translate.google.com.vn/?hl=vi&tab=wT,https://photos.google.com/?tab=wq&pageId=none,https://www.google.com.vn/search?biw=1280&bih=901&ei=ouFaW4_vBYmnoASzpYfoAQ&q=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s%E1%BB%91+v%E1%BB%87+tinh&oq=c%C3%B4ng+ngh%E1%BB%87+truy%E1%BB%81n+h%C3%ACnh+s&gs_l=psy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI#,https://www.google.com.vn/intl/vi/options/,https://docs.google.com/document/?usp=docs_alc&authuser=0,https://hangouts.google.com/,https://keep.google.com/u/0,https://classroom.google.com/?authuser=0,https://earth.google.com/web/,https://www.google.com.vn/intl/vi/options/,https://profiles.google.com/?hl=vi&tab=wX,https://myaccount.google.com/privacypolicy,https://myaccount.google.com/?utm_source=OGB&utm_medium=act,https://www.google.com.vn/webhp?authuser=0,https://myaccount.google.com/brandaccounts?authuser=0&continue=https://www.google.com.vn/search%3Fbiw%3D1280%26bih%3D901%26ei%3DouFaW4_vBYmnoASzpYfoAQ%26q%3Dc%25C3%25B4ng%2Bngh%25E1%25BB%2587%2Btruy%25E1%25BB%2581n%2Bh%25C3%25ACnh%2Bs%25E1%25BB%2591%2Bv%25E1%25BB%2587%2Btinh%26oq%3Dc%25C3%25B4ng%2Bngh%25E1%25BB%2587%2Btruy%25E1%25BB%2581n%2Bh%25C3%25ACnh%2Bs%26gs_l%3Dpsy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI&service=https://www.google.com.vn/webhp%3Fauthuser%3D%24authuser,https://accounts.google.com/AddSession?hl=vi&continue=https://www.google.com.vn/search%3Fbiw%3D1280%26bih%3D901%26ei%3DouFaW4_vBYmnoASzpYfoAQ%26q%3Dc%25C3%25B4ng%2Bngh%25E1%25BB%2587%2Btruy%25E1%25BB%2581n%2Bh%25C3%25ACnh%2Bs%25E1%25BB%2591%2Bv%25E1%25BB%2587%2Btinh%26oq%3Dc%25C3%25B4ng%2Bngh%25E1%25BB%2587%2Btruy%25E1%25BB%2581n%2Bh%25C3%25ACnh%2Bs%26gs_l%3Dpsy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI,https://accounts.google.com/Logout?hl=vi&continue=https://www.google.com.vn/search%3Fbiw%3D1280%26bih%3D901%26ei%3DouFaW4_vBYmnoASzpYfoAQ%26q%3Dc%25C3%25B4ng%2Bngh%25E1%25BB%2587%2Btruy%25E1%25BB%2581n%2Bh%25C3%25ACnh%2Bs%25E1%25BB%2591%2Bv%25E1%25BB%2587%2Btinh%26oq%3Dc%25C3%25B4ng%2Bngh%25E1%25BB%2587%2Btruy%25E1%25BB%2581n%2Bh%25C3%25ACnh%2Bs%26gs_l%3Dpsy-ab.3.3.0i22i30k1l10.1510112.2488676.0.2491040.85.35.15.4.4.0.547.5218.0j11j9j2j0j1.24.0....0...1c.1.64.psy-ab..46.39.4283.6..0j35i39k1j0i67k1j0i131k1j0i13k1j33i160k1.248.Rc7bkcRjEQI&timeStmp=1532685150&secTok=.AG5fkS8rFSw2KoyT3rF_fdlGSLQ0BtF01g"
+}
