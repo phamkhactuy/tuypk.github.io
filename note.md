@@ -6,6 +6,7 @@
 
 # Suy nghĩ về việc kết nạp Đảng và mong muốn trở thành Đảng viên hiện nay
 
+let me check
 
 ### Các blog của dev Việt về IT
 
