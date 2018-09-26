@@ -8,26 +8,9 @@
 
 let me check
 
-### FCR Tỉ lệ gọi lại đo hiệu quả của Call Center
-Là IT phụ trách mảng báo cáo trong một công ty mình có tiếp xúc với phòng Dịch vụ khách hàng (Call center)
-Một chỉ số mình cần tính đó là chỉ số FCR: tỉ lệ cuộc gọi lại đầu tiên của khách hàng.
-Ý nghĩa: chỉ số này có ý nghĩa
-Cách tính trong tháng: 
-A: Số KH chỉ gọi 1 lần
-B: Số KH mà khoảng cách gọi 2 lần liên tiếp lớn hơn 7 ngày
-C: Số KH mà khoảng cách gọi 2 lần liên tiếp nhỏ hơn hoặc bằng 7 ngày
-Rate=(A+B)/(A+B+C)
 
 ### Ứng dụng K-MEAN: Phân lớp đối tượng khách hàng theo: độ tuổi..., thời gian gia hạn, thời gian lắp đặt...
 
-### Các blog của dev Việt về IT
-
-### Kinh nghiệm cá nhân khi đi phỏng vấn
-
-- Ăn mặc
-- Chuẩn bị kiến thức
-- Chuẩn bị CV
-- Chuẩn bị về người phỏng vấn
 
 ### Viết về các hệ thống đã được trải nghiệm
 - Icab của VTVCab
