@@ -6,8 +6,6 @@
 
 # Suy nghĩ về việc kết nạp Đảng và mong muốn trở thành Đảng viên hiện nay
 
-let me check
-
 
 ### Ứng dụng K-MEAN: Phân lớp đối tượng khách hàng theo: độ tuổi..., thời gian gia hạn, thời gian lắp đặt...
 
@@ -21,5 +19,8 @@ let me check
 - Hệ thống khách hàng thân thiết
 
 ### Viết một bài hồi tưởng trải nghiệm ở Cô tô, Cát bà, Quảng Bình, Huế, sapa
+
+### Nói chuyện với anh Bùi Duy Hùng 08/2018
+- 
 
 [Quay lại trang chủ](https://phamkhactuy.github.io/tuypk.github.io/index.html)
