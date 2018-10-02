@@ -19,6 +19,11 @@
 - Hệ thống khách hàng thân thiết
 
 ### Viết một bài hồi tưởng trải nghiệm ở Cô tô, Cát bà, Quảng Bình, Huế, sapa
+- Cô Tô
+Tối hôm trước ăn quá nhiều hải sản bị đau bụng, đúng hôm bão. 
+
+- Cát Bà
+
 
 ### Nói chuyện với anh Bùi Duy Hùng 08/2018
 - 
