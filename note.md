@@ -17,6 +17,11 @@
 - Hệ thống tích điểm của KTV
 - Hệ thống khách hàng thân thiết
 ### Giới thiệu những phần mềm hữu ích mà tôi đang dùng
+- Visual Studio: Code C# thì buộc phải dùng cái này, chắc không cần phải giới thiệu nữa. Mình code một số tools dùng ASP.NET.
+- Sniping Tool: Chụp ảnh màn hình máy tính nhanh và tiện. Tool mặc định của Windown
+- Snagit: 1 Tool trả phí nhưng mình dùng chui. Cũng chụp ảnh màn hình nhưng có khả năng vẽ vời, add text, tô màu... rất tiện khi làm hướng dẫn.
+- Notepad++: Là 1 text editer đa năng, hỗ trợ rất nhiều ngôn ngữ lập trình mà lại nhẹ.
+- 
 
 ###
 @tanthegioi: Cậu làm tớ nhớ lại cựu TTK Liên hợp quốc Kofi Annan và vợ thăm Văn Miếu dịp tháng5/2006: Ghi lại cảm tưởng trong cuốn sổ lưu niệm của Quốc Tử Giám, ông Annan viết: "Very severe and peaceful. A great place for students". (Tạm dịch là: Rất giản dị và thanh bình. Một nơi tuyệt vời cho sinh viên). Vợ ông, bà Nane Annan viết thêm: "We remain students". (Chúng ta vẫn là sinh viên).
