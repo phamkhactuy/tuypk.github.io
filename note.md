@@ -39,6 +39,10 @@ Tối hôm trước ăn quá nhiều hải sản bị đau bụng, đúng hôm b
 - Thiền: gạt bỏ những điều không cần thiết, đó có thể coi là buông bỏ
 - Về marketing online: 
 - Nói về facebook với quảng cáo
+### Tôi đã tự động hóa các công việc nhàm chán hàng ngày như thế nào
+- Build birt-report để xuất các file excel-pdf cho kế toán
+- Build tool xử lý các step query chọc trực tiếp vào database
+- 
 
 
 [Quay lại trang chủ](https://phamkhactuy.github.io/tuypk.github.io/index.html)
