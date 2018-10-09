@@ -22,7 +22,7 @@
 - Snagit: 1 Tool trả phí nhưng mình dùng chui. Cũng chụp ảnh màn hình nhưng có khả năng vẽ vời, add text, tô màu... rất tiện khi làm hướng dẫn.
 - Notepad++: Là 1 text editer đa năng, hỗ trợ rất nhiều ngôn ngữ lập trình mà lại nhẹ.
 - 
-
+### Dữ liệu giờ đây mới là nguồn tài nguyên quý giá nhất chứ không phải dầu mỏ
 ###
 @tanthegioi: Cậu làm tớ nhớ lại cựu TTK Liên hợp quốc Kofi Annan và vợ thăm Văn Miếu dịp tháng5/2006: Ghi lại cảm tưởng trong cuốn sổ lưu niệm của Quốc Tử Giám, ông Annan viết: "Very severe and peaceful. A great place for students". (Tạm dịch là: Rất giản dị và thanh bình. Một nơi tuyệt vời cho sinh viên). Vợ ông, bà Nane Annan viết thêm: "We remain students". (Chúng ta vẫn là sinh viên).
 https://www.vinhphuc.gov.vn/ct/cms/t...spx?ItemID=503
