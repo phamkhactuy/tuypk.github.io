@@ -33,7 +33,8 @@ https://www.vinhphuc.gov.vn/ct/cms/t...spx?ItemID=503
 Tối hôm trước ăn quá nhiều hải sản bị đau bụng, đúng hôm bão. Hôm sau có Lăng và sếp Phúc rất quan tâm.
 
 - Cát Bà
-
+### 15/10/2018
+- Như kiểu cả thế giới quay lưng lại với mình, chán thật.
 
 ### Nói chuyện với anh Bùi Duy Hùng 08/2018
 - Thiền: gạt bỏ những điều không cần thiết, đó có thể coi là buông bỏ
