@@ -36,7 +36,7 @@ Tối hôm trước ăn quá nhiều hải sản bị đau bụng, đúng hôm b
 ### 15/10/2018
 - Như kiểu cả thế giới quay lưng lại với mình, chán thật.
 ### 17/10/2018
-- Dư âm từ việc hôm qua bạn học cùng cấp 3 mua xe 2 tỷ, thấy buồn quá. 
+- Dư âm từ việc hôm qua bạn học cùng cấp 3 mua xe 2 tỷ, thấy buồn quá. Chẳng gen ăn tức ở với bạn đâu nhưgn
 
 ### Nói chuyện với anh Bùi Duy Hùng 08/2018
 - Thiền: gạt bỏ những điều không cần thiết, đó có thể coi là buông bỏ
