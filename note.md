@@ -47,22 +47,11 @@ Tối hôm trước ăn quá nhiều hải sản bị đau bụng, đúng hôm b
 - Build tool xử lý các step query chọc trực tiếp vào database
 - 
 
-Chưa biết thì thật khó,biết rồi còn thấy khó (nghĩ) hơn
+
 
 ---
-----Viết về vấn đề lỗi không điều khiển được Arduino
---Tiêu đề: Sử dụng Arduino điều khiển xe mô hình
-+ Giới thiệu về dự án đang làm
-Mình làm luận văn thạc sĩ Hệ thống thông tin về: Xây dựng hệ thống điều khiển thiết bị bằng thiết bị Epoc Emotiv trong đó có 1 phần trong thực hành đó là dùng Arduino điều khiển xe mô hình.
-Cụ thể máy tính sẽ thực hiện phát lệnh tiến lui, rẽ phải trái tới xe mô hình thông qua thiết bị Arduino.
-Thiết bị mình sử dụng: 
-- Bo mạch Arduino hoặc là Wemos R1
-- Module cầu H điều khiển 2 motor L298N
-- Motor động cơ giảm tốc DC
-Trong quá trình mình triển khai thì mình không tài nào có thể điều khiển được motor quay theo chiều ngược lại. Ban đầu mình đấu có phần sai nhưng đó không phải là tất cả. Đấu sai nhưng vẫn quay được motor nhưng chỉ quay 1 chiều duy nhất.
-Sau đó phát hiện có thể lỗi là do thằng
-+ Lỗi là do cái dây
-+ Sự hỗ trợ nhiệt tình từ cộng đồng và nơi bán sản phẩm
+
+
 ----Viết về một số thứ hay ho về cộng đồng
 + Xã hội chủ nghĩa
 + Xử lý rác thải nhựa bằng cách tái chế
