@@ -47,7 +47,7 @@ Tối hôm trước ăn quá nhiều hải sản bị đau bụng, đúng hôm b
 - Build tool xử lý các step query chọc trực tiếp vào database
 - 
 
-
+Chưa biết thì thật khó,biết rồi còn thấy khó (nghĩ) hơn
 [Quay lại trang chủ](https://phamkhactuy.github.io/tuypk.github.io/index.html)
 
 Thanks for your help!
