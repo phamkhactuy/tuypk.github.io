@@ -62,3 +62,10 @@ Tối hôm trước ăn quá nhiều hải sản bị đau bụng, đúng hôm b
 
 Thanks for your help!
 Do you know the cause of  this issue ?
+------------
+DROP DATABASE LINK DBL_APEXDEV2;
+
+CREATE DATABASE LINK DBL_APEXDEV
+ CONNECT TO INTRANET
+ IDENTIFIED BY 'intranet'
+ USING 'APEX_DEV2';
