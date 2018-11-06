@@ -37,6 +37,8 @@ Tối hôm trước ăn quá nhiều hải sản bị đau bụng, đúng hôm b
 - Như kiểu cả thế giới quay lưng lại với mình, chán thật.
 ### 17/10/2018
 - Dư âm từ việc hôm qua bạn học cùng cấp 3 mua xe 2 tỷ, thấy buồn quá. Chẳng gen ăn tức ở với bạn đâu nhưgn
+### 06/11/2018 Nay mình thấy buồn, muốn đi đâu đó hoặc uống rượu. Càng ngày cảm thấy càng cô đơn, càng lạc lõng với cuộc sống này. Mình bất tài quá, ít tiền, ít danh vọng, không được như kỳ vọng của những người thân. Mình cũng bất lực với chính bản thân mình.
+
 
 ### Nói chuyện với anh Bùi Duy Hùng 08/2018
 - Thiền: gạt bỏ những điều không cần thiết, đó có thể coi là buông bỏ
