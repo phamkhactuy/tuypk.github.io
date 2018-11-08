@@ -42,7 +42,9 @@ Tối hôm trước ăn quá nhiều hải sản bị đau bụng, đúng hôm b
 
 ### Nói chuyện với anh Bùi Duy Hùng 08/2018
 - Thiền: gạt bỏ những điều không cần thiết, đó có thể coi là buông bỏ
-- Về marketing online: 
+=> Phần này mình cũng đúng, có quá nhiều thứ thì làm sao mà thu nhận nổi. Trí óc mỗi người là có hạn, gạt bỏ sân si cũng như là Phật giáo đã dạy
+=> 
+- Về marketing online
 - Nói về facebook với quảng cáo
 
 ### Tôi đã tự động hóa các công việc nhàm chán hàng ngày như thế nào
@@ -50,6 +52,8 @@ Tối hôm trước ăn quá nhiều hải sản bị đau bụng, đúng hôm b
 - Build tool xử lý các step query chọc trực tiếp vào database
 - 
 
+### Mỗi newtab trên chorme là ảnh một gái xinh
+Lang thang trên các blog, tình cờ 
 
 
 ---
@@ -69,9 +73,9 @@ https://www.facebook.com/thaphuonghangthang/
 
 Thanks for your help!
 Do you know the cause of  this issue ?
-make it yours
-dreams come true
-
+make it yours: biến nó thành của bạn
+dreams come true: giấc mơ trở thành sự thật
+Free of change: Miễn phí
 
 ------------
 DROP DATABASE LINK DBL_APEXDEV2;
