@@ -54,7 +54,7 @@ Tối hôm trước ăn quá nhiều hải sản bị đau bụng, đúng hôm b
 
 ---
 ### Khả năng sáng tạo là vô bờ
-
+Lang thang các blog, tình cờ thấy được
 App nhắc ngày thắp hương hàng tháng vào ngày 1 và ngày rằm
 https://www.facebook.com/thaphuonghangthang/
 
@@ -69,6 +69,10 @@ https://www.facebook.com/thaphuonghangthang/
 
 Thanks for your help!
 Do you know the cause of  this issue ?
+make it yours
+dreams come true
+
+
 ------------
 DROP DATABASE LINK DBL_APEXDEV2;
 
