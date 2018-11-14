@@ -55,6 +55,8 @@ Tối hôm trước ăn quá nhiều hải sản bị đau bụng, đúng hôm b
 ### Mỗi newtab trên chorme là ảnh một gái xinh
 Lang thang trên các blog, tình cờ 
 
+### Cái máy pha cafe
+Mình có thói quen uống cafe buổi sáng nói đúng hơn là nghiện cafe, nhưng chỉ giới hạn một ngày 1 cốc mà thôi.
 
 ---
 ### Khả năng sáng tạo là vô bờ
