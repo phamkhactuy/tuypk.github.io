@@ -58,6 +58,10 @@ Lang thang trên các blog, tình cờ
 ### Cái máy pha cafe
 Mình có thói quen uống cafe buổi sáng nói đúng hơn là nghiện cafe, nhưng chỉ giới hạn một ngày 1 cốc mà thôi.
 
+
+### Kích thích KH xác minh số điện thoại cho thuê bao
+Sử dụng chương trình khuyến mại: nhắn tin dự đoán tỉ số bàn thắng để nhận vé xem Bóng đá
+
 ---
 ### Khả năng sáng tạo là vô bờ
 Lang thang các blog, tình cờ thấy được
