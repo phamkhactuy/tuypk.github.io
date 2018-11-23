@@ -33,11 +33,6 @@ https://www.vinhphuc.gov.vn/ct/cms/t...spx?ItemID=503
 Tối hôm trước ăn quá nhiều hải sản bị đau bụng, đúng hôm bão. Hôm sau có Lăng và sếp Phúc rất quan tâm.
 
 - Cát Bà
-### 15/10/2018
-- Như kiểu cả thế giới quay lưng lại với mình, chán thật.
-### 17/10/2018
-- Dư âm từ việc hôm qua bạn học cùng cấp 3 mua xe 2 tỷ, thấy buồn quá. Chẳng gen ăn tức ở với bạn đâu nhưgn
-### 06/11/2018 Nay mình thấy buồn, muốn đi đâu đó hoặc uống rượu. Càng ngày cảm thấy càng cô đơn, càng lạc lõng với cuộc sống này. Mình bất tài quá, ít tiền, ít danh vọng, không được như kỳ vọng của những người thân. Mình cũng bất lực với chính bản thân mình.
 
 
 ### Nói chuyện với anh Bùi Duy Hùng 08/2018
@@ -52,11 +47,18 @@ Tối hôm trước ăn quá nhiều hải sản bị đau bụng, đúng hôm b
 - Build tool xử lý các step query chọc trực tiếp vào database
 - 
 
-### Mỗi newtab trên chorme là ảnh một gái xinh
-Lang thang trên các blog, tình cờ 
 
 ### Cái máy pha cafe
-Mình có thói quen uống cafe buổi sáng nói đúng hơn là nghiện cafe, nhưng chỉ giới hạn một ngày 1 cốc mà thôi.
+Mình có thói quen uống cafe buổi sáng nói đúng hơn là nghiện cafe, nhưng chỉ giới hạn một ngày 1 cốc mà thôi. Theo nghiên cứu thì bảo là không nên uống quá nhiều, ngày 2-3 cốc là đủ.
+Mình cũng không nhớ rõ là biết đến cafe từ khi nào. Có lẽ là cafe hòa tan đầu tiên. Tết nhà được biếu cafe hòa tan, trẻ con tụi mình hay rốc ra liếm từng tí một, sao hồi đó cảm thấy thật là ngon. Dần về sau thì biết đến cafe pha phin mà được anh/chị họ ở Miền Nam gửi về làm quà. Sau đó là biết cà phê hòa tan pha với nước nóng để uống rất là tiện, không như cafe phin muốn pha phải lách cách đủ thứ. Nhưng lách cách vậy khi uống mới cảm nhận được vị của cafe.
+Khi đi làm mình mới biết có nhiều loại cafe đến vậy. Khi còn ở công ty C cũng tiếp xúc với nhiều anh thích uống cafe, khi còn ở Giang Văn Minh thì anh em hay gọi cafe ở quán bên cạnh để uống. Nhưng mà đắt thật, không kinh tế chút nào. Có anh Yên sau nghỉ việc tại C trước mình có giới thiệu họ có bán cafe pha sẵn để trong trai, bảo quản trong tủ lạnh, khi nào muốn uống thì đổ ra cốc, kể cũng tiện nhưng mình không thích mùi vị của loại cafe này. Một thời gian anh em toàn uống cafe hòa tan, anh em trong phòng hay uống thì góp tiền mua hộp G7, hay uống G7 vì cảm giác G7 cafe đậm hơn, không cảm thấy chua chua như Nescafe. Ban đầu thì hộp nhỏ tầm 20 gói, sau hết nhanh quá thì mua loại túi to tầm 4-50 gói. Chán cafe hòa tan này thì anh Lực đề xuất anh em uống cafe phin tự pha, đông người uống mà tự pha phin thì chờ lâu lắm nên anh em góp tiền mua hẳn máy pha cafe, máy này cần đổ bột cafe mua về sau đó đổ nước vào chỗ đựng nước. Máy nó sẽ tự đun, tự lọc đủ cho anh em dùng. Máy kiểu này cũng khá tốn cafe. Được thời gian cũng lâu anh em cũng chán, vứt xó máy và trở về cafe hòa tan. Thỉnh thoảng nhớ vị cafe mà gặp cafe dạo thì mua luôn. Mình thấy cafe dạo cũng dùng cafe pha sẵn rồi, mình mua thì nó chế thêm đá và sữa thôi. Nhưng kể ra cũng thấy ngon ngon, rẻ hơn ngồi quán uống.
+Sau này khi chuyển về tòa TVAD số 8 Phạm Hùng thì anh em ít uống hơn, toàn tự phát uống cafe hòa tan mà thôi. Nhưng ở đây thì lại có cafe oto, mình với thằng bạn trưa hay xuống ngồi uống và chém gió. Thỉnh thoảng anh em lại gọi cafe lên phòng uống. Nói chung cũng nhiều kỉ niệm với cafe oto ở số 8 Phạm Hùng. :D. Còn lúc chuyển về Ngọc Khánh thì chả có vẹo gì, toàn uống cafe hòa tan, thỉnh thoảng trưa ra quán ngồi. Từ đây có 1 buổi thứ 2 thì 2 thằng hay ra cafe Bách ở cổng đài uống. Anh em hay trêu là Cafe khởi nghiệp. Việc này vẫn duy trì tới khi mình nghỉ việc tại C để sang D làm, L với H lại ra gần chỗ mình vào trưa thứ 2 để tiếp tục Cafe khởi nghiệp.
+
+
+
+---Lớn lên biết thêm 1 số loại cafe
+---Mình uống cafe sữa hay bị đầy bụng nên thường đi uống quán là gọi đen đá.
+---Máy pha cafe tại công ty D: Máy cafe này là máy cafe tự động, nhét tiền vào là nó có thể nhè luôn cốc cafe cho mình.
 
 
 ### Kích thích KH xác minh số điện thoại cho thuê bao
@@ -71,8 +73,6 @@ https://www.facebook.com/thaphuonghangthang/
 
 ----Viết về một số thứ hay ho về cộng đồng
 + Xã hội chủ nghĩa
-+ Xử lý rác thải nhựa bằng cách tái chế
-+ Vi sinh vật phân hủy nhựa nhanh chóng
 ----Suy nghĩ về người giàu người nghèo
 
 [Quay lại trang chủ](https://phamkhactuy.github.io/tuypk.github.io/index.html)
