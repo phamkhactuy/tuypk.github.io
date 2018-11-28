@@ -60,6 +60,8 @@ App nhắc ngày thắp hương hàng tháng vào ngày 1 và ngày rằm
 https://www.facebook.com/thaphuonghangthang/
 
 
+### Nhà mặt đất hay chung cư
+### Xe số hay xe ga
 ----Viết về một số thứ hay ho về cộng đồng
 + Xã hội chủ nghĩa
 ----Suy nghĩ về người giàu người nghèo
