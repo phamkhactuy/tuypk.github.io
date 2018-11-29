@@ -61,7 +61,22 @@ https://www.facebook.com/thaphuonghangthang/
 
 
 ### Nhà mặt đất hay chung cư
-### Xe số hay xe ga
+### Oracle thông báo về các Procedure, PACKAGE được sửa trong ngày
+
+SELECT owner,
+         object_name,
+         object_type,
+         last_ddl_time,
+         status
+    FROM dba_objects
+   WHERE     object_name IN
+                (SELECT A.REFERENCED_NAME
+                   FROM DBA_DEPENDENCIES a
+                  WHERE object_type IN ('PROCEDURE', 'PACKAGE BODY', 'PACKAGE'))
+         AND last_ddl_time >= TRUNC(SYSDATE - 1)
+ORDER BY last_ddl_time DESC; 
+
+
 ----Viết về một số thứ hay ho về cộng đồng
 + Xã hội chủ nghĩa
 ----Suy nghĩ về người giàu người nghèo
