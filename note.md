@@ -77,6 +77,17 @@ SELECT owner,
 ORDER BY last_ddl_time DESC; 
 
 
+### Oracle chuyển hàng thành cột dữ liệu
+Trong việc làm báo cáo ta thường xuyên gặp các tình huống thống kê từ raw data phải chuyển dữ liệu từ hàng sang cột. Ta có thể sử dụng Excel để xử lý nhưng từ Oracle 10i thì có cho o
+
+SELECT *
+ FROM vn_temp_test_pivote PIVOT (SUM(C_volume)
+                  FOR C_MONTH
+                  IN ('201801' AS p_201801,
+                      '201802' AS p_201802,
+                      '201803' AS p_201803));
+
+
 ----Viết về một số thứ hay ho về cộng đồng
 + Xã hội chủ nghĩa
 ----Suy nghĩ về người giàu người nghèo
