@@ -95,6 +95,7 @@ Do you know the cause of  this issue ?
 make it yours: biến nó thành của bạn
 dreams come true: giấc mơ trở thành sự thật
 Free of change: Miễn phí
+That sounds good: Nghe có vẻ hay
 
 ------------
 DROP DATABASE LINK DBL_APEXDEV2;
