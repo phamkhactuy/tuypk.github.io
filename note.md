@@ -79,67 +79,7 @@ SELECT owner,
          AND last_ddl_time >= TRUNC(SYSDATE - 1)
 ORDER BY last_ddl_time DESC; 
 
-###Oracle Window: cách tạo mới DATABASE, SCHEMA, TABLESPACE, TABLE
-- Tạo mới một Database mới
-Do server test đã có 1 database backup là APEX, để học mình sẽ tạo một database mới để không ảnh hưởng đến database backup APEX này.
-Hiện server của hệ điều hành là Windown, phiên bản Oracle là 11g.
-Ta chạy file dbca.bat nằm trong thư mục cài đặt Oracle ban đầu của ta:
-C:\app\oracle\product\11.2.0\dbhome_1\BIN
-Phần tạo này giao diện trực quan nên ta nhìn vào có thể tự chọn được. Ta chỉ cần lưu ý khi tại bước 7 cần tích chọn vào Enable Archiving để sau này có thể sử dụng RMAN để backup hoặc restore GAP file.
-- Tạo mới một schema để thao tác
-Với ORACLE thì 1 DATABASE có thể tạo được nhiều SCHEMA, SCHEMA được quản lý bởi USER. Ta sẽ tạo một SCHEMA để thao tác trên đó. Một USER có thể quản lý nhiều SCHEMA.
-Ta có thể dụng SQL Developer đăng nhập với quyền SYSDBA với user SYS hoặc SYSDBA để tạo mới một SCHEMA.
-Create user TESTSQL01 identified by 123456;
-Phân quyền lớn nhất cho SCHEMA này(test thì để thế này, thật thì tùy theo từng SCHEMA).
-grant dba to TESTSQL01;
-- Tạo mới một TABLESPACE mới của SCHEMA
-Như ta đã biết, một TABLE sẽ được lưu trong một TABLESPACE nhất định. Mỗi TABLESPACE có thể có một hoặc nhiều TABLESPACE.
-Để kiểm tra dung lượng TABLESPACE và danh sách các TABLESPACE của SCHEMA ta dùng câu lệnh:
-select b.tablespace_name,
-b.MEGS,
-(b.MEGS - a.MEGS_FREE) as ALLOCATED_MEGS,
-round(((b.MEGS - a.MEGS_FREE) / b.MEGS) * 100) PCT_USED,
-a.MEGS_FREE, EXTENSIBLE_MEGS
-from (select tablespace_name, round(sum(bytes / 1024 / 1024)) MEGS_FREE
-from dba_free_space
-group by tablespace_name) a,
-(select tablespace_name, round(sum((bytes / 1024 / 1024)),0) MEGS,
-round(
-sum(
-case when autoextensible = 'YES' then (maxbytes - bytes)/1024/1024
-else 0 
-end 
-),0) EXTENSIBLE_MEGS
-from dba_data_files 
-group by tablespace_name 
-) b
-where a.tablespace_name(+) = b.tablespace_name
-order by 4 desc;
-Ta sẽ tạo mới một TABLESPACE bằng câu lệnh:
-create tablespace TESTTABLESPACE
-  logging datafile 'D:/app/oracle/oradata/PKTUY01/testtbsp01.dbf'
-  size 32m
-  autoextend on
-  next 32m maxsize 50m
-  extent management local;
-Ta có thể sửa để nới thêm dung lượng cho TABLESPACE bằng câu lệnh:
-ALTER DATABASE
-DATAFILE 'D:/app/oracle/oradata/PKTUY01/testtbsp01.dbf'
-RESIZE 60M;
-Hoặc nếu ổ đĩa hết dung lượng ta có thể thêm datafile bằng câu lệnh:
-ALTER TABLESPACE TESTTABLESPACE
-ADD DATAFILE ‘E:/PKTUY01/testtbsp02.dbf’
-SIZE 200M;
-- Tạo mới một TABLE trên TABLESPACE mới tạo này:
-CREATE TABLE GIAHAN(
-	 SMC      NVARCHAR2(100),
-	 datcre        DATE
-	 )
-TABLESPACE TESTTABLESPACE
-STORAGE ( INITIAL 50K);
-Ta cần có một chiến lược hợp lý để tiến hành lưu trữ TABLESPACE sao cho hợp lý. Làm sao dung lượng trống của ổ đĩa phù họp, các TABLESPACE không bị đầy tránh gây ảnh hưởng đến vận hành hệ thống.
-
-
+###(Đã viết)Oracle Window: cách tạo mới DATABASE, SCHEMA, TABLESPACE, TABLE
 ###Oracle Đề phòng rủi ro với việc lưu trữ oracle tại các khu vực địa lý khác nhau
 ###Oracle import data trực tiếp vào table
 ###Oracle import data bằng file csv
@@ -165,3 +105,5 @@ CREATE DATABASE LINK DBL_APEXDEV
  CONNECT TO INTRANET
  IDENTIFIED BY 'intranet'
  USING 'APEX_DEV2';
+### 2018 12 03
+Last weeken, My family return home towl.
