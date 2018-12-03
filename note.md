@@ -79,10 +79,16 @@ SELECT owner,
          AND last_ddl_time >= TRUNC(SYSDATE - 1)
 ORDER BY last_ddl_time DESC; 
 
+###Oracle Vọc Oracle DBA
+- Tạo mới một Database mới
+Do server test đã có 1 database backup là APEX, để học mình sẽ tạo một database mới để không ảnh hưởng đến database backup APEX này.
 
+- Tạo mới một schema để thao tác
+- Tạo mới một tablespace mới của schema
 
-
-
+###Oracle Đề phòng rủi ro với việc lưu trữ oracle tại các khu vực địa lý khác nhau
+###Oracle import data trực tiếp vào table
+###Oracle import data bằng file csv
 
 ----Viết về một số thứ hay ho về cộng đồng
 + Xã hội chủ nghĩa
@@ -96,6 +102,7 @@ make it yours: biến nó thành của bạn
 dreams come true: giấc mơ trở thành sự thật
 Free of change: Miễn phí
 That sounds good: Nghe có vẻ hay
+You look great: Bạn trông rất tuyệt
 
 ------------
 DROP DATABASE LINK DBL_APEXDEV2;
