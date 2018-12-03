@@ -79,7 +79,7 @@ SELECT owner,
          AND last_ddl_time >= TRUNC(SYSDATE - 1)
 ORDER BY last_ddl_time DESC; 
 
-###Oracle Vọc Oracle DBA
+###Oracle Window: cách tạo mới DATABASE, SCHEMA, TABLESPACE, TABLE
 - Tạo mới một Database mới
 Do server test đã có 1 database backup là APEX, để học mình sẽ tạo một database mới để không ảnh hưởng đến database backup APEX này.
 Hiện server của hệ điều hành là Windown, phiên bản Oracle là 11g.
@@ -131,6 +131,13 @@ ALTER TABLESPACE TESTTABLESPACE
 ADD DATAFILE ‘E:/PKTUY01/testtbsp02.dbf’
 SIZE 200M;
 - Tạo mới một TABLE trên TABLESPACE mới tạo này:
+CREATE TABLE GIAHAN(
+	 SMC      NVARCHAR2(100),
+	 datcre        DATE
+	 )
+TABLESPACE TESTTABLESPACE
+STORAGE ( INITIAL 50K);
+Ta cần có một chiến lược hợp lý để tiến hành lưu trữ TABLESPACE sao cho hợp lý. Làm sao dung lượng trống của ổ đĩa phù họp, các TABLESPACE không bị đầy tránh gây ảnh hưởng đến vận hành hệ thống.
 
 
 ###Oracle Đề phòng rủi ro với việc lưu trữ oracle tại các khu vực địa lý khác nhau
