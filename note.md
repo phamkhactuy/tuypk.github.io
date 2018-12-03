@@ -82,6 +82,10 @@ ORDER BY last_ddl_time DESC;
 ###Oracle Vọc Oracle DBA
 - Tạo mới một Database mới
 Do server test đã có 1 database backup là APEX, để học mình sẽ tạo một database mới để không ảnh hưởng đến database backup APEX này.
+Hiện server của hệ điều hành là Windown, phiên bản Oracle là 11g.
+Ta chạy file dbca.bat nằm trong thư mục cài đặt Oracle ban đầu của ta:
+C:\app\oracle\product\11.2.0\dbhome_1\BIN
+Phần tạo này giao diện trực quan nên ta nhìn vào có thể tự chọn được. 
 
 - Tạo mới một schema để thao tác
 - Tạo mới một tablespace mới của schema
