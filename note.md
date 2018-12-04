@@ -61,7 +61,6 @@ https://www.facebook.com/thaphuonghangthang/
 
 
 ### Nhà mặt đất hay chung cư
-### Cách import vào table của Oracle thông qua file CSV
 ###(Đã viết)Oracle thông báo về trạng thái các TABLESPACE
 ###(Đã viết)Oracle chuyển hàng thành cột dữ liệu
 ###Oracle thông báo về các Procedure, PACKAGE được sửa trong ngày
@@ -83,7 +82,12 @@ ORDER BY last_ddl_time DESC;
 ###Oracle Đề phòng rủi ro với việc lưu trữ oracle tại các khu vực địa lý khác nhau
 ###Oracle import data trực tiếp vào table
 ###Oracle import data bằng file csv
+###Cách import vào table của Oracle thông qua file CSV
+
 ###Chiến lược backup DATABASE ORACLE
+
+###KAGGLE: học tập và áp dụng kiến thức vào các Project về DATA SCIENTIST, AI, MACHINE LEARNER
+Kaggle là nơi để những người nghiên cứu về data science có thể chia sẻ kiến thức, dữ liệu và những người mới nghiên cứu về machine learning có thể học tập, tìm kiếm tài liệu, tham gia các cuộc thi và áp dụng các kiến thức này vào các project thực tế.
 
 ----Viết về một số thứ hay ho về cộng đồng
 + Xã hội chủ nghĩa
