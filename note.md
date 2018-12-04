@@ -83,6 +83,7 @@ ORDER BY last_ddl_time DESC;
 ###Oracle Đề phòng rủi ro với việc lưu trữ oracle tại các khu vực địa lý khác nhau
 ###Oracle import data trực tiếp vào table
 ###Oracle import data bằng file csv
+###Chiến lược backup DATABASE ORACLE
 
 ----Viết về một số thứ hay ho về cộng đồng
 + Xã hội chủ nghĩa
