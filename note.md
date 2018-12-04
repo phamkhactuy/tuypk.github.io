@@ -63,6 +63,8 @@ https://www.facebook.com/thaphuonghangthang/
 ### Nhà mặt đất hay chung cư
 ###(Đã viết)Oracle thông báo về trạng thái các TABLESPACE
 ###(Đã viết)Oracle chuyển hàng thành cột dữ liệu
+###(Đã viết)Oracle Cách import vào table của Oracle thông qua file CSV
+###(Đã viết)Oracle Window: cách tạo mới DATABASE, SCHEMA, TABLESPACE, TABLE
 ###Oracle thông báo về các Procedure, PACKAGE được sửa trong ngày
 
 SELECT owner,
@@ -78,12 +80,8 @@ SELECT owner,
          AND last_ddl_time >= TRUNC(SYSDATE - 1)
 ORDER BY last_ddl_time DESC; 
 
-###(Đã viết)Oracle Window: cách tạo mới DATABASE, SCHEMA, TABLESPACE, TABLE
 ###Oracle Đề phòng rủi ro với việc lưu trữ oracle tại các khu vực địa lý khác nhau
 ###Oracle import data trực tiếp vào table
-###Oracle import data bằng file csv
-###Cách import vào table của Oracle thông qua file CSV
-
 ###Chiến lược backup DATABASE ORACLE
 
 ###KAGGLE: học tập và áp dụng kiến thức vào các Project về DATA SCIENTIST, AI, MACHINE LEARNER
