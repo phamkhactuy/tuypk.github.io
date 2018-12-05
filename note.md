@@ -100,6 +100,7 @@ dreams come true: giấc mơ trở thành sự thật
 Free of change: Miễn phí
 That sounds good: Nghe có vẻ hay
 You look great: Bạn trông rất tuyệt
+Yes. At least from now.: Vâng, ít nhất là từ bây giờ
 
 ------------
 DROP DATABASE LINK DBL_APEXDEV2;
