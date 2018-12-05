@@ -65,20 +65,9 @@ https://www.facebook.com/thaphuonghangthang/
 ###(Đã viết)Oracle chuyển hàng thành cột dữ liệu
 ###(Đã viết)Oracle Cách import vào table của Oracle thông qua file CSV
 ###(Đã viết)Oracle Window: cách tạo mới DATABASE, SCHEMA, TABLESPACE, TABLE
-###Oracle thông báo về các Procedure, PACKAGE được sửa trong ngày
+###(Đã viết)Oracle thông báo về các Procedure, PACKAGE được sửa trong ngày
 
-SELECT owner,
-         object_name,
-         object_type,
-         last_ddl_time,
-         status
-    FROM dba_objects
-   WHERE     object_name IN
-                (SELECT A.REFERENCED_NAME
-                   FROM DBA_DEPENDENCIES a
-                  WHERE object_type IN ('PROCEDURE', 'PACKAGE BODY', 'PACKAGE'))
-         AND last_ddl_time >= TRUNC(SYSDATE - 1)
-ORDER BY last_ddl_time DESC; 
+
 
 ###Oracle Đề phòng rủi ro với việc lưu trữ oracle tại các khu vực địa lý khác nhau
 ###Oracle import data trực tiếp vào table
