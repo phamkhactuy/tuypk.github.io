@@ -72,6 +72,7 @@ https://www.facebook.com/thaphuonghangthang/
 ###Oracle Đề phòng rủi ro với việc lưu trữ oracle tại các khu vực địa lý khác nhau
 ###Oracle import data trực tiếp vào table
 ###Chiến lược backup DATABASE ORACLE
+###Vai trò của toán học trong phát triển AI: chưa nhận diện được chữ viết bác sĩ, số hóa tài liệu, chú thích ảnh...
 
 ###KAGGLE: học tập và áp dụng kiến thức vào các Project về DATA SCIENTIST, AI, MACHINE LEARNER
 Kaggle là nơi để những người nghiên cứu về data science có thể chia sẻ kiến thức, dữ liệu và những người mới nghiên cứu về machine learning có thể học tập, tìm kiếm tài liệu, tham gia các cuộc thi và áp dụng các kiến thức này vào các project thực tế.
