@@ -102,3 +102,5 @@ CREATE DATABASE LINK DBL_APEXDEV
  USING 'APEX_DEV2';
 ### 2018 12 03
 Last weeken, My family return home towl.
+### 20181210
+Tinh thần mình lại đi xuống rồi, buồn ngủ nhiều hơn do uống thuốc thì phải. Mệt vì nhiều chuyện, phải chăng mình kiếm tiền tốt hơn thì tốt biết bao.
