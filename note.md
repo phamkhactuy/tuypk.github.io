@@ -75,8 +75,6 @@ https://www.facebook.com/thaphuonghangthang/
 ###Vai trò của toán học trong phát triển AI: chưa nhận diện được chữ viết bác sĩ, số hóa tài liệu, chú thích ảnh...
 ###Toán học và AI
 
-###KAGGLE: học tập và áp dụng kiến thức vào các Project về DATA SCIENTIST, AI, MACHINE LEARNER
-Kaggle là nơi để những người nghiên cứu về data science có thể chia sẻ kiến thức, dữ liệu và những người mới nghiên cứu về machine learning có thể học tập, tìm kiếm tài liệu, tham gia các cuộc thi và áp dụng các kiến thức này vào các project thực tế.
 
 ----Viết về một số thứ hay ho về cộng đồng
 + Xã hội chủ nghĩa
@@ -102,5 +100,3 @@ CREATE DATABASE LINK DBL_APEXDEV
  USING 'APEX_DEV2';
 ### 2018 12 03
 Last weeken, My family return home towl.
-### 20181210
-Tinh thần mình lại đi xuống rồi, buồn ngủ nhiều hơn do uống thuốc thì phải. Mệt vì nhiều chuyện, phải chăng mình kiếm tiền tốt hơn thì tốt biết bao.
