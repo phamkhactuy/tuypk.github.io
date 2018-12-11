@@ -60,7 +60,7 @@ App nhắc ngày thắp hương hàng tháng vào ngày 1 và ngày rằm
 https://www.facebook.com/thaphuonghangthang/
 
 
-### Nhà mặt đất hay chung cư
+###(Dã viết)Nhà mặt đất hay chung cư
 ###(Đã viết)Oracle thông báo về trạng thái các TABLESPACE
 ###(Đã viết)Oracle chuyển hàng thành cột dữ liệu
 ###(Đã viết)Oracle Cách import vào table của Oracle thông qua file CSV
