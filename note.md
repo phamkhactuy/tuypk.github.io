@@ -123,6 +123,13 @@ Could you or someone from SDTV provide me the BU file for the 98 samples ?
  
 
 Except if I am wrong, we haven't received the BU file for the 98 samples of Z4v we have received. Could you please provide to us ?
+Connection between CGAWEB and SAS has not been stable recently.
+Few days ago I wrote a script to detect the lost of connection BUT CGAWEB team have to restart the VstvSASGateway manually!
+
+For automation recovery, I have updated the monitoring script to auto restart the VstvSASGateway whenever SAS LOST connection !
+
+Should you have got the SAS lost connection frequently, CGAWEB and CAS need to communicate for troubleshooting!
+
 
 ------------
 DROP DATABASE LINK DBL_APEXDEV2;
