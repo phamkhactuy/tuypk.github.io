@@ -101,3 +101,6 @@ CREATE DATABASE LINK DBL_APEXDEV
 ### 2018 12 03
 Last weeken, My family return home towl.
 --------------
+Ngồi mé bọn nó như đi giữa rừng gươm
+Tuy không bị thương nhưng tâm thường sợ hãi😂
+ Cố tỏ ra mạnh mẽ nhưng bên trong là sợ hãi
