@@ -103,6 +103,27 @@ Do you want to add for WS same as NW?
 Or we ask commercial to remind WS do not take this action for subscriber.
 Thanks for your information.
 
+any feedback from Ops team as we cannot integrate these equipment since we haven't received it.
+
+
+Good news that you did received the 98 units. 
+
+I’ll check with Ops team for the missing PSU S/N number and come back to you. 
+Indeed, next BU files will come with a Batch number. 
+
+ 
+I don't see the PSU S/N in your BU file. Could you please resend it with this information ?
+Also, I imagine that the coming BU will be delivered with a batch number (it is not the case here, but we can accomodate).
+On top of that I would like to confirm that we have been delivered of the 98 sample this morning.
+
+Please find enclose the BU file for the 98 samples. 
+ 
+ 
+Could you or someone from SDTV provide me the BU file for the 98 samples ?
+ 
+
+Except if I am wrong, we haven't received the BU file for the 98 samples of Z4v we have received. Could you please provide to us ?
+
 ------------
 DROP DATABASE LINK DBL_APEXDEV2;
 
