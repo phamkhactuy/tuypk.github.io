@@ -93,6 +93,16 @@ Yes. At least from now.: Vâng, ít nhất là từ bây giờ
 separate  separate purpose better  directly inform 
 confirm 
 commission
+
+Yes, I confirm that for all types of commission, WS and NW are the same. Could you update also for WS?
+FYI: For CGA Accounting, we separate only WS/NW (GT network) and MN (modern network).
+
+If for administration purpose, it’s better not allow Wholesaler to renew directly, you can inform this issue to our commercial department for their further actions.
+This sub 4621655 was renewed by wholesaler 32000. This is renew for OTT Box and we didn’t have this setting for WS.
+Do you want to add for WS same as NW?
+Or we ask commercial to remind WS do not take this action for subscriber.
+Thanks for your information.
+
 ------------
 DROP DATABASE LINK DBL_APEXDEV2;
 
