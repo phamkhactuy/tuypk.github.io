@@ -48,8 +48,6 @@ Tối hôm trước ăn quá nhiều hải sản bị đau bụng, đúng hôm b
 - 
 
 
-
-
 ### Kích thích KH xác minh số điện thoại cho thuê bao
 Sử dụng chương trình khuyến mại: nhắn tin dự đoán tỉ số bàn thắng để nhận vé xem Bóng đá
 
@@ -130,6 +128,18 @@ For automation recovery, I have updated the monitoring script to auto restart th
 
 Should you have got the SAS lost connection frequently, CGAWEB and CAS need to communicate for troubleshooting!
 
+
+I am adding Cham in the loop, given she is the one managing SMS communications in K+.
+Can I get the results of the push sms campaigns of the first 2 weeks of October ? 
+I will start analyzing the results of this part in the 360 process.
+I need the extract of the blacklist for those 2 campaigns to check how the target has reacted.
+Thanks for your help !
+Please find below a summary of the different elements we covered this morning, concerning the implementation of black listing process in 360 Renewal communication.
+
+Objective reminder: within 360 process, put in place different black lists for 1st Renewal Outbound calls, 1st Renewal Autocalls, Reminder Outbound calls, Reminder Autocalls and for Push Content SMS (please find enclosed the 360 Renewal Process for more detail on the structure), in order to calculate incremental renewal rate per type of action per type of subs.
+
+For the month of October, IT team will proceed manually to the black listing of 8 lists provided by CCD team (1st Renewal Outbound calls, 1st Renewal Autocalls, Reminder Outbound calls, Reminder Autocalls and for 4 Push Content SMS lists). 
+From the end of October, we plan to work with a flexible automated tool detailed below.
 
 ------------
 DROP DATABASE LINK DBL_APEXDEV2;
