@@ -64,7 +64,7 @@ https://www.facebook.com/thaphuonghangthang/
 ###(Đã viết)Oracle Cách import vào table của Oracle thông qua file CSV
 ###(Đã viết)Oracle Window: cách tạo mới DATABASE, SCHEMA, TABLESPACE, TABLE
 ###(Đã viết)Oracle thông báo về các Procedure, PACKAGE được sửa trong ngày
-
+###(Đã viết)Trang trại nuôi gián ở Trung Quốc
 
 ###Hiểu partition, sự khác biệt giữa global index và local index
 ###Oracle Đề phòng rủi ro với việc lưu trữ oracle tại các khu vực địa lý khác nhau
@@ -73,9 +73,6 @@ https://www.facebook.com/thaphuonghangthang/
 ###Vai trò của toán học trong phát triển AI: chưa nhận diện được chữ viết bác sĩ, số hóa tài liệu, chú thích ảnh...
 ###Toán học và AI
 
-
-###Nuôi gián để làm thức ăn
-Nay lướt facebook có một anh chia sẻ một bài báo về 
 
 ###Nói chuyện với anh Hùng 14/12/2018
 
