@@ -74,6 +74,11 @@ https://www.facebook.com/thaphuonghangthang/
 ###Toán học và AI
 
 
+###Nuôi gián để làm thức ăn
+Nay lướt facebook có một anh chia sẻ một bài báo về 
+
+###Nói chuyện với anh Hùng 14/12/2018
+
 ----Viết về một số thứ hay ho về cộng đồng
 + Xã hội chủ nghĩa
 ----Suy nghĩ về người giàu người nghèo
