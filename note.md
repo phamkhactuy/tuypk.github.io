@@ -146,6 +146,12 @@ Objective reminder: within 360 process, put in place different black lists for 1
 For the month of October, IT team will proceed manually to the black listing of 8 lists provided by CCD team (1st Renewal Outbound calls, 1st Renewal Autocalls, Reminder Outbound calls, Reminder Autocalls and for 4 Push Content SMS lists). 
 From the end of October, we plan to work with a flexible automated tool detailed below.
 
+Your action seems good.
+
+Howewer, when you have an incident you need to delete the file PDW4060251_CW4_REPRISE_ARCH_POINT_DE_REPRISE.BAT in the directory E:\PRODPWCENTER\Projet\Temp
+
+I just made it.
+
 ------------
 DROP DATABASE LINK DBL_APEXDEV2;
 
@@ -156,6 +162,5 @@ CREATE DATABASE LINK DBL_APEXDEV
 ### 2018 12 03
 Last weeken, My family return home towl.
 --------------
-Ngồi mé bọn nó như đi giữa rừng gươm
-Tuy không bị thương nhưng tâm thường sợ hãi😂
- Cố tỏ ra mạnh mẽ nhưng bên trong là sợ hãi
+
+Cố tỏ ra là mình ổn nhưng sâu bên trong nước mắt là biển rộng.
