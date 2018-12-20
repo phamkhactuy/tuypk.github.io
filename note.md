@@ -73,7 +73,7 @@ https://www.facebook.com/thaphuonghangthang/
 ###Vai trò của toán học trong phát triển AI: chưa nhận diện được chữ viết bác sĩ, số hóa tài liệu, chú thích ảnh...
 ###Toán học và AI
 
-
+"Vợ đẹp hay xấu điều đó không quan trọng, cần lưu ý chính là từ sâu bên trong cô ta vẫn luôn là một... phù thuỷ!"
 ###Nói chuyện với anh Hùng 14/12/2018
 
 ----Viết về một số thứ hay ho về cộng đồng
