@@ -149,6 +149,156 @@ Howewer, when you have an incident you need to delete the file PDW4060251_CW4_RE
 
 I just made it.
 
+TỪ VỰNG PART 1
+ĐƯỢC TỔNG HỢP THEO ABC cho dễ học nhé !
+A
+Audience: khán giả
+A couple: 1 cặp, 2 ( a couple of hours, days, …)
+Amusement park: công viên giải trí
+B
+Be leaning against/on: tựa vào, dựa vào
+Be full of: đầy = be crowded with = be filled with
+Be sitting/seated: ngồi
+Be tiled: lót, lát (sàn).
+Be standing: đứng
+Be putting: đặt, để = be placing
+Be getting on = boarding: lên (tàu, xe, máy bay..)
+Be getting off = disembark: xuống (xe, máy bay, lên bờ)
+Be arranging: sắp xếp
+Be taking pictures: chụp ảnh
+Be resting = be relaxing: nghỉ ngơi, thư giãn
+Bulletin board: bảng thông báo
+backpack: ba lô
+Be lining up: xếp hàng
+Be holding = be handling: cầm, nắm
+Be paying: trả tiền
+Bookshelf = bookcase: kệ sách
+Be facing: đối mặt
+Be pulling: kéo ; be pushing: đẩy (be guiding); be dragging: kéo lê
+Be entering: bước vào; entrance: lối vào
+bench: ghế dài (công viên)
+Be watching = be looking = be gazing = be staring: nhìn
+balloon: bong bóng
+Be lying: nằm
+Be dismantled = be destroyed: phá hủy, tháo dỡ
+Be inspecting: be checking: kiểm tra
+Be pouring: đổ (nước, liquid: chất lỏng)
+bushes: bụi cây (trimming: tỉa)
+Be adjusting: điều chỉnh / be adjusted = Be positioning: điều chỉnh
+Be digging: đào
+Be watering: tưới nước
+Be drawing a map: vẽ bản đồ
+Be wearing: mặc (có sẵn trên người); be putting on: mặc (hành động)
+Be leaving: rời khỏi
+Be lifting: nâng lên
+balcony: ban công ; apartment: căn hộ
+Be riding: lái xe đạp, cưỡi ngựa
+Be mopping = be sweeping: quét
+Be operating: vận hành
+branch: nhánh (cây), chi nhánh (ngân hàng, công ty…)
+Bottle (of water): chai (nước)
+be feeding: cho ăn
+Be sipping: nhấm nháp từng ngụm
+Business card = name card: danh thiếp
+Be folding: gập lại
+Be pointing: chỉ (dùng tay) into the distance (chỉ về phía xa)
+Blind = curtain: màn che cửa
+Be approaching: tiếp cận, đến gần
+banquet: yến tiệc; reception: tiệc chiêu đãi
+Be shaking hands: bắt tay
+Be resting = be relaxing: thư giãn, nghỉ ngơi
+be moving: di chuyển 124.Board: bảng
+Be carrying: mang ; be addressing = be presenting = be talking to.
+be casting shadow: chiếu bóng (cây)
+basement: tầng hầm
+C
+Customer = client = khách hàng
+Ceiling (trần nhà) >< floor: sàn nhà
+counter: quầy equipment: dụng cụ
+cloud: mây; sky: bầu trời; clear: quang đãng
+candle: đèn cầy
+cable: cáp
+Construction site: công trường; construction materials: vật liệu xây dựng
+container: xe con-ten-nơ ; vật chứa (bình, chai, hũ, lọ…)
+carpet: thảm lót sàn (to)
+
+#D
+document: tài liệu = papers
+#E
+Escalator: thang cuộn
+#F
+file: tài liệu
+field: sân (bóng)
+#G
+Ground: mặt đất
+gather: tụ tập
+gallery: triển lãm ; exhibition
+(protective) glasses: kính (bảo hộ)
+#H
+Hallway = corridor: hành lang
+Hang – hung - hung: treo
+hammer: búa
+#L
+Light: đèn
+Lift = elevator: thang máy
+Luggage = baggage: hành lý
+ladder: cây thang
+Lawn = grass: cỏ
+leash: dây xích chó
+Lobby = hallway = corridor: hành lang
+landscape: phong cảnh
+#M
+machine: máy
+musician: nhạc sĩ ; (musical) instrument: nhạc cụ
+mask: mặt nạ
+measure: đo đạc
+microphone: mi-cro; on the stage: trên sân khấu; studio: phòng thu
+mirror: gương
+microscope: kính hiển vi
+#O
+outdoors: bên ngoài >< indoors: bên trong
+Office supplies: văn phòng phẩm
+#P
+Patron = frequent customer: khách hàng quen
+Pot: cái chậu; potted plant: cây cảnh trong chậu
+plaza: shopping mall: trung tâm mua sắm
+parasol: cây dù lớn (quán café, trên bãi biển); umbrella: dù (mang đi)
+picnic: dã ngoại
+Piano ; guitar
+pipe: ống
+#W
+Wall: bức tường
+Wire: dây thép => wireless: không dây (Wi-fi)
+Woods = forest: rừng ; mountain: núi (climb)
+#T
+tourist: du khách
+Tyre = tire: vỏ xe
+turn on >< turn off: tắt >< mở
+Turn up >< turn down: tăng >< giảm (âm lượng: volume)
+traffic: giao thông
+tent: cái lều (erect: dựng lên)
+telescope: kính thiên văn
+tie: cà –vạt
+#R
+Railing: tay vịn, rào
+roof: mái nhà
+rug: tấm thảm (nhỏ)
+#S
+Seat: chỗ ngồi
+Stairs: thang bộ = steps
+Shade = shadow: bóng râm
+Surround: bao quanh
+Shrub = shrubbery: bụi c
+Suitcase: va li
+statue: bức tượng
+sofa: ghế so-fa; chair: ghế có lưng dựa; stool: ghế đẩu (không có dựa
+Side by side: bên nhau
+stadium: sân vận động
+#U
+Unoccupied: còn trống >< occupied: full
+#I
+item: đồ vật = object ; món hàng = goods
+install: lắp đặt, cài đặt
 ------------
 DROP DATABASE LINK DBL_APEXDEV2;
 
