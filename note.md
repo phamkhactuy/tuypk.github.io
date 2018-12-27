@@ -65,6 +65,7 @@ https://www.facebook.com/thaphuonghangthang/
 ###(Đã viết)Oracle Window: cách tạo mới DATABASE, SCHEMA, TABLESPACE, TABLE
 ###(Đã viết)Oracle thông báo về các Procedure, PACKAGE được sửa trong ngày
 ###(Đã viết)Trang trại nuôi gián ở Trung Quốc
+###(Đã viết)Có nhiều người giàu hơn mình thật
 
 ###Hiểu partition, sự khác biệt giữa global index và local index
 ###Oracle Đề phòng rủi ro với việc lưu trữ oracle tại các khu vực địa lý khác nhau
@@ -73,7 +74,9 @@ https://www.facebook.com/thaphuonghangthang/
 ###Vai trò của toán học trong phát triển AI: chưa nhận diện được chữ viết bác sĩ, số hóa tài liệu, chú thích ảnh...
 ###Toán học và AI
 
-"Vợ đẹp hay xấu điều đó không quan trọng, cần lưu ý chính là từ sâu bên trong cô ta vẫn luôn là một... phù thuỷ!"
+
+
+
 ###Nói chuyện với anh Hùng 14/12/2018
 
 ----Viết về một số thứ hay ho về cộng đồng
