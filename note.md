@@ -74,7 +74,9 @@ https://www.facebook.com/thaphuonghangthang/
 ###Vai trò của toán học trong phát triển AI: chưa nhận diện được chữ viết bác sĩ, số hóa tài liệu, chú thích ảnh...
 ###Toán học và AI
 
-
+Cuộc đời như bị hấp diêm
+Chống Cự ngả n ghiêng
+Chi bằng nằm im mà tận hưởng
 
 
 ###Nói chuyện với anh Hùng 14/12/2018
