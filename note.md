@@ -80,7 +80,7 @@ https://www.facebook.com/thaphuonghangthang/
 
 ----Viết về một số thứ hay ho về cộng đồng
 + Xã hội chủ nghĩa
-----Suy nghĩ về người giàu người nghèo
+
 
 [Quay lại trang chủ](https://phamkhactuy.github.io/tuypk.github.io/index.html)
 
