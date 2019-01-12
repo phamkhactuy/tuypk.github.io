@@ -66,6 +66,8 @@ https://www.facebook.com/thaphuonghangthang/
 ###(Đã viết)Oracle thông báo về các Procedure, PACKAGE được sửa trong ngày
 ###(Đã viết)Trang trại nuôi gián ở Trung Quốc
 ###(Đã viết)Có nhiều người giàu hơn mình thật
+###(Đã viết)Xu thế ngành công nghệ thông tin năm 2019
+
 
 ###Hiểu partition, sự khác biệt giữa global index và local index
 ###Oracle Đề phòng rủi ro với việc lưu trữ oracle tại các khu vực địa lý khác nhau
