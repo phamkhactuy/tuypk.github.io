@@ -1,13 +1,12 @@
 [Quay lại trang chủ](https://phamkhactuy.github.io/tuypk.github.io/index.html)
 
-# Nước sông Tô Lịch quá ô nhiễm, giải pháp nào cho vấn đề này nhỉ?
-
 # Đi tàu hỏa lại tháng 5/2018: vệ sinh được cải thiện, còn tàu thì vẫn cũ như vậy.
 
 # Suy nghĩ về việc kết nạp Đảng và mong muốn trở thành Đảng viên hiện nay
 
 
-### Ứng dụng K-MEAN: Phân lớp đối tượng khách hàng theo: độ tuổi..., thời gian gia hạn, thời gian lắp đặt...
+### Ứng dụng K-MEAN trong kinh doanh
+Phân lớp đối tượng khách hàng theo: độ tuổi..., thời gian gia hạn, thời gian lắp đặt...
 
 ### Viết về các hệ thống đã được trải nghiệm
 - Icab của VTVCab
@@ -42,7 +41,7 @@ Tối hôm trước ăn quá nhiều hải sản bị đau bụng, đúng hôm b
 - Về marketing online
 - Nói về facebook với quảng cáo
 
-### Tôi đã tự động hóa các công việc nhàm chán hàng ngày như thế nào
+### Tự động hóa các công việc nhàm chán hàng ngày như thế nào
 - Build birt-report để xuất các file excel-pdf cho kế toán
 - Build tool xử lý các step query chọc trực tiếp vào database
 - 
@@ -67,14 +66,13 @@ https://www.facebook.com/thaphuonghangthang/
 ###(Đã viết)Trang trại nuôi gián ở Trung Quốc
 ###(Đã viết)Có nhiều người giàu hơn mình thật
 ###(Đã viết)Xu thế ngành công nghệ thông tin năm 2019
-
+###(Đã viết)Toán học và trí tuệ nhân tạo (AI)
 
 ###Hiểu partition, sự khác biệt giữa global index và local index
 ###Oracle Đề phòng rủi ro với việc lưu trữ oracle tại các khu vực địa lý khác nhau
 ###Oracle import data trực tiếp vào table
 ###Chiến lược backup DATABASE ORACLE
 ###Vai trò của toán học trong phát triển AI: chưa nhận diện được chữ viết bác sĩ, số hóa tài liệu, chú thích ảnh...
-###Toán học và AI
 
 
 
