@@ -75,7 +75,7 @@ https://www.facebook.com/thaphuonghangthang/
 ###Vai trò của toán học trong phát triển AI: chưa nhận diện được chữ viết bác sĩ, số hóa tài liệu, chú thích ảnh...
 
 
-
+Chúng ta đều bị tổn thương, theo cách này hay cách khác. Nhưng điều tốt nhất nên làm là phải tiếp tục sống như không có chuyện gì xảy ra. 
 ###Nói chuyện với anh Hùng 14/12/2018
 
 ----Viết về một số thứ hay ho về cộng đồng
